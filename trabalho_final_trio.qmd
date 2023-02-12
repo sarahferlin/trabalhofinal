@@ -1,0 +1,33 @@
+---
+title: "Trabalho Final - Curso de Verão IME"
+author: "Ana Martinelli, Jéssica Corsso , Sarah Ferlin"
+format: html
+editor: visual
+message: false
+date: today
+lang: pt
+---
+
+```{r}
+#criar um projeto
+usethis::create_project("~/Desktop/Relatorios_reprodutiveis/trabalhofinal")
+
+#transformar o projeto em repositório
+usethis::use_git()
+
+#adicionar o repositório no Github
+usethis::use_github()
+```
+
+
+# Relatório técnico semestral do Programa de Monitoramento da Atividade Marinha e Estuarina do Estado de São Paulo PMAP-SP
+
+## Junho - Dezembro 2022
+
+### Introdução
+
+O PMAP tem como objetivo realizar, de forma integrada e sistemática, o monitoramento do desembarque pesqueiro e a caracterização socioeconômica e estrutural da pesca comercial nos municípios da área abrangida pelo projeto onde as respectivas localidades pesqueiras sofrem interferência das atividades de exploração e produção de petróleo e gás. Com esta abordagem será possível obter informações adequadas e suficientes para se diagnosticar, qualificar e quantificar os impactos decorrentes das interferências entre as atividades de exploração e produção e a atividade pesqueira, tanto para o cenário atual quanto para cenários futuros, considerando eventuais mudanças de padrões de desenvolvimento.
+
+<center>[![](http://www.propesq.pesca.sp.gov.br/v2.20.10/arquivos/pagina/1527885496_logo_min.png)](http://www.propesq.pesca.sp.gov.br/)</center>
+
+<br>
