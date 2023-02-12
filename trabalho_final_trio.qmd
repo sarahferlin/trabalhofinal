@@ -10,15 +10,14 @@ lang: pt
 
 ```{r}
 #criar um projeto
-usethis::create_project("~/Desktop/Relatorios_reprodutiveis/trabalhofinal")
+#usethis::create_project("~/Desktop/Relatorios_reprodutiveis/trabalhofinal")
 
 #transformar o projeto em repositório
-usethis::use_git()
+#usethis::use_git()
 
 #adicionar o repositório no Github
-usethis::use_github()
+#usethis::use_github()
 ```
-
 
 # Relatório técnico semestral do Programa de Monitoramento da Atividade Marinha e Estuarina do Estado de São Paulo PMAP-SP
 
