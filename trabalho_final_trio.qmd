@@ -1,10 +1,11 @@
 ---
 title: "Trabalho Final - Curso de Verão IME"
-author: "Ana Martinelli, Jéssica Corsso , Sarah Ferlin"
+author: "Ana Martinelli, Jessica Corsso , Sarah Ferlin"
 format: html
 editor: visual
 message: false
 date: today
+bibliography: bibliografiajessica.bib
 lang: pt
 ---
 
@@ -17,16 +18,87 @@ lang: pt
 
 #adicionar o repositório no Github
 #usethis::use_github()
+
+periodorelatorio <- paste0("Julho a Dezembro de 2022") # escreva aqui o período dos dados do relatório
 ```
 
 # Relatório técnico semestral do Programa de Monitoramento da Atividade Marinha e Estuarina do Estado de São Paulo PMAP-SP
 
-## Junho - Dezembro 2022
+## `r periodorelatorio`
 
 ### Introdução
 
-O PMAP tem como objetivo realizar, de forma integrada e sistemática, o monitoramento do desembarque pesqueiro e a caracterização socioeconômica e estrutural da pesca comercial nos municípios da área abrangida pelo projeto onde as respectivas localidades pesqueiras sofrem interferência das atividades de exploração e produção de petróleo e gás. Com esta abordagem será possível obter informações adequadas e suficientes para se diagnosticar, qualificar e quantificar os impactos decorrentes das interferências entre as atividades de exploração e produção e a atividade pesqueira, tanto para o cenário atual quanto para cenários futuros, considerando eventuais mudanças de padrões de desenvolvimento.
+O Projeto de Monitoramento da Atividade Pesqueira do Estado de São Paulo (PMAP-SP) tem como objetivo realizar, de forma integrada e sistemática, o monitoramento do desembarque pesqueiro e a caracterização socioeconômica e estrutural da pesca comercial nos municípios da área abrangida pelo projeto onde as respectivas localidades pesqueiras sofrem interferência das atividades de exploração e produção de petróleo e gás. Com esta abordagem será possível obter informações adequadas e suficientes para se diagnosticar, qualificar e quantificar os impactos decorrentes das interferências entre as atividades de exploração e produção e a atividade pesqueira, tanto para o cenário atual quanto para cenários futuros, considerando eventuais mudanças de padrões de desenvolvimento.
 
 <center>[![](http://www.propesq.pesca.sp.gov.br/v2.20.10/arquivos/pagina/1527885496_logo_min.png)](http://www.propesq.pesca.sp.gov.br/)</center>
 
 <br>
+
+A seguir são apresentados a metodologia e os resultados do monitoramento no período de `r periodorelatorio`. 
+
+### Metodologia
+#### Coleta dos dados pesqueiros
+
+``` {r}
+# Calcular o número de municípios monitorados 
+nmunicipios <- 
+```
+No período deste relatório foram monitorados um total de `r nmunicipios` municípios em relação a sua atividade pesqueira. Os municípios foram divididos entre Litoral Norte, Litoral Centro e Litoral Sul.
+
+Os dados pesqueiros são obtidos por método censitário através de entrevistas com pescadores, realizadas por Agentes de Campo no momento da operação de descarga de pescado [@FAO1999; @Avila-da-Silva2007]. Trata-se de um monitoramento participativo, uma vez que os pescadores e mestres de embarcações fornecem as informações de forma voluntária mediante uma declaração de ética e uso de dados do Instituto de Pesca. Os Agentes de Campo, funcionários do projeto, são recrutados dentro das comunidades pesqueiras em que atuam. 
+
+Na entrevista são anotadas, por viagem ou saída de pesca, dados de captura descarregada por categoria de pescado, petrecho de pesca utilizado e esforço pesqueiro empregado, e informações sobre o período e áreas onde foram realizadas as operações de pesca. Sempre que possível, também são registrados os preços de primeira comercialização, ou preço pago ao produtor, por categoria de pescado.
+
+O termo “categoria de pescado” é utilizado ao invés de “espécie” pois, nas informações fornecidas pelos pescadores, a indicação do tipo de pescado capturado nem sempre aponta com exatidão uma espécie, no sentido biológico. Muitas vezes o nome comum, aqui chamado de categoria de pescado, refere-se a um gênero, a uma família ou até a um nível taxonômico mais amplo. 
+
+Todos os dados obtidos nas entrevistas são registrados no aplicativo ProPesqMOB, seguindo as orientações de preenchimento definidas por protocolo. Uma vez inseridos no ProPesqMOB, os dados são enviados pela internet para o Sistema de Informações Pesqueiras ProPesqWEB, e ficam disponíveis para as etapas de validação, depuração, armazenamento e disponibilização.
+
+#### Armazenamento, Tratamento e Disponibilização dos dados
+
+O tratamento das informações obtidas em campo se dá a partir da visita semanal dos Monitores de Campo que percorreram sua área de trabalho para acompanhar a atuação dos Agentes de Campo, promover sua capacitação continuada e posterior validação das informações a serem inseridas no ProPesqWEB.
+
+A depuração dos dados é efetuada pela Analista de Dados, que analisa o conjunto de informações validadas através de técnicas de análise exploratória buscando identificar valores extremos ou fora dos padrões esperados para um determinado período, pescaria ou localidade.
+
+Apenas após esta sequência de verificações, os dados são empregados para a realização de estudos e disponibilizados de forma agrupada no banco de dados de acesso público no website do Programa de Monitoramento da Atividade Pesqueira do Instituto de Pesca em www.propesq.pesca.sp.gov.br.
+
+A atividade pesqueira, dividida entre Litoral Norte, Centro e Sul, foi caracterizada pelo do número de unidades produtivas registradas (embarcações, no caso de pesca embarcada ou pescadores, no caso de extrativismo manual), número de viagens de pesca, aparelhos de pesca utilizados, produção pesqueira obtida e categorias de pescado capturadas.
+
+### Resultados
+#### Litoral Norte
+#### Litoral Centro
+#### Litoral Sul
+
+``` {r}
+# Calcula número de viagens totais de pesca
+nviag_litoralsul <- 
+
+# Calcula número de unidades produtivas
+total_ups_litoralsul <- 
+
+# Lista nome dos 3 aparelhos de pesca principais do Litoral Sul
+nome_3_principais_aparelhos_litoralsul <- 
+
+# Calcula total capturado em toneladas
+capturatotal_litoralsul <- 
+
+# Lista nome das 3 principais capturas do Litoral Sul
+nome_3_principais_capturas_litoralsul
+# capturas principais caminho de como obter: head(capttotallitoralsul[order(capttotallitoralsul$kg, decreasing =T),],3)
+
+# Receita total baseada no preço de primeira comercialização
+valortotal_litoralsul <-
+```
+
+O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_litoralsul` viagens de pesca. As viagens foram realizadas por `r total_ups_litoralsul` unidades produtivas. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r nome_3_principais_aparelhos_litoralsul` (Figura @aparelhoslitoralsul). 
+
+```{r aparelhoslitoralsul}
+# figura aparelhos x número de viagens
+```
+
+O total capturado no período foi de `r capturatotal_litoralsul` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @capttotallitoralsul. As principais categorias de pescado do período foram `r nome_3_principais_capturas_litoralsul`.
+
+```{r capttotallitoralsul}
+# tabela com captura por categoria de pescado
+```
+
+Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R$  `r valortotal_litoralsul`.
