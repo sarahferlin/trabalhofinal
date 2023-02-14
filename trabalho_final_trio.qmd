@@ -78,19 +78,6 @@ caminho <- "dados.csv"
 dados <- read.csv2(caminho)
 View(dados)
 
-# filtrar só dados do Litoral Norte
-
-dados_ln <-  dados %>% filter(., `localidade` == "Litoral Norte")
-
-# número de municípios Litoral Norte
-
-n_municipios_ln <- length(unique(dados_ln$municipio))
-
-
-# número de total de viagens no Litoral Norte
-
-nviagens_ln <- (agg.nviagens_ln <- aggregate(dados_ln$n_descargas~dados_ln$localidade, FUN=sum))
-
 ```
 
 
@@ -100,7 +87,35 @@ nviagens_ln <- (agg.nviagens_ln <- aggregate(dados_ln$n_descargas~dados_ln$local
 #### Litoral Sul
 
 ``` {r}
+
+### LITORAL NORTE
+
+# filtra só dados do Litoral Norte
+
+dados_ln <-  dados %>% filter(., `localidade` == "Litoral Norte")
+
+# Calcula número de municípios Litoral Norte
+
+n_mun_ln <- length(unique(dados_ln$municipio))
+
+
+# Calcula número de viagens totais de pesca no Litoral Norte
+
+nviag_ln <- (agg.nviagens_ln <- aggregate(dados_ln$n_descargas~dados_ln$localidade, FUN=sum))
+
+# Calcula número de unidades produtivas
+total_ups_ln <- length(unique(dados_ln$n_ups)) # preciso verificar se tá certo, pq não tem o codigo da Up como no banco de dados privado
+
+
+
+### LITORAL SUL
+
+# filtra só dados do Litoral Sul
+
+dados_ls <-  dados %>% filter(., `localidade` == "Litoral Sul")
+
 # Calcula número de viagens totais de pesca
+
 nviag_litoralsul <- 
 
 # Calcula número de unidades produtivas
