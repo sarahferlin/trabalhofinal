@@ -1,0 +1,1747 @@
+localidade;municipio;aparelho_pesca;pescado;kg_periodo;n_descargas;n_ups;valor
+Litoral Centro;Bertioga;arrasto-de-mão;Bagre;370,00;2,00;1,00;R$ 1.665,00
+Litoral Centro;Bertioga;arrasto-de-mão;Bagre-amarelo;70,00;3,00;1,00;R$ 335,00
+Litoral Centro;Bertioga;arrasto-de-mão;Betara;21,00;2,00;1,00;R$ 168,00
+Litoral Centro;Bertioga;arrasto-de-mão;Bicuda;1,00;1,00;1,00;R$ 10,00
+Litoral Centro;Bertioga;arrasto-de-mão;Caratinga;15,00;2,00;1,00;R$ 30,00
+Litoral Centro;Bertioga;arrasto-de-mão;Corvina;251,00;7,00;2,00;R$ 3.445,00
+Litoral Centro;Bertioga;arrasto-de-mão;Enchova;4,00;1,00;1,00;R$ 48,00
+Litoral Centro;Bertioga;arrasto-de-mão;Espada;42,00;8,00;2,00;R$ 210,00
+Litoral Centro;Bertioga;arrasto-de-mão;Galo;15,00;1,00;1,00;R$ 0,00
+Litoral Centro;Bertioga;arrasto-de-mão;Mistura;13,00;2,00;1,00;R$ 52,50
+Litoral Centro;Bertioga;arrasto-de-mão;Oveva;1727,00;3,00;3,00;R$ 5.232,00
+Litoral Centro;Bertioga;arrasto-de-mão;Paru;14,00;1,00;1,00;R$ 210,00
+Litoral Centro;Bertioga;arrasto-de-mão;Pescada-banana;539,00;24,00;3,00;R$ 5.814,00
+Litoral Centro;Bertioga;arrasto-de-mão;Pescada-branca;339,00;22,00;2,00;R$ 3.390,00
+Litoral Centro;Bertioga;arrasto-de-mão;Pescada-cambucu;50,00;1,00;1,00;R$ 500,00
+Litoral Centro;Bertioga;arrasto-de-mão;Pescada-foguete;81,00;2,00;1,00;R$ 1.215,00
+Litoral Centro;Bertioga;arrasto-de-mão;Robalo-flecha;657,80;31,00;3,00;R$ 23.089,00
+Litoral Centro;Bertioga;arrasto-de-mão;Robalo-peva;802,00;42,00;3,00;R$ 14.436,00
+Litoral Centro;Bertioga;arrasto-de-mão;Sari-sari;252,00;12,00;1,00;R$ 1.134,00
+Litoral Centro;Bertioga;arrasto-de-mão;Sororoca;14,00;2,00;1,00;R$ 140,00
+Litoral Centro;Bertioga;arrasto-de-mão;Tainha;327,50;17,00;3,00;R$ 3.828,00
+Litoral Centro;Bertioga;arrasto-de-mão;Xaréu;478,00;5,00;2,00;R$ 2.540,00
+Litoral Centro;Bertioga;arrasto-duplo;Camarão-legítimo;1338,74;83,00;23,00;R$ 53.401,20
+Litoral Centro;Bertioga;arrasto-duplo;Camarão-sete-barbas;153456,20;561,00;52,00;R$ 1.191.051,20
+Litoral Centro;Bertioga;arrasto-duplo;Lula;2,50;1,00;1,00;R$ 37,50
+Litoral Centro;Bertioga;arrasto-duplo;Maria-luíza;0,50;1,00;1,00;R$ 2,50
+Litoral Centro;Bertioga;arrasto-duplo;Mistura;255,50;17,00;13,00;R$ 1.337,50
+Litoral Centro;Bertioga;arrasto-duplo;Pescada-banana;6,00;1,00;1,00;R$ 84,00
+Litoral Centro;Bertioga;arrasto-duplo;Pescada-foguete;15,00;1,00;1,00;R$ 210,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Bagre;247,00;16,00;3,00;R$ 1.235,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Bagre-amarelo;194,30;13,00;4,00;R$ 2.701,50
+Litoral Centro;Bertioga;emalhe-de-fundo;Bagre-branco;178,00;7,00;6,00;R$ 2.670,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Baiacu;1,00;1,00;1,00;R$ 7,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Betara;504,50;30,00;5,00;R$ 4.421,50
+Litoral Centro;Bertioga;emalhe-de-fundo;Bonito-pintado;25,00;1,00;1,00;R$ 150,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Cabrinha;59,00;2,00;1,00;R$ 475,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Cações agrupados;293,90;14,00;4,00;R$ 4.133,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Camarão-legítimo;2,00;1,00;1,00;R$ 94,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Carapeba;171,00;8,00;6,00;R$ 1.670,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Caratinga;65,00;6,00;2,00;R$ 930,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Cioba;25,70;5,00;3,00;R$ 502,50
+Litoral Centro;Bertioga;emalhe-de-fundo;Corvina;2323,80;103,00;10,00;R$ 25.401,90
+Litoral Centro;Bertioga;emalhe-de-fundo;Espada;157,00;6,00;4,00;R$ 1.406,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Guaivira;822,50;40,00;4,00;R$ 15.868,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Machote;15,00;1,00;1,00;R$ 300,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Mistura;642,00;16,00;5,00;R$ 2.810,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Oveva;40,00;2,00;1,00;R$ 200,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Parati;168,20;9,00;7,00;R$ 1.799,20
+Litoral Centro;Bertioga;emalhe-de-fundo;Paru;20,00;2,00;2,00;R$ 300,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Pescada-amarela;709,00;16,00;5,00;R$ 10.038,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Pescada-branca;829,50;29,00;5,00;R$ 13.482,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Pescada-cambucu;19,60;3,00;3,00;R$ 250,40
+Litoral Centro;Bertioga;emalhe-de-fundo;Pescada-foguete;1013,80;33,00;6,00;R$ 13.701,60
+Litoral Centro;Bertioga;emalhe-de-fundo;Porco;37,00;2,00;2,00;R$ 555,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Prejereba;5,00;1,00;1,00;R$ 100,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Robalo-flecha;543,44;50,00;6,00;R$ 20.075,40
+Litoral Centro;Bertioga;emalhe-de-fundo;Robalo-peva;152,80;11,00;5,00;R$ 5.159,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Sari-sari;40,70;5,00;2,00;R$ 203,50
+Litoral Centro;Bertioga;emalhe-de-fundo;Sororoca;65,00;4,00;3,00;R$ 834,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Tainha;34,50;2,00;2,00;R$ 310,50
+Litoral Centro;Bertioga;emalhe-de-fundo;Tortinha;369,00;13,00;2,00;R$ 8.638,00
+Litoral Centro;Bertioga;emalhe-de-fundo;Vermelho-henrique;36,00;5,00;4,00;R$ 845,00
+Litoral Centro;Bertioga;emalhe-de-superfície;Betara;4,00;1,00;1,00;R$ 40,00
+Litoral Centro;Bertioga;emalhe-de-superfície;Bonito-pintado;375,00;4,00;1,00;R$ 9.375,00
+Litoral Centro;Bertioga;emalhe-de-superfície;Bonitos agrupados;20,00;1,00;1,00;R$ 120,00
+Litoral Centro;Bertioga;emalhe-de-superfície;Cações agrupados;18,85;1,00;1,00;R$ 217,50
+Litoral Centro;Bertioga;emalhe-de-superfície;Corvina;9,80;3,00;2,00;R$ 160,60
+Litoral Centro;Bertioga;emalhe-de-superfície;Espada;125,50;5,00;3,00;R$ 1.119,50
+Litoral Centro;Bertioga;emalhe-de-superfície;Guaivira;15,00;1,00;1,00;R$ 150,00
+Litoral Centro;Bertioga;emalhe-de-superfície;Mistura;60,00;3,00;2,00;R$ 340,00
+Litoral Centro;Bertioga;emalhe-de-superfície;Pescada-foguete;273,70;13,00;3,00;R$ 3.395,80
+Litoral Centro;Bertioga;emalhe-de-superfície;Robalo-flecha;15,00;1,00;1,00;R$ 525,00
+Litoral Centro;Bertioga;emalhe-de-superfície;Sororoca;21,00;3,00;3,00;R$ 286,00
+Litoral Centro;Bertioga;emalhe-de-superfície;Tainha;210,00;7,00;2,00;R$ 1.915,00
+Litoral Centro;Bertioga;emalhes-diversos;Corvina;30,00;1,00;1,00;R$ 300,00
+Litoral Centro;Bertioga;emalhes-diversos;Mistura;30,00;1,00;1,00;R$ 150,00
+Litoral Centro;Bertioga;emalhes-diversos;Pescada-foguete;3,00;1,00;1,00;R$ 42,00
+Litoral Centro;Bertioga;emalhes-diversos;Tainha;391,00;10,00;2,00;R$ 6.245,00
+Litoral Centro;Bertioga;extrativismo;Caranguejo-uçá;775,68;29,00;5,00;R$ 6.358,00
+Litoral Centro;Bertioga;extrativismo;Mexilhão-do-mangue;252,00;5,00;2,00;R$ 558,00
+Litoral Centro;Bertioga;extrativismo;Ostra;395,08;29,00;4,00;R$ 9.520,00
+Litoral Centro;Bertioga;extrativismo;Siris agrupados;12,90;4,00;3,00;R$ 600,00
+Litoral Centro;Bertioga;gerival;Camarão-legítimo;47,57;8,00;2,00;R$ 4.042,00
+Litoral Centro;Bertioga;puçá;Siris agrupados;6,88;2,00;2,00;R$ 140,00
+Litoral Centro;Bertioga;tarrafa;Bagre-amarelo;1,00;1,00;1,00;R$ 10,00
+Litoral Centro;Bertioga;tarrafa;Parati;554,00;24,00;1,00;R$ 6.648,00
+Litoral Centro;Bertioga;tarrafa;Robalo-flecha;6,00;2,00;1,00;R$ 180,00
+Litoral Centro;Bertioga;tarrafa;Tainha;1,00;1,00;1,00;R$ 25,00
+Litoral Centro;Bertioga;;;0,00;6,00;1,00;R$ 0,00
+Litoral Sul;Cananéia;armadilha para caranguejo;Caranguejo-uçá;6166,78;234,00;18,00;R$ 58.440,00
+Litoral Sul;Cananéia;arpão/fisga;Robalo-flecha;14,10;1,00;1,00;R$ 423,00
+Litoral Sul;Cananéia;arpão/fisga;Sororoca;29,50;1,00;1,00;R$ 177,00
+Litoral Sul;Cananéia;arrasto-de-mão;Bagre-branco;11,50;3,00;2,00;R$ 47,25
+Litoral Sul;Cananéia;arrasto-de-mão;Carapeba;5,20;2,00;1,00;R$ 20,80
+Litoral Sul;Cananéia;arrasto-de-mão;Corvina;12,50;3,00;2,00;R$ 68,00
+Litoral Sul;Cananéia;arrasto-de-mão;Linguado;1,40;1,00;1,00;R$ 28,00
+Litoral Sul;Cananéia;arrasto-de-mão;Manjuba-chata;6585,50;134,00;8,00;R$ 32.852,50
+Litoral Sul;Cananéia;arrasto-de-mão;Manjubas agrupadas;5305,50;89,00;8,00;R$ 17.586,25
+Litoral Sul;Cananéia;arrasto-de-mão;Parati;37,70;2,00;2,00;R$ 113,10
+Litoral Sul;Cananéia;arrasto-de-mão;Pescada-amarela;2,30;1,00;1,00;R$ 34,50
+Litoral Sul;Cananéia;arrasto-de-mão;Robalo-flecha;6,90;2,00;2,00;R$ 194,00
+Litoral Sul;Cananéia;arrasto-de-mão;Robalo-peva;1,80;1,00;1,00;R$ 30,30
+Litoral Sul;Cananéia;arrasto-de-mão;Salema;1,50;1,00;1,00;R$ 3,00
+Litoral Sul;Cananéia;arrasto-de-mão;Tainha;1037,30;14,00;6,00;R$ 6.584,75
+Litoral Sul;Cananéia;arrasto-duplo;Bagre-branco;127,00;1,00;1,00;R$ 444,50
+Litoral Sul;Cananéia;arrasto-duplo;Betara;1000,00;4,00;3,00;R$ 3.990,00
+Litoral Sul;Cananéia;arrasto-duplo;Cabrinha;2570,00;8,00;4,00;R$ 7.410,00
+Litoral Sul;Cananéia;arrasto-duplo;Camarão-legítimo;64,40;4,00;3,00;R$ 1.929,00
+Litoral Sul;Cananéia;arrasto-duplo;Camarão-rosa;9530,00;10,00;4,00;R$ 458.800,00
+Litoral Sul;Cananéia;arrasto-duplo;Camarão-sete-barbas;66511,00;263,00;29,00;R$ 509.289,00
+Litoral Sul;Cananéia;arrasto-duplo;Linguado-areia;430,00;3,00;3,00;R$ 3.440,00
+Litoral Sul;Cananéia;arrasto-duplo;Mistura;5990,00;12,00;6,00;R$ 7.975,00
+Litoral Sul;Cananéia;arrasto-duplo;Pescada-amarela;8,00;1,00;1,00;R$ 222,00
+Litoral Sul;Cananéia;arrasto-duplo;Pescada-dentão;15,50;1,00;1,00;R$ 186,00
+Litoral Sul;Cananéia;arrasto-duplo;Trilha;880,00;4,00;3,00;R$ 3.900,00
+Litoral Sul;Cananéia;cerco-fixo;Bagre;1,70;1,00;1,00;R$ 1,70
+Litoral Sul;Cananéia;cerco-fixo;Bagre-amarelo;3,20;2,00;1,00;R$ 6,40
+Litoral Sul;Cananéia;cerco-fixo;Bagre-branco;1681,00;114,00;35,00;R$ 7.793,65
+Litoral Sul;Cananéia;cerco-fixo;Caranha;9,50;3,00;3,00;R$ 52,60
+Litoral Sul;Cananéia;cerco-fixo;Carapeba;634,80;32,00;17,00;R$ 2.585,85
+Litoral Sul;Cananéia;cerco-fixo;Corvina;1759,00;145,00;35,00;R$ 8.434,25
+Litoral Sul;Cananéia;cerco-fixo;Espada;0,60;1,00;1,00;R$ 1,20
+Litoral Sul;Cananéia;cerco-fixo;Galo;21,80;6,00;5,00;R$ 54,50
+Litoral Sul;Cananéia;cerco-fixo;Garoupa;3,70;2,00;2,00;R$ 86,50
+Litoral Sul;Cananéia;cerco-fixo;Guaivira;313,70;32,00;15,00;R$ 822,20
+Litoral Sul;Cananéia;cerco-fixo;Linguado;123,60;29,00;15,00;R$ 2.505,00
+Litoral Sul;Cananéia;cerco-fixo;Miraguaia;25,00;1,00;1,00;R$ 125,00
+Litoral Sul;Cananéia;cerco-fixo;Mistura;105,30;25,00;8,00;R$ 160,00
+Litoral Sul;Cananéia;cerco-fixo;Pampo;2,70;1,00;1,00;R$ 8,10
+Litoral Sul;Cananéia;cerco-fixo;Parambiju;8,50;1,00;1,00;R$ 68,00
+Litoral Sul;Cananéia;cerco-fixo;Parati;777,80;24,00;8,00;R$ 7.123,90
+Litoral Sul;Cananéia;cerco-fixo;Paru;285,60;22,00;11,00;R$ 377,30
+Litoral Sul;Cananéia;cerco-fixo;Pescada-amarela;313,50;31,00;17,00;R$ 7.856,50
+Litoral Sul;Cananéia;cerco-fixo;Pescada-branca;23,00;5,00;3,00;R$ 162,00
+Litoral Sul;Cananéia;cerco-fixo;Pescada-cambucu;9,00;1,00;1,00;R$ 180,00
+Litoral Sul;Cananéia;cerco-fixo;Pescada-dentão;37,20;12,00;9,00;R$ 505,50
+Litoral Sul;Cananéia;cerco-fixo;Pirajica;2,90;2,00;2,00;R$ 4,95
+Litoral Sul;Cananéia;cerco-fixo;Prejereba;97,90;14,00;12,00;R$ 1.438,00
+Litoral Sul;Cananéia;cerco-fixo;Robalo-flecha;789,90;66,00;26,00;R$ 23.640,00
+Litoral Sul;Cananéia;cerco-fixo;Robalo-peva;263,30;46,00;22,00;R$ 4.548,10
+Litoral Sul;Cananéia;cerco-fixo;Sargo;5,50;3,00;2,00;R$ 15,30
+Litoral Sul;Cananéia;cerco-fixo;Tainha;38960,60;315,00;50,00;R$ 248.665,10
+Litoral Sul;Cananéia;cerco-fixo;Xarelete;3,20;1,00;1,00;R$ 6,40
+Litoral Sul;Cananéia;covo-polvo;Polvo;6120,00;1,00;1,00;R$ 244.800,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Acará;11,00;2,00;2,00;R$ 54,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Agulhão-branco;16,00;1,00;1,00;R$ 64,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Bagre-amarelo;417,70;65,00;23,00;R$ 903,25
+Litoral Sul;Cananéia;emalhe-de-fundo;Bagre-branco;42672,00;1755,00;186,00;R$ 189.652,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Betara;48424,50;106,00;33,00;R$ 169.670,40
+Litoral Sul;Cananéia;emalhe-de-fundo;Bicuda;60,00;1,00;1,00;R$ 120,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Cabrinha;9911,30;35,00;18,00;R$ 24.636,85
+Litoral Sul;Cananéia;emalhe-de-fundo;Cações agrupados;720,70;24,00;11,00;R$ 5.832,70
+Litoral Sul;Cananéia;emalhe-de-fundo;Caranha;147,60;17,00;7,00;R$ 1.149,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Carapeba;289,80;32,00;16,00;R$ 1.144,75
+Litoral Sul;Cananéia;emalhe-de-fundo;Caratinga;2,80;3,00;2,00;R$ 4,05
+Litoral Sul;Cananéia;emalhe-de-fundo;Cascudo;14,50;4,00;1,00;R$ 58,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Cioba;17,40;4,00;3,00;R$ 97,20
+Litoral Sul;Cananéia;emalhe-de-fundo;Corvina;300595,50;1111,00;172,00;R$ 1.006.190,20
+Litoral Sul;Cananéia;emalhe-de-fundo;Enchova;20,00;2,00;1,00;R$ 90,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Espada;12892,20;82,00;29,00;R$ 19.988,90
+Litoral Sul;Cananéia;emalhe-de-fundo;Galo;36,30;18,00;11,00;R$ 75,90
+Litoral Sul;Cananéia;emalhe-de-fundo;Garoupa;33,30;13,00;3,00;R$ 764,80
+Litoral Sul;Cananéia;emalhe-de-fundo;Goete;11885,00;42,00;18,00;R$ 47.715,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Gordinho;1890,00;9,00;8,00;R$ 3.864,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Guaivira;5550,20;21,00;14,00;R$ 12.332,55
+Litoral Sul;Cananéia;emalhe-de-fundo;Linguado;662,30;50,00;25,00;R$ 10.339,40
+Litoral Sul;Cananéia;emalhe-de-fundo;Mandi;30,00;5,00;1,00;R$ 130,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Maria-luíza;987,00;5,00;4,00;R$ 2.335,50
+Litoral Sul;Cananéia;emalhe-de-fundo;Miraguaia;33,00;1,00;1,00;R$ 165,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Mistura;36700,30;196,00;57,00;R$ 38.507,15
+Litoral Sul;Cananéia;emalhe-de-fundo;Oveva;29208,50;74,00;22,00;R$ 44.451,50
+Litoral Sul;Cananéia;emalhe-de-fundo;Palombeta;510,00;2,00;2,00;R$ 903,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Pampo;24,80;3,00;2,00;R$ 88,10
+Litoral Sul;Cananéia;emalhe-de-fundo;Parambiju;91,80;5,00;4,00;R$ 782,40
+Litoral Sul;Cananéia;emalhe-de-fundo;Pararê;74,10;13,00;7,00;R$ 302,40
+Litoral Sul;Cananéia;emalhe-de-fundo;Paru;20072,20;200,00;51,00;R$ 34.720,15
+Litoral Sul;Cananéia;emalhe-de-fundo;Pescada-amarela;3618,60;208,00;57,00;R$ 86.023,50
+Litoral Sul;Cananéia;emalhe-de-fundo;Pescada-banana;2017,90;37,00;18,00;R$ 10.642,70
+Litoral Sul;Cananéia;emalhe-de-fundo;Pescada-branca;3428,20;44,00;28,00;R$ 31.053,50
+Litoral Sul;Cananéia;emalhe-de-fundo;Pescada-cambucu;957,90;18,00;13,00;R$ 11.592,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Pescada-dentão;1356,10;147,00;37,00;R$ 17.320,40
+Litoral Sul;Cananéia;emalhe-de-fundo;Pescada-foguete;127681,30;252,00;43,00;R$ 1.157.490,90
+Litoral Sul;Cananéia;emalhe-de-fundo;Porco;106,00;3,00;3,00;R$ 329,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Prejereba;498,30;49,00;33,00;R$ 7.501,70
+Litoral Sul;Cananéia;emalhe-de-fundo;Raias agrupadas;321,30;18,00;2,00;R$ 642,60
+Litoral Sul;Cananéia;emalhe-de-fundo;Robalo-flecha;1131,60;133,00;56,00;R$ 33.690,50
+Litoral Sul;Cananéia;emalhe-de-fundo;Robalo-peva;1300,60;117,00;45,00;R$ 17.054,80
+Litoral Sul;Cananéia;emalhe-de-fundo;Saguá;11,70;3,00;2,00;R$ 41,40
+Litoral Sul;Cananéia;emalhe-de-fundo;Salema;4,20;2,00;1,00;R$ 6,95
+Litoral Sul;Cananéia;emalhe-de-fundo;Sargo;119,30;34,00;6,00;R$ 344,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Sari-sari;42,10;8,00;3,00;R$ 110,50
+Litoral Sul;Cananéia;emalhe-de-fundo;Sernambiguara;5,80;1,00;1,00;R$ 17,40
+Litoral Sul;Cananéia;emalhe-de-fundo;Siri-azul;14,00;3,00;1,00;R$ 66,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Sororoca;5599,20;60,00;22,00;R$ 43.012,60
+Litoral Sul;Cananéia;emalhe-de-fundo;Tainha;44,70;13,00;9,00;R$ 378,20
+Litoral Sul;Cananéia;emalhe-de-fundo;Tortinha;14,00;2,00;2,00;R$ 84,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Traíra;29,00;4,00;1,00;R$ 116,00
+Litoral Sul;Cananéia;emalhe-de-fundo;Viola;3,70;1,00;1,00;R$ 14,80
+Litoral Sul;Cananéia;emalhe-de-superfície;Acará;25,50;3,00;3,00;R$ 100,50
+Litoral Sul;Cananéia;emalhe-de-superfície;Bagre-branco;84,80;14,00;10,00;R$ 405,10
+Litoral Sul;Cananéia;emalhe-de-superfície;Bonitos agrupados;5,30;1,00;1,00;R$ 15,90
+Litoral Sul;Cananéia;emalhe-de-superfície;Cações agrupados;33,43;5,00;3,00;R$ 285,40
+Litoral Sul;Cananéia;emalhe-de-superfície;Carapeba;32,30;6,00;4,00;R$ 209,20
+Litoral Sul;Cananéia;emalhe-de-superfície;Corvina;73,50;21,00;15,00;R$ 445,60
+Litoral Sul;Cananéia;emalhe-de-superfície;Espada;113,30;7,00;6,00;R$ 226,60
+Litoral Sul;Cananéia;emalhe-de-superfície;Guaivira;173,80;29,00;18,00;R$ 557,10
+Litoral Sul;Cananéia;emalhe-de-superfície;Mistura;224,90;29,00;13,00;R$ 480,10
+Litoral Sul;Cananéia;emalhe-de-superfície;Pampo;1,40;1,00;1,00;R$ 4,20
+Litoral Sul;Cananéia;emalhe-de-superfície;Parambiju;5,60;1,00;1,00;R$ 44,80
+Litoral Sul;Cananéia;emalhe-de-superfície;Pararê;7,00;2,00;1,00;R$ 21,00
+Litoral Sul;Cananéia;emalhe-de-superfície;Parati;4401,20;181,00;45,00;R$ 15.877,25
+Litoral Sul;Cananéia;emalhe-de-superfície;Pescada-branca;46,10;5,00;4,00;R$ 467,20
+Litoral Sul;Cananéia;emalhe-de-superfície;Pescada-dentão;65,30;10,00;2,00;R$ 800,00
+Litoral Sul;Cananéia;emalhe-de-superfície;Pescada-foguete;1863,50;5,00;3,00;R$ 18.627,50
+Litoral Sul;Cananéia;emalhe-de-superfície;Pirajica;21,00;2,00;2,00;R$ 34,00
+Litoral Sul;Cananéia;emalhe-de-superfície;Porco;4,00;1,00;1,00;R$ 20,00
+Litoral Sul;Cananéia;emalhe-de-superfície;Prejereba;1,50;1,00;1,00;R$ 22,50
+Litoral Sul;Cananéia;emalhe-de-superfície;Robalo-flecha;14,00;2,00;2,00;R$ 420,00
+Litoral Sul;Cananéia;emalhe-de-superfície;Robalo-peva;22,60;5,00;5,00;R$ 268,80
+Litoral Sul;Cananéia;emalhe-de-superfície;Sargo;1,90;2,00;1,00;R$ 4,60
+Litoral Sul;Cananéia;emalhe-de-superfície;Sororoca;17395,70;67,00;28,00;R$ 113.025,80
+Litoral Sul;Cananéia;emalhe-de-superfície;Tainha;11600,00;345,00;87,00;R$ 83.987,35
+Litoral Sul;Cananéia;emalhes-diversos;Bagre-branco;230,50;20,00;4,00;R$ 863,00
+Litoral Sul;Cananéia;emalhes-diversos;Betara;121,00;6,00;1,00;R$ 360,00
+Litoral Sul;Cananéia;emalhes-diversos;Carapeba;8,00;1,00;1,00;R$ 28,00
+Litoral Sul;Cananéia;emalhes-diversos;Corvina;50,00;2,00;1,00;R$ 300,00
+Litoral Sul;Cananéia;emalhes-diversos;Parati;2293,90;58,00;17,00;R$ 7.121,15
+Litoral Sul;Cananéia;emalhes-diversos;Pescada-amarela;10,00;1,00;1,00;R$ 250,00
+Litoral Sul;Cananéia;emalhes-diversos;Pescada-dentão;565,00;21,00;3,00;R$ 6.821,00
+Litoral Sul;Cananéia;emalhes-diversos;Prejereba;83,60;8,00;3,00;R$ 1.266,00
+Litoral Sul;Cananéia;emalhes-diversos;Robalo-flecha;51,30;5,00;4,00;R$ 1.539,00
+Litoral Sul;Cananéia;emalhes-diversos;Robalo-peva;330,00;21,00;2,00;R$ 4.678,00
+Litoral Sul;Cananéia;emalhes-diversos;Tainha;597,00;19,00;11,00;R$ 4.563,45
+Litoral Sul;Cananéia;emalhes-diversos;Xaréu;39,00;5,00;1,00;R$ 195,00
+Litoral Sul;Cananéia;espinhéis-diversos;Bagre-amarelo;33,00;5,00;4,00;R$ 88,00
+Litoral Sul;Cananéia;espinhéis-diversos;Bagre-branco;2128,70;149,00;21,00;R$ 12.171,65
+Litoral Sul;Cananéia;espinhéis-diversos;Corvina;246,50;19,00;6,00;R$ 1.384,00
+Litoral Sul;Cananéia;espinhéis-diversos;Espada;3,00;1,00;1,00;R$ 6,00
+Litoral Sul;Cananéia;espinhel-de-fundo;Bagre-amarelo;4,00;1,00;1,00;R$ 8,00
+Litoral Sul;Cananéia;espinhel-de-fundo;Bagre-branco;1624,50;61,00;8,00;R$ 7.234,70
+Litoral Sul;Cananéia;espinhel-de-fundo;Betara;0,90;1,00;1,00;R$ 4,50
+Litoral Sul;Cananéia;espinhel-de-fundo;Carapeba;6,00;1,00;1,00;R$ 60,00
+Litoral Sul;Cananéia;espinhel-de-fundo;Corvina;1980,10;39,00;2,00;R$ 11.853,60
+Litoral Sul;Cananéia;espinhel-de-fundo;Mistura;37,20;4,00;2,00;R$ 100,40
+Litoral Sul;Cananéia;espinhel-de-fundo;Paru;67,50;1,00;1,00;R$ 135,00
+Litoral Sul;Cananéia;espinhel-de-fundo;Pescada-branca;13,50;1,00;1,00;R$ 67,50
+Litoral Sul;Cananéia;espinhel-de-fundo;Pescada-foguete;2,40;2,00;1,00;R$ 19,20
+Litoral Sul;Cananéia;espinhel-de-fundo;Robalo-peva;6,00;1,00;1,00;R$ 120,00
+Litoral Sul;Cananéia;espinhel-de-fundo;Sororoca;2,20;1,00;1,00;R$ 17,60
+Litoral Sul;Cananéia;extrativismo;Almeja;268,00;31,00;3,00;R$ 3.420,00
+Litoral Sul;Cananéia;extrativismo;Caranguejo-uçá;2314,51;103,00;7,00;R$ 20.775,00
+Litoral Sul;Cananéia;extrativismo;Manjuba-de-iguape;227,00;3,00;3,00;R$ 1.268,00
+Litoral Sul;Cananéia;extrativismo;Mexilhão;1018,00;81,00;14,00;R$ 13.530,00
+Litoral Sul;Cananéia;extrativismo;Mexilhão-do-mangue;725,20;47,00;10,00;R$ 5.848,00
+Litoral Sul;Cananéia;extrativismo;Ostra;44536,23;1073,00;55,00;R$ 220.137,50
+Litoral Sul;Cananéia;gerival;Camarão-estuarino;2295,54;145,00;15,00;R$ 177.194,00
+Litoral Sul;Cananéia;indeterminado;Bagre-branco;74,10;7,00;1,00;R$ 301,95
+Litoral Sul;Cananéia;indeterminado;Betara;149,80;20,00;1,00;R$ 600,70
+Litoral Sul;Cananéia;indeterminado;Cações agrupados;35,31;4,00;1,00;R$ 341,40
+Litoral Sul;Cananéia;indeterminado;Camarão-legítimo;2,70;1,00;1,00;R$ 81,00
+Litoral Sul;Cananéia;indeterminado;Camarão-rosa;8,30;2,00;2,00;R$ 276,50
+Litoral Sul;Cananéia;indeterminado;Carapeba;1,30;1,00;1,00;R$ 5,20
+Litoral Sul;Cananéia;indeterminado;Corvina;69,70;6,00;1,00;R$ 405,50
+Litoral Sul;Cananéia;indeterminado;Espada;20,00;1,00;1,00;R$ 40,00
+Litoral Sul;Cananéia;indeterminado;Garoupa;5,00;2,00;1,00;R$ 110,20
+Litoral Sul;Cananéia;indeterminado;Goete;22,00;5,00;1,00;R$ 94,20
+Litoral Sul;Cananéia;indeterminado;Guaivira;1,50;1,00;1,00;R$ 3,00
+Litoral Sul;Cananéia;indeterminado;Linguado;12,00;1,00;1,00;R$ 120,00
+Litoral Sul;Cananéia;indeterminado;Mistura;2,00;1,00;1,00;R$ 8,00
+Litoral Sul;Cananéia;indeterminado;Paru;5,90;2,00;1,00;R$ 8,85
+Litoral Sul;Cananéia;indeterminado;Pescada-banana;3,30;1,00;1,00;R$ 9,90
+Litoral Sul;Cananéia;indeterminado;Pescada-branca;18,00;5,00;1,00;R$ 174,10
+Litoral Sul;Cananéia;indeterminado;Pescada-foguete;69,80;12,00;1,00;R$ 605,20
+Litoral Sul;Cananéia;indeterminado;Polvo;51,40;8,00;1,00;R$ 1.252,50
+Litoral Sul;Cananéia;indeterminado;Porco;10,00;1,00;1,00;R$ 40,00
+Litoral Sul;Cananéia;indeterminado;Robalo-peva;5,20;2,00;1,00;R$ 87,10
+Litoral Sul;Cananéia;indeterminado;Roncador;2,40;1,00;1,00;R$ 4,80
+Litoral Sul;Cananéia;indeterminado;Tainha;47,40;2,00;2,00;R$ 360,80
+Litoral Sul;Cananéia;linha-de-mão;Bagre-amarelo;3,00;1,00;1,00;R$ 12,00
+Litoral Sul;Cananéia;linha-de-mão;Bagre-branco;231,20;22,00;7,00;R$ 1.128,15
+Litoral Sul;Cananéia;linha-de-mão;Baiacu;32,00;5,00;1,00;R$ 224,00
+Litoral Sul;Cananéia;linha-de-mão;Corvina;472,10;16,00;5,00;R$ 2.816,60
+Litoral Sul;Cananéia;linha-de-mão;Garoupa;50,30;4,00;2,00;R$ 1.192,90
+Litoral Sul;Cananéia;linha-de-mão;Pararê;36,00;5,00;2,00;R$ 144,00
+Litoral Sul;Cananéia;linha-de-mão;Prejereba;6,30;2,00;2,00;R$ 94,50
+Litoral Sul;Cananéia;linha-de-mão;Robalo-peva;3,40;1,00;1,00;R$ 51,60
+Litoral Sul;Cananéia;tarrafa;Carapeba;64,00;7,00;2,00;R$ 266,00
+Litoral Sul;Cananéia;tarrafa;Manjubas agrupadas;40,00;2,00;1,00;R$ 170,00
+Litoral Sul;Cananéia;tarrafa;Robalo-peva;20,00;2,00;1,00;R$ 290,00
+Litoral Sul;Cananéia;tarrafa;Sardinha-verdadeira;25,00;1,00;1,00;R$ 100,00
+Litoral Sul;Cananéia;tarrafa;Tainha;9,00;1,00;1,00;R$ 72,00
+Litoral Sul;Cananéia;vara-de-pesca;Bagre-branco;248,30;23,00;5,00;R$ 1.145,35
+Litoral Sul;Cananéia;vara-de-pesca;Carapau;13,00;2,00;2,00;R$ 94,00
+Litoral Sul;Cananéia;vara-de-pesca;Corvina;859,90;33,00;5,00;R$ 5.085,40
+Litoral Sul;Cananéia;vara-de-pesca;Espada;90,00;2,00;1,00;R$ 160,00
+Litoral Sul;Cananéia;vara-de-pesca;Linguado;6,00;1,00;1,00;R$ 108,00
+Litoral Sul;Cananéia;vara-de-pesca;Miraguaia;10,00;1,00;1,00;R$ 120,00
+Litoral Sul;Cananéia;vara-de-pesca;Pescada-amarela;20,00;2,00;2,00;R$ 410,00
+Litoral Sul;Cananéia;vara-de-pesca;Pescada-branca;81,00;9,00;2,00;R$ 693,00
+Litoral Sul;Cananéia;vara-de-pesca;Pescada-dentão;20,00;1,00;1,00;R$ 360,00
+Litoral Sul;Cananéia;vara-de-pesca;Robalo-flecha;4,00;1,00;1,00;R$ 120,00
+Litoral Sul;Cananéia;vara-de-pesca;Robalo-peva;27,00;4,00;2,00;R$ 516,00
+Litoral Sul;Cananéia;vara-de-pesca;Tortinha;111,00;10,00;1,00;R$ 1.110,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Baiacu;10,30;2,00;1,00;R$ 123,60
+Litoral Norte;Caraguatatuba;arrasto-duplo;Cação-rola-rola;2,00;1,00;1,00;R$ 40,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Camarão-legítimo;1029,42;178,00;13,00;R$ 46.615,60
+Litoral Norte;Caraguatatuba;arrasto-duplo;Camarão-sete-barbas;26408,00;221,00;13,00;R$ 266.275,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Cangoá;60,00;1,00;1,00;R$ 300,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Espada;36,30;5,00;1,00;R$ 382,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Goete;8,20;1,00;1,00;R$ 98,40
+Litoral Norte;Caraguatatuba;arrasto-duplo;Lula;98,25;25,00;7,00;R$ 1.169,40
+Litoral Norte;Caraguatatuba;arrasto-duplo;Mistura;1496,05;87,00;12,00;R$ 6.042,45
+Litoral Norte;Caraguatatuba;arrasto-duplo;Pescada-amarela;274,74;36,00;8,00;R$ 2.959,88
+Litoral Norte;Caraguatatuba;arrasto-duplo;Pescada-banana;4,00;2,00;2,00;R$ 44,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Pescada-branca;30,00;3,00;3,00;R$ 363,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Pescada-cambucu;10,00;1,00;1,00;R$ 150,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Pescada-foguete;75,00;1,00;1,00;R$ 1.875,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Pescadas agrupadas;64,80;8,00;4,00;R$ 746,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Polvo;1,00;1,00;1,00;R$ 35,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Prejereba;2,94;1,00;1,00;R$ 58,80
+Litoral Norte;Caraguatatuba;arrasto-duplo;Robalo-flecha;2,50;1,00;1,00;R$ 112,50
+Litoral Norte;Caraguatatuba;arrasto-duplo;Siri-azul;189,68;42,00;6,00;R$ 906,22
+Litoral Norte;Caraguatatuba;arrasto-duplo;Siri-candeia;5,00;1,00;1,00;R$ 25,00
+Litoral Norte;Caraguatatuba;arrasto-duplo;Siris agrupados;3,50;1,00;1,00;R$ 17,50
+Litoral Norte;Caraguatatuba;arrasto-simples;Camarão-legítimo;431,88;51,00;2,00;R$ 19.380,60
+Litoral Norte;Caraguatatuba;arrasto-simples;Camarão-sete-barbas;2988,10;53,00;2,00;R$ 32.826,00
+Litoral Norte;Caraguatatuba;arrasto-simples;Lula;14,85;12,00;1,00;R$ 157,00
+Litoral Norte;Caraguatatuba;arrasto-simples;Mistura;356,70;33,00;1,00;R$ 1.109,00
+Litoral Norte;Caraguatatuba;arrasto-simples;Pescada-amarela;31,46;10,00;1,00;R$ 394,32
+Litoral Norte;Caraguatatuba;arrasto-simples;Siri-azul;38,50;9,00;1,00;R$ 164,30
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Bagre-amarelo;10,00;1,00;1,00;R$ 50,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Baiacu;0,70;1,00;1,00;R$ 8,40
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Betara;458,00;21,00;1,00;R$ 6.210,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Cação-rola-rola;63,00;13,00;4,00;R$ 1.820,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Camarão-legítimo;7,90;6,00;2,00;R$ 356,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Corvina;1049,60;63,00;8,00;R$ 15.401,50
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Espada;10,00;1,00;1,00;R$ 100,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Guaivira;12,00;3,00;1,00;R$ 180,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Machote;35,00;2,00;1,00;R$ 1.050,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Pampo;10,90;3,00;2,00;R$ 163,50
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Pescada-amarela;31,50;2,00;1,00;R$ 409,50
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Pescada-branca;972,30;50,00;1,00;R$ 15.269,70
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Pescada-cambucu;164,20;21,00;5,00;R$ 4.589,80
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Pescada-foguete;359,00;8,00;3,00;R$ 10.270,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Pescadas agrupadas;153,70;4,00;1,00;R$ 1.201,50
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Pirajica;68,00;4,00;3,00;R$ 1.020,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Prejereba;1,80;1,00;1,00;R$ 36,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Robalo-flecha;1954,40;75,00;8,00;R$ 83.244,50
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Salema;9,00;2,00;1,00;R$ 45,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Sargo;17,00;3,00;2,00;R$ 275,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Sari-sari;17,00;2,00;1,00;R$ 455,00
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Sororoca;33,50;9,00;6,00;R$ 910,30
+Litoral Norte;Caraguatatuba;emalhe-de-fundo;Vermelho-henrique;13,80;6,00;1,00;R$ 327,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Bagre-amarelo;35,00;12,00;1,00;R$ 175,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Bagre-branco;24,00;5,00;1,00;R$ 360,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Cação-rola-rola;33,00;7,00;1,00;R$ 1.030,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Carapeba;50,00;12,00;1,00;R$ 488,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Corvina;293,00;36,00;3,00;R$ 5.159,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Espada;33,00;10,00;2,00;R$ 495,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Guaivira;36,00;9,00;2,00;R$ 540,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Machote;19,00;5,00;1,00;R$ 615,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Pampo;58,00;16,00;2,00;R$ 780,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Paru;26,00;6,00;1,00;R$ 445,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Pescada-cambucu;4,00;1,00;1,00;R$ 140,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Pescada-foguete;19,00;7,00;1,00;R$ 525,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Pirajica;14,00;4,00;1,00;R$ 155,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Robalo-flecha;5,00;2,00;1,00;R$ 250,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Salema;31,00;9,00;1,00;R$ 175,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Sargo;63,00;18,00;2,00;R$ 1.135,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Sororoca;122,00;11,00;3,00;R$ 2.580,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Tainha;57,00;10,00;1,00;R$ 1.000,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Vermelho-henrique;20,00;5,00;1,00;R$ 865,00
+Litoral Norte;Caraguatatuba;emalhe-de-superfície;Xaréu;7,00;2,00;1,00;R$ 175,00
+Litoral Norte;Caraguatatuba;emalhes-diversos;Corvina;79,00;7,00;2,00;R$ 1.240,00
+Litoral Norte;Caraguatatuba;emalhes-diversos;Espada;30,00;2,00;1,00;R$ 450,00
+Litoral Norte;Caraguatatuba;emalhes-diversos;Parati;59,00;5,00;1,00;R$ 885,00
+Litoral Norte;Caraguatatuba;emalhes-diversos;Pescada-foguete;2,00;2,00;1,00;R$ 60,00
+Litoral Norte;Caraguatatuba;emalhes-diversos;Sari-sari;10,00;1,00;1,00;R$ 280,00
+Litoral Norte;Caraguatatuba;emalhes-diversos;Sororoca;4,00;2,00;1,00;R$ 100,00
+Litoral Norte;Caraguatatuba;emalhes-diversos;Tainha;77,00;5,00;1,00;R$ 1.275,00
+Litoral Norte;Caraguatatuba;espinhel-de-superfície-costeiro;Baiacu;31,40;5,00;1,00;R$ 415,80
+Litoral Norte;Caraguatatuba;espinhel-de-superfície-costeiro;Cação-rola-rola;39,80;3,00;1,00;R$ 796,00
+Litoral Norte;Caraguatatuba;espinhel-de-superfície-costeiro;Espada;8,90;3,00;1,00;R$ 89,00
+Litoral Norte;Caraguatatuba;espinhel-de-superfície-costeiro;Prejereba;260,70;7,00;1,00;R$ 5.214,00
+Litoral Centro;Cubatão;emalhes-diversos;Bagre-branco;83,50;20,00;4,00;R$ 443,00
+Litoral Centro;Cubatão;emalhes-diversos;Carapeba;28,00;6,00;2,00;R$ 206,00
+Litoral Centro;Cubatão;emalhes-diversos;Caratinga;72,50;16,00;4,00;R$ 485,00
+Litoral Centro;Cubatão;emalhes-diversos;Corvina;20,00;6,00;4,00;R$ 162,00
+Litoral Centro;Cubatão;emalhes-diversos;Mistura;59,00;10,00;5,00;R$ 447,00
+Litoral Centro;Cubatão;emalhes-diversos;Parati;983,00;44,00;7,00;R$ 10.018,00
+Litoral Centro;Cubatão;emalhes-diversos;Robalo-flecha;5,00;2,00;1,00;R$ 76,00
+Litoral Centro;Cubatão;emalhes-diversos;Robalo-peva;19,00;5,00;2,00;R$ 286,00
+Litoral Centro;Cubatão;emalhes-diversos;Sardinha-cascuda;5,00;2,00;1,00;R$ 14,00
+Litoral Centro;Cubatão;emalhes-diversos;Xaréu;7,50;1,00;1,00;R$ 30,00
+Litoral Centro;Cubatão;extrativismo;Caranguejo-uçá;3365,07;161,00;24,00;R$ 35.437,50
+Litoral Centro;Cubatão;extrativismo;Ostra;16,60;2,00;2,00;R$ 400,00
+Litoral Centro;Cubatão;gerival;Camarão-legítimo;26,94;11,00;1,00;R$ 4.262,50
+Litoral Centro;Cubatão;puçá;Siri-patola;15,08;2,00;1,00;R$ 290,00
+Litoral Centro;Cubatão;puçá;Siris agrupados;1022,00;77,00;7,00;R$ 13.028,00
+Litoral Centro;Cubatão;;;0,00;1,00;1,00;R$ 0,00
+Litoral Sul;Iguape;armadilha para caranguejo;Caranguejo-uçá;2646,42;60,00;3,00;R$ 19.140,00
+Litoral Sul;Iguape;arrasto-de-mão;Corvina;19,90;1,00;1,00;R$ 99,50
+Litoral Sul;Iguape;arrasto-de-mão;Espada;2,40;1,00;1,00;R$ 7,20
+Litoral Sul;Iguape;arrasto-de-mão;Manjuba-de-iguape;166710,80;573,00;69,00;R$ 700.054,90
+Litoral Sul;Iguape;arrasto-de-mão;Manjubas agrupadas;619,00;21,00;10,00;R$ 929,00
+Litoral Sul;Iguape;arrasto-de-mão;Peixe-prego;13,00;1,00;1,00;R$ 13,00
+Litoral Sul;Iguape;arrasto-de-mão;Pescada-dentão;15,10;2,00;1,00;R$ 181,20
+Litoral Sul;Iguape;arrasto-de-mão;Pescada-foguete;30,50;2,00;1,00;R$ 305,00
+Litoral Sul;Iguape;arrasto-de-mão;Robalo-flecha;17,30;4,00;2,00;R$ 479,10
+Litoral Sul;Iguape;arrasto-de-mão;Robalo-peva;53,00;5,00;3,00;R$ 732,40
+Litoral Sul;Iguape;arrasto-de-mão;Sardinha-bandeira;5415,00;111,00;27,00;R$ 3.760,50
+Litoral Sul;Iguape;arrasto-de-mão;Sororoca;1,20;1,00;1,00;R$ 12,00
+Litoral Sul;Iguape;arrasto-de-mão;Tainha;592,00;2,00;1,00;R$ 4.736,00
+Litoral Sul;Iguape;arrasto-de-mão;Tortinha;25,00;1,00;1,00;R$ 250,00
+Litoral Sul;Iguape;cerco-fixo;Carapeba;7,10;4,00;1,00;R$ 49,70
+Litoral Sul;Iguape;cerco-fixo;Cascudo;7,00;2,00;1,00;R$ 35,00
+Litoral Sul;Iguape;cerco-fixo;Robalo-flecha;3,20;1,00;1,00;R$ 86,40
+Litoral Sul;Iguape;cerco-fixo;Robalo-peva;5,90;1,00;1,00;R$ 84,80
+Litoral Sul;Iguape;cerco-fixo;Tainha;948,00;23,00;1,00;R$ 5.466,50
+Litoral Sul;Iguape;cerco-fixo;Tilápia;8,10;3,00;1,00;R$ 40,50
+Litoral Sul;Iguape;cerco-fixo;Traíra;22,10;8,00;1,00;R$ 159,40
+Litoral Sul;Iguape;covo-pitú;Pitú-de-iguape;258,95;76,00;7,00;R$ 13.320,00
+Litoral Sul;Iguape;covos-diversos;Siri-azul;217,00;5,00;3,00;R$ 2.035,00
+Litoral Sul;Iguape;emalhe-de-deriva-superfície;Manjuba-de-iguape;398128,39;3201,00;215,00;R$ 1.345.927,98
+Litoral Sul;Iguape;emalhe-de-deriva-superfície;Manjubas;400,00;1,00;1,00;R$ 1.200,00
+Litoral Sul;Iguape;emalhe-de-deriva-superfície;Manjubas agrupadas;131,50;6,00;4,00;R$ 154,50
+Litoral Sul;Iguape;emalhe-de-deriva-superfície;Sardinha-bandeira;2942,10;248,00;57,00;R$ 2.970,70
+Litoral Sul;Iguape;emalhe-de-fundo;Abrótea;25,00;2,00;2,00;R$ 160,00
+Litoral Sul;Iguape;emalhe-de-fundo;Acará;3,40;3,00;3,00;R$ 16,00
+Litoral Sul;Iguape;emalhe-de-fundo;Bagre-africano;136,10;17,00;8,00;R$ 516,50
+Litoral Sul;Iguape;emalhe-de-fundo;Bagre-amarelo;7,00;1,00;1,00;R$ 24,50
+Litoral Sul;Iguape;emalhe-de-fundo;Bagre-branco;39696,70;243,00;42,00;R$ 164.676,05
+Litoral Sul;Iguape;emalhe-de-fundo;Betara;4,60;2,00;2,00;R$ 9,00
+Litoral Sul;Iguape;emalhe-de-fundo;Bicuda;3,00;1,00;1,00;R$ 24,00
+Litoral Sul;Iguape;emalhe-de-fundo;Cações agrupados;55,80;6,00;5,00;R$ 516,00
+Litoral Sul;Iguape;emalhe-de-fundo;Carapeba;930,10;90,00;21,00;R$ 8.133,10
+Litoral Sul;Iguape;emalhe-de-fundo;Cascudo;567,90;157,00;18,00;R$ 2.927,80
+Litoral Sul;Iguape;emalhe-de-fundo;Corvina;2362,40;128,00;29,00;R$ 10.693,10
+Litoral Sul;Iguape;emalhe-de-fundo;Dourado;3,60;1,00;1,00;R$ 28,80
+Litoral Sul;Iguape;emalhe-de-fundo;Espada;307,60;14,00;9,00;R$ 625,30
+Litoral Sul;Iguape;emalhe-de-fundo;Guaivira;133,00;6,00;4,00;R$ 261,00
+Litoral Sul;Iguape;emalhe-de-fundo;Linguado;3,90;1,00;1,00;R$ 78,00
+Litoral Sul;Iguape;emalhe-de-fundo;Mandi;157,60;22,00;15,00;R$ 895,60
+Litoral Sul;Iguape;emalhe-de-fundo;Miraguaia;98,80;4,00;1,00;R$ 494,00
+Litoral Sul;Iguape;emalhe-de-fundo;Mistura;4754,60;162,00;27,00;R$ 5.819,79
+Litoral Sul;Iguape;emalhe-de-fundo;Nundiá;7,10;4,00;3,00;R$ 38,60
+Litoral Sul;Iguape;emalhe-de-fundo;Oveva;1240,00;11,00;7,00;R$ 2.652,40
+Litoral Sul;Iguape;emalhe-de-fundo;Parati;9,90;4,00;4,00;R$ 35,95
+Litoral Sul;Iguape;emalhe-de-fundo;Pescada-amarela;579,60;41,00;11,00;R$ 10.824,40
+Litoral Sul;Iguape;emalhe-de-fundo;Pescada-branca;32,00;4,00;1,00;R$ 232,00
+Litoral Sul;Iguape;emalhe-de-fundo;Pescada-cambucu;108,00;15,00;7,00;R$ 1.350,00
+Litoral Sul;Iguape;emalhe-de-fundo;Pescada-dentão;83,00;5,00;3,00;R$ 957,00
+Litoral Sul;Iguape;emalhe-de-fundo;Pescada-foguete;17810,30;166,00;17,00;R$ 201.934,60
+Litoral Sul;Iguape;emalhe-de-fundo;Prejereba;257,40;18,00;7,00;R$ 3.193,00
+Litoral Sul;Iguape;emalhe-de-fundo;Robalo-flecha;2067,90;88,00;27,00;R$ 56.361,30
+Litoral Sul;Iguape;emalhe-de-fundo;Robalo-peva;3227,55;322,00;65,00;R$ 54.554,15
+Litoral Sul;Iguape;emalhe-de-fundo;Sari-sari;850,00;33,00;11,00;R$ 2.460,40
+Litoral Sul;Iguape;emalhe-de-fundo;Sororoca;13,00;1,00;1,00;R$ 97,50
+Litoral Sul;Iguape;emalhe-de-fundo;Tainha;290,10;25,00;8,00;R$ 2.202,80
+Litoral Sul;Iguape;emalhe-de-fundo;Tilápia;11,50;4,00;4,00;R$ 57,50
+Litoral Sul;Iguape;emalhe-de-fundo;Tortinha;415,90;7,00;7,00;R$ 4.151,00
+Litoral Sul;Iguape;emalhe-de-fundo;Traíra;478,40;108,00;21,00;R$ 3.098,05
+Litoral Sul;Iguape;emalhe-de-superfície;Bagre-branco;847,00;6,00;4,00;R$ 4.149,00
+Litoral Sul;Iguape;emalhe-de-superfície;Bonitos agrupados;406,00;2,00;1,00;R$ 1.827,00
+Litoral Sul;Iguape;emalhe-de-superfície;Cações agrupados;759,50;33,00;7,00;R$ 6.921,50
+Litoral Sul;Iguape;emalhe-de-superfície;Carapeba;39,00;2,00;2,00;R$ 226,50
+Litoral Sul;Iguape;emalhe-de-superfície;Corvina;486,30;28,00;9,00;R$ 1.391,40
+Litoral Sul;Iguape;emalhe-de-superfície;Dourado;70,00;4,00;3,00;R$ 328,00
+Litoral Sul;Iguape;emalhe-de-superfície;Espada;961,00;28,00;6,00;R$ 1.429,00
+Litoral Sul;Iguape;emalhe-de-superfície;Guaivira;1223,00;26,00;8,00;R$ 2.920,60
+Litoral Sul;Iguape;emalhe-de-superfície;Mistura;729,00;36,00;8,00;R$ 768,20
+Litoral Sul;Iguape;emalhe-de-superfície;Oveva;694,00;11,00;4,00;R$ 1.524,20
+Litoral Sul;Iguape;emalhe-de-superfície;Parati;328,50;14,00;6,00;R$ 1.398,00
+Litoral Sul;Iguape;emalhe-de-superfície;Paru;77,00;2,00;2,00;R$ 338,00
+Litoral Sul;Iguape;emalhe-de-superfície;Pescada-amarela;8,00;1,00;1,00;R$ 96,00
+Litoral Sul;Iguape;emalhe-de-superfície;Pescada-cambucu;372,50;13,00;3,00;R$ 4.470,00
+Litoral Sul;Iguape;emalhe-de-superfície;Pescada-dentão;203,50;9,00;3,00;R$ 2.035,00
+Litoral Sul;Iguape;emalhe-de-superfície;Pescada-foguete;213,00;11,00;4,00;R$ 2.274,00
+Litoral Sul;Iguape;emalhe-de-superfície;Prejereba;98,00;11,00;4,00;R$ 1.179,50
+Litoral Sul;Iguape;emalhe-de-superfície;Robalo-flecha;88,80;8,00;5,00;R$ 2.459,30
+Litoral Sul;Iguape;emalhe-de-superfície;Robalo-peva;1573,20;34,00;8,00;R$ 28.100,70
+Litoral Sul;Iguape;emalhe-de-superfície;Sari-sari;2129,00;53,00;8,00;R$ 4.708,40
+Litoral Sul;Iguape;emalhe-de-superfície;Sororoca;4025,10;45,00;8,00;R$ 33.374,35
+Litoral Sul;Iguape;emalhe-de-superfície;Tainha;3456,30;117,00;30,00;R$ 23.829,35
+Litoral Sul;Iguape;emalhes-diversos;Bagre-branco;45208,80;261,00;29,00;R$ 219.239,65
+Litoral Sul;Iguape;emalhes-diversos;Cações agrupados;51,50;7,00;3,00;R$ 430,50
+Litoral Sul;Iguape;emalhes-diversos;Carapeba;417,30;39,00;11,00;R$ 2.295,15
+Litoral Sul;Iguape;emalhes-diversos;Corvina;998,60;53,00;20,00;R$ 3.644,64
+Litoral Sul;Iguape;emalhes-diversos;Espada;73,70;5,00;3,00;R$ 110,55
+Litoral Sul;Iguape;emalhes-diversos;Guaivira;507,00;14,00;9,00;R$ 1.008,70
+Litoral Sul;Iguape;emalhes-diversos;Mistura;660,40;40,00;16,00;R$ 870,40
+Litoral Sul;Iguape;emalhes-diversos;Oveva;142,00;1,00;1,00;R$ 397,60
+Litoral Sul;Iguape;emalhes-diversos;Pescada-amarela;318,90;41,00;13,00;R$ 4.475,40
+Litoral Sul;Iguape;emalhes-diversos;Pescada-banana;122,00;1,00;1,00;R$ 2.196,00
+Litoral Sul;Iguape;emalhes-diversos;Pescada-cambucu;34,40;5,00;5,00;R$ 442,80
+Litoral Sul;Iguape;emalhes-diversos;Pescada-dentão;189,60;24,00;7,00;R$ 1.896,00
+Litoral Sul;Iguape;emalhes-diversos;Pescada-foguete;373,50;18,00;8,00;R$ 5.658,00
+Litoral Sul;Iguape;emalhes-diversos;Porco;10,00;1,00;1,00;R$ 50,00
+Litoral Sul;Iguape;emalhes-diversos;Prejereba;497,40;40,00;8,00;R$ 6.653,00
+Litoral Sul;Iguape;emalhes-diversos;Robalo-flecha;176,70;17,00;10,00;R$ 4.947,60
+Litoral Sul;Iguape;emalhes-diversos;Robalo-peva;4376,88;69,00;19,00;R$ 78.785,04
+Litoral Sul;Iguape;emalhes-diversos;Sari-sari;473,20;22,00;8,00;R$ 1.070,16
+Litoral Sul;Iguape;emalhes-diversos;Sororoca;71,50;4,00;4,00;R$ 610,75
+Litoral Sul;Iguape;emalhes-diversos;Tainha;12364,10;169,00;25,00;R$ 98.233,50
+Litoral Sul;Iguape;puçá;Siri-azul;8086,00;408,00;14,00;R$ 80.481,00
+Litoral Norte;Ilhabela;arrasto-duplo;Betara;328,60;12,00;5,00;R$ 1.688,40
+Litoral Norte;Ilhabela;arrasto-duplo;Cabrinha;194,00;5,00;3,00;R$ 1.267,00
+Litoral Norte;Ilhabela;arrasto-duplo;Cações agrupados;6,50;1,00;1,00;R$ 100,00
+Litoral Norte;Ilhabela;arrasto-duplo;Camarão-legítimo;792,30;116,00;18,00;R$ 40.095,00
+Litoral Norte;Ilhabela;arrasto-duplo;Camarão-rosa;3340,00;10,00;1,00;R$ 229.870,00
+Litoral Norte;Ilhabela;arrasto-duplo;Camarão-sete-barbas;45830,90;363,00;22,00;R$ 588.754,00
+Litoral Norte;Ilhabela;arrasto-duplo;Caratinga;18,00;1,00;1,00;R$ 90,00
+Litoral Norte;Ilhabela;arrasto-duplo;Corvina;497,40;26,00;9,00;R$ 2.724,00
+Litoral Norte;Ilhabela;arrasto-duplo;Linguado;63,00;4,00;3,00;R$ 1.260,00
+Litoral Norte;Ilhabela;arrasto-duplo;Lula;209,70;37,00;6,00;R$ 3.671,50
+Litoral Norte;Ilhabela;arrasto-duplo;Maria-luíza;184,00;15,00;8,00;R$ 920,00
+Litoral Norte;Ilhabela;arrasto-duplo;Maria-mole;87,00;1,00;1,00;R$ 435,00
+Litoral Norte;Ilhabela;arrasto-duplo;Mistura;1948,90;122,00;20,00;R$ 10.699,00
+Litoral Norte;Ilhabela;arrasto-duplo;Oveva;15,00;1,00;1,00;R$ 60,00
+Litoral Norte;Ilhabela;arrasto-duplo;Pescada-banana;12,00;1,00;1,00;R$ 144,00
+Litoral Norte;Ilhabela;arrasto-duplo;Pescada-cambucu;2,40;1,00;1,00;R$ 43,20
+Litoral Norte;Ilhabela;arrasto-duplo;Pescadas agrupadas;233,00;10,00;2,00;R$ 2.330,00
+Litoral Norte;Ilhabela;arrasto-duplo;Polvo;276,70;13,00;3,00;R$ 8.169,50
+Litoral Norte;Ilhabela;arrasto-duplo;Porco;777,00;10,00;1,00;R$ 6.216,00
+Litoral Norte;Ilhabela;arrasto-duplo;Prejereba;13,00;1,00;1,00;R$ 325,00
+Litoral Norte;Ilhabela;arrasto-duplo;Robalo-flecha;6,00;1,00;1,00;R$ 270,00
+Litoral Norte;Ilhabela;arrasto-duplo;Siri-azul;14,00;1,00;1,00;R$ 112,00
+Litoral Norte;Ilhabela;arrasto-duplo;Siris agrupados;394,00;11,00;2,00;R$ 1.308,00
+Litoral Norte;Ilhabela;arrasto-duplo;Tortinha;606,00;44,00;6,00;R$ 6.485,00
+Litoral Norte;Ilhabela;arrasto-duplo;Trilha;566,00;8,00;1,00;R$ 2.830,00
+Litoral Norte;Ilhabela;arrasto-duplo;Vermelho-henrique;6,70;2,00;2,00;R$ 159,00
+Litoral Norte;Ilhabela;arrasto-simples;Camarão-sete-barbas;30,00;1,00;1,00;R$ 300,00
+Litoral Norte;Ilhabela;cerco;Carapau;379,00;1,00;1,00;R$ 4.548,00
+Litoral Norte;Ilhabela;cerco;Espada;5230,00;3,00;3,00;R$ 20.920,00
+Litoral Norte;Ilhabela;cerco;Galo;6500,00;2,00;2,00;R$ 19.500,00
+Litoral Norte;Ilhabela;cerco;Sardinha-bandeira;5820,00;2,00;2,00;R$ 11.640,00
+Litoral Norte;Ilhabela;cerco;Sororoca;241,00;3,00;2,00;R$ 3.745,00
+Litoral Norte;Ilhabela;cerco;Tainha;8537,00;4,00;3,00;R$ 82.870,00
+Litoral Norte;Ilhabela;cerco;Vermelho-henrique;9,50;2,00;2,00;R$ 285,00
+Litoral Norte;Ilhabela;cerco-flutuante;Agulha;3292,50;56,00;11,00;R$ 14.480,50
+Litoral Norte;Ilhabela;cerco-flutuante;Bicuda;215,50;17,00;8,00;R$ 1.913,00
+Litoral Norte;Ilhabela;cerco-flutuante;Bonito-cachorra;2538,50;22,00;8,00;R$ 6.573,50
+Litoral Norte;Ilhabela;cerco-flutuante;Bonito-pintado;5744,20;41,00;10,00;R$ 22.277,30
+Litoral Norte;Ilhabela;cerco-flutuante;Cações agrupados;60,45;8,00;4,00;R$ 655,50
+Litoral Norte;Ilhabela;cerco-flutuante;Carapau;15977,50;92,00;12,00;R$ 203.679,50
+Litoral Norte;Ilhabela;cerco-flutuante;Cavala;1772,50;47,00;10,00;R$ 35.954,50
+Litoral Norte;Ilhabela;cerco-flutuante;Corvina;6,00;2,00;2,00;R$ 54,00
+Litoral Norte;Ilhabela;cerco-flutuante;Dourado;2,50;1,00;1,00;R$ 25,00
+Litoral Norte;Ilhabela;cerco-flutuante;Enchova;50,30;10,00;6,00;R$ 973,50
+Litoral Norte;Ilhabela;cerco-flutuante;Espada;50129,40;167,00;13,00;R$ 364.373,00
+Litoral Norte;Ilhabela;cerco-flutuante;Galo;80,50;10,00;6,00;R$ 424,00
+Litoral Norte;Ilhabela;cerco-flutuante;Gordinho;814,00;2,00;1,00;R$ 4.855,00
+Litoral Norte;Ilhabela;cerco-flutuante;Guaivira;244,00;12,00;4,00;R$ 1.454,00
+Litoral Norte;Ilhabela;cerco-flutuante;Lula;1252,90;65,00;10,00;R$ 51.384,00
+Litoral Norte;Ilhabela;cerco-flutuante;Mistura;1574,00;84,00;11,00;R$ 7.981,50
+Litoral Norte;Ilhabela;cerco-flutuante;Olho-de-boi;430,50;11,00;5,00;R$ 14.440,00
+Litoral Norte;Ilhabela;cerco-flutuante;Olho-de-cão;64,00;13,00;6,00;R$ 357,00
+Litoral Norte;Ilhabela;cerco-flutuante;Oveva;17,00;1,00;1,00;R$ 85,00
+Litoral Norte;Ilhabela;cerco-flutuante;Palombeta;280,50;11,00;5,00;R$ 1.153,00
+Litoral Norte;Ilhabela;cerco-flutuante;Pampo;35,50;6,00;4,00;R$ 319,00
+Litoral Norte;Ilhabela;cerco-flutuante;Pampo-galhudo;3,00;1,00;1,00;R$ 15,00
+Litoral Norte;Ilhabela;cerco-flutuante;Paru;132,00;4,00;4,00;R$ 541,00
+Litoral Norte;Ilhabela;cerco-flutuante;Peixe-voador;21,00;1,00;1,00;R$ 84,00
+Litoral Norte;Ilhabela;cerco-flutuante;Pescada-branca;14,50;4,00;2,00;R$ 397,50
+Litoral Norte;Ilhabela;cerco-flutuante;Pescada-cambucu;17,00;3,00;3,00;R$ 380,00
+Litoral Norte;Ilhabela;cerco-flutuante;Pirajica;1123,30;35,00;10,00;R$ 6.929,70
+Litoral Norte;Ilhabela;cerco-flutuante;Polvo;0,70;1,00;1,00;R$ 21,00
+Litoral Norte;Ilhabela;cerco-flutuante;Porco-chinelo;2615,80;41,00;11,00;R$ 36.023,00
+Litoral Norte;Ilhabela;cerco-flutuante;Robalo-flecha;4,00;2,00;2,00;R$ 135,00
+Litoral Norte;Ilhabela;cerco-flutuante;Sabão;21,00;1,00;1,00;R$ 105,00
+Litoral Norte;Ilhabela;cerco-flutuante;Sardinha-bandeira;545,00;8,00;4,00;R$ 1.523,00
+Litoral Norte;Ilhabela;cerco-flutuante;Sernambiguara;17,00;1,00;1,00;R$ 306,00
+Litoral Norte;Ilhabela;cerco-flutuante;Sororoca;19443,80;138,00;12,00;R$ 283.209,00
+Litoral Norte;Ilhabela;cerco-flutuante;Tainha;252,50;16,00;5,00;R$ 2.865,50
+Litoral Norte;Ilhabela;cerco-flutuante;Vermelho-henrique;16,10;5,00;3,00;R$ 470,50
+Litoral Norte;Ilhabela;cerco-flutuante;Xarelete;134,00;2,00;2,00;R$ 2.680,00
+Litoral Norte;Ilhabela;cerco-flutuante;Xaréu;525,50;14,00;10,00;R$ 4.222,00
+Litoral Norte;Ilhabela;cerco-flutuante;Xaréu-branco;116,50;8,00;5,00;R$ 2.960,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Abrótea;1,00;1,00;1,00;R$ 12,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Bagre-branco;226,20;9,00;5,00;R$ 1.579,90
+Litoral Norte;Ilhabela;emalhe-de-fundo;Betara;78,40;8,00;5,00;R$ 899,20
+Litoral Norte;Ilhabela;emalhe-de-fundo;Bicuda;1,90;1,00;1,00;R$ 19,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Bonito-pintado;22,00;2,00;1,00;R$ 93,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Cabrinha;85,50;5,00;2,00;R$ 624,50
+Litoral Norte;Ilhabela;emalhe-de-fundo;Cações agrupados;442,39;28,00;12,00;R$ 5.367,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Camarão-legítimo;0,50;1,00;1,00;R$ 25,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Cambeva;100,00;1,00;1,00;R$ 1.000,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Carapau;38,30;4,00;4,00;R$ 575,10
+Litoral Norte;Ilhabela;emalhe-de-fundo;Carapeba;16,00;1,00;1,00;R$ 80,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Corvina;4732,50;56,00;15,00;R$ 55.950,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Enchova;466,30;13,00;6,00;R$ 8.618,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Goete;3,50;2,00;2,00;R$ 28,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Guaivira;304,80;13,00;6,00;R$ 1.524,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Linguado;1,00;1,00;1,00;R$ 20,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Machote;47,00;2,00;1,00;R$ 846,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Mistura;312,50;26,00;11,00;R$ 1.758,50
+Litoral Norte;Ilhabela;emalhe-de-fundo;Olhete;1,00;1,00;1,00;R$ 20,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Olho-de-boi;3,50;1,00;1,00;R$ 87,50
+Litoral Norte;Ilhabela;emalhe-de-fundo;Olho-de-cão;14,00;3,00;3,00;R$ 80,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Pampo;5,00;1,00;1,00;R$ 35,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Pampo-galhudo;11,20;3,00;2,00;R$ 80,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Paru;68,00;2,00;2,00;R$ 328,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Pescada-amarela;1232,00;19,00;6,00;R$ 21.243,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Pescada-branca;29,70;6,00;4,00;R$ 529,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Pescada-cambucu;17,20;3,00;3,00;R$ 410,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Pescadas agrupadas;44,80;8,00;3,00;R$ 768,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Pirajica;58,00;6,00;4,00;R$ 278,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Polvo;2,00;1,00;1,00;R$ 60,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Porco-chinelo;1,50;1,00;1,00;R$ 15,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Sororoca;81,00;8,00;5,00;R$ 1.215,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Tainha;16,00;3,00;3,00;R$ 160,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Vermelho-henrique;82,50;9,00;5,00;R$ 1.916,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Xarelete;11,00;1,00;1,00;R$ 220,00
+Litoral Norte;Ilhabela;emalhe-de-fundo;Xaréu;27,50;5,00;4,00;R$ 275,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Bicuda;33,90;6,00;2,00;R$ 366,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Bonito-cachorra;9,00;1,00;1,00;R$ 27,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Bonito-pintado;293,00;12,00;5,00;R$ 2.238,25
+Litoral Norte;Ilhabela;emalhe-de-superfície;Bonitos agrupados;134,00;11,00;3,00;R$ 966,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Cações agrupados;182,00;13,00;8,00;R$ 2.461,50
+Litoral Norte;Ilhabela;emalhe-de-superfície;Carapau;183,00;7,00;5,00;R$ 2.718,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Carapeba;32,00;1,00;1,00;R$ 160,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Cavala;2,00;1,00;1,00;R$ 60,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Dourado;1,00;1,00;1,00;R$ 18,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Enchova;513,80;56,00;14,00;R$ 10.347,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Espada;82,00;9,00;6,00;R$ 639,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Galo;27,00;2,00;2,00;R$ 135,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Guaivira;161,50;22,00;6,00;R$ 856,50
+Litoral Norte;Ilhabela;emalhe-de-superfície;Machote;4,00;1,00;1,00;R$ 60,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Marimbá;1,00;1,00;1,00;R$ 5,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Mistura;234,00;28,00;12,00;R$ 1.330,50
+Litoral Norte;Ilhabela;emalhe-de-superfície;Olhete;5,00;2,00;2,00;R$ 100,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Olho-de-boi;78,50;5,00;3,00;R$ 2.260,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Olho-de-cão;5,00;2,00;1,00;R$ 25,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Pampo;147,00;3,00;3,00;R$ 964,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Pampo-galhudo;311,00;2,00;2,00;R$ 1.555,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Parambiju;29,00;1,00;1,00;R$ 1.305,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Paru;1561,00;8,00;4,00;R$ 6.819,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Pirajica;479,00;33,00;7,00;R$ 4.426,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Porco-chinelo;969,00;6,00;3,00;R$ 12.717,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Prejereba;3,00;1,00;1,00;R$ 45,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Robalo-flecha;1,50;1,00;1,00;R$ 67,50
+Litoral Norte;Ilhabela;emalhe-de-superfície;Sernambiguara;9,00;1,00;1,00;R$ 135,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Sororoca;1043,50;46,00;14,00;R$ 16.713,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Tainha;490,50;43,00;10,00;R$ 7.630,50
+Litoral Norte;Ilhabela;emalhe-de-superfície;Vermelho-henrique;11,30;4,00;3,00;R$ 324,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Xarelete;60,00;9,00;6,00;R$ 952,50
+Litoral Norte;Ilhabela;emalhe-de-superfície;Xaréu;212,40;27,00;12,00;R$ 2.297,00
+Litoral Norte;Ilhabela;emalhe-de-superfície;Xaréu-branco;477,00;9,00;6,00;R$ 9.024,00
+Litoral Norte;Ilhabela;emalhes-diversos;Cações agrupados;79,30;2,00;2,00;R$ 915,00
+Litoral Norte;Ilhabela;emalhes-diversos;Carapau;22,00;1,00;1,00;R$ 176,00
+Litoral Norte;Ilhabela;emalhes-diversos;Enchova;51,00;6,00;6,00;R$ 1.016,00
+Litoral Norte;Ilhabela;emalhes-diversos;Espada;66,00;4,00;3,00;R$ 363,00
+Litoral Norte;Ilhabela;emalhes-diversos;Guaivira;88,00;5,00;3,00;R$ 470,00
+Litoral Norte;Ilhabela;emalhes-diversos;Marimbá;3,00;1,00;1,00;R$ 21,00
+Litoral Norte;Ilhabela;emalhes-diversos;Mistura;28,00;2,00;2,00;R$ 140,00
+Litoral Norte;Ilhabela;emalhes-diversos;Olho-de-cão;8,00;1,00;1,00;R$ 40,00
+Litoral Norte;Ilhabela;emalhes-diversos;Pampo;5,80;1,00;1,00;R$ 40,60
+Litoral Norte;Ilhabela;emalhes-diversos;Pampo-galhudo;7,00;1,00;1,00;R$ 49,00
+Litoral Norte;Ilhabela;emalhes-diversos;Pirajica;44,00;3,00;2,00;R$ 392,00
+Litoral Norte;Ilhabela;emalhes-diversos;Porco;15,00;1,00;1,00;R$ 150,00
+Litoral Norte;Ilhabela;emalhes-diversos;Prejereba;3,00;1,00;1,00;R$ 54,00
+Litoral Norte;Ilhabela;emalhes-diversos;Sororoca;1055,00;16,00;7,00;R$ 17.749,00
+Litoral Norte;Ilhabela;emalhes-diversos;Tainha;2004,00;10,00;7,00;R$ 29.411,00
+Litoral Norte;Ilhabela;emalhes-diversos;Vermelho-henrique;33,80;3,00;2,00;R$ 676,00
+Litoral Norte;Ilhabela;emalhes-diversos;Xarelete;55,00;3,00;1,00;R$ 275,00
+Litoral Norte;Ilhabela;emalhes-diversos;Xaréu;17,00;1,00;1,00;R$ 170,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Abrótea;7,00;1,00;1,00;R$ 70,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Bagre-branco;627,00;5,00;2,00;R$ 4.260,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Betara;5,00;1,00;1,00;R$ 40,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Cabrinha;4,00;1,00;1,00;R$ 28,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Cações agrupados;55,20;3,00;2,00;R$ 552,50
+Litoral Norte;Ilhabela;espinhel-de-fundo;Corvina;822,00;3,00;2,00;R$ 8.587,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Enchova;25,00;1,00;1,00;R$ 500,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Espada;18,00;1,00;1,00;R$ 180,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Garoupa;62,00;2,00;2,00;R$ 1.768,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Goete;16,00;1,00;1,00;R$ 128,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Mistura;24,00;1,00;1,00;R$ 168,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Parambiju;30,00;1,00;1,00;R$ 750,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Pescada-cambucu;8,00;1,00;1,00;R$ 200,00
+Litoral Norte;Ilhabela;espinhel-de-fundo;Prejereba;3,00;1,00;1,00;R$ 54,00
+Litoral Norte;Ilhabela;linha-de-mão;Enchova;229,00;2,00;2,00;R$ 4.580,00
+Litoral Norte;Ilhabela;linha-de-mão;Espada;5,00;1,00;1,00;R$ 35,00
+Litoral Norte;Ilhabela;linha-de-mão;Garoupa;207,50;5,00;3,00;R$ 5.109,50
+Litoral Norte;Ilhabela;linha-de-mão;Olho-de-boi;33,00;1,00;1,00;R$ 990,00
+Litoral Norte;Ilhabela;linha-de-mão;Sororoca;17,00;1,00;1,00;R$ 255,00
+Litoral Norte;Ilhabela;linha-de-mão;Xaréu-branco;20,00;1,00;1,00;R$ 300,00
+Litoral Norte;Ilhabela;zangarelho;Lula;454,90;28,00;12,00;R$ 18.347,00
+Litoral Norte;Ilhabela;;;0,00;1,00;1,00;R$ 0,00
+Litoral Sul;Ilha Comprida;cerco-fixo;Bagre-branco;6,00;1,00;1,00;R$ 24,00
+Litoral Sul;Ilha Comprida;cerco-fixo;Corvina;10,00;1,00;1,00;R$ 60,00
+Litoral Sul;Ilha Comprida;cerco-fixo;Guaivira;9,00;1,00;1,00;R$ 31,50
+Litoral Sul;Ilha Comprida;cerco-fixo;Mistura;33,00;2,00;1,00;R$ 66,00
+Litoral Sul;Ilha Comprida;cerco-fixo;Robalo-flecha;13,00;1,00;1,00;R$ 390,00
+Litoral Sul;Ilha Comprida;cerco-fixo;Robalo-peva;12,00;1,00;1,00;R$ 180,00
+Litoral Sul;Ilha Comprida;cerco-fixo;Tainha;700,00;12,00;4,00;R$ 4.497,50
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Bagre-amarelo;32,50;6,00;4,00;R$ 79,85
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Bagre-branco;1261,80;102,00;25,00;R$ 5.953,10
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Betara;1116,90;77,00;17,00;R$ 3.948,35
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Cações agrupados;767,90;77,00;13,00;R$ 7.170,40
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Carapeba;43,20;3,00;2,00;R$ 151,20
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Corvina;2676,10;193,00;31,00;R$ 16.524,90
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Enchova;4,00;2,00;1,00;R$ 32,00
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Espada;250,20;62,00;14,00;R$ 525,55
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Galo;68,70;4,00;4,00;R$ 158,90
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Garoupa;4,30;2,00;1,00;R$ 86,00
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Linguado;31,80;2,00;2,00;R$ 636,00
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Mistura;1388,50;162,00;19,00;R$ 2.809,35
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Oveva;382,40;16,00;7,00;R$ 1.273,40
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Paru;290,80;11,00;7,00;R$ 853,15
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Pescada-amarela;299,30;28,00;9,00;R$ 8.716,90
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Pescada-banana;191,00;15,00;4,00;R$ 1.395,00
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Pescada-branca;104,30;13,00;6,00;R$ 1.225,20
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Pescada-cambucu;45,50;8,00;5,00;R$ 682,50
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Pescada-dentão;1114,60;118,00;21,00;R$ 14.239,80
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Pescada-foguete;11104,10;321,00;26,00;R$ 94.512,10
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Porco;0,40;1,00;1,00;R$ 0,60
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Prejereba;175,90;34,00;12,00;R$ 2.475,10
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Robalo-flecha;197,80;18,00;11,00;R$ 5.711,50
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Robalo-peva;520,40;101,00;21,00;R$ 8.103,00
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Sargo;14,90;2,00;1,00;R$ 29,80
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Sari-sari;2481,60;133,00;14,00;R$ 7.454,35
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Sororoca;7,20;2,00;1,00;R$ 57,60
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Tainha;20,00;6,00;1,00;R$ 160,00
+Litoral Sul;Ilha Comprida;emalhe-de-fundo;Xaréu;16,50;1,00;1,00;R$ 82,50
+Litoral Sul;Ilha Comprida;emalhe-de-superfície;Bagre-branco;7,70;2,00;2,00;R$ 38,50
+Litoral Sul;Ilha Comprida;emalhe-de-superfície;Guaivira;455,80;31,00;10,00;R$ 2.002,35
+Litoral Sul;Ilha Comprida;emalhe-de-superfície;Oveva;21,00;1,00;1,00;R$ 73,50
+Litoral Sul;Ilha Comprida;emalhe-de-superfície;Parati;177,30;8,00;4,00;R$ 670,25
+Litoral Sul;Ilha Comprida;emalhe-de-superfície;Pescada-dentão;6,00;1,00;1,00;R$ 72,00
+Litoral Sul;Ilha Comprida;emalhe-de-superfície;Prejereba;2,40;1,00;1,00;R$ 28,80
+Litoral Sul;Ilha Comprida;emalhe-de-superfície;Sororoca;584,10;29,00;15,00;R$ 5.362,00
+Litoral Sul;Ilha Comprida;emalhe-de-superfície;Tainha;4424,20;110,00;23,00;R$ 33.778,30
+Litoral Sul;Ilha Comprida;emalhes-diversos;Bagre-branco;123,00;9,00;4,00;R$ 875,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Betara;20,00;3,00;2,00;R$ 77,50
+Litoral Sul;Ilha Comprida;emalhes-diversos;Camarão-gigante-da-Malásia;4,00;2,00;1,00;R$ 80,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Carapeba;330,00;4,00;2,00;R$ 3.150,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Corvina;191,00;15,00;7,00;R$ 1.869,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Espada;33,00;5,00;3,00;R$ 264,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Guaivira;23,00;3,00;2,00;R$ 80,50
+Litoral Sul;Ilha Comprida;emalhes-diversos;Mandi;15,00;3,00;1,00;R$ 75,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Mistura;9,00;1,00;1,00;R$ 18,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Parati;187,00;7,00;6,00;R$ 462,50
+Litoral Sul;Ilha Comprida;emalhes-diversos;Pescada-branca;16,00;2,00;1,00;R$ 216,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Pescada-cambucu;6,60;1,00;1,00;R$ 132,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Pescada-dentão;16,60;2,00;2,00;R$ 324,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Pescada-foguete;100,00;4,00;3,00;R$ 907,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Robalo-peva;124,00;6,00;4,00;R$ 3.430,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Sororoca;29,00;2,00;2,00;R$ 290,00
+Litoral Sul;Ilha Comprida;emalhes-diversos;Tainha;443,60;22,00;13,00;R$ 3.937,55
+Litoral Sul;Ilha Comprida;emalhes-diversos;Traíra;5,00;1,00;1,00;R$ 25,00
+Litoral Sul;Ilha Comprida;espinhéis-diversos;Bagre-branco;185,00;3,00;1,00;R$ 1.062,00
+Litoral Sul;Ilha Comprida;espinhel-de-fundo;Bagre-branco;188,00;5,00;2,00;R$ 1.018,00
+Litoral Sul;Ilha Comprida;extrativismo;Ostra;58,10;2,00;1,00;R$ 560,00
+Litoral Sul;Ilha Comprida;gerival;Camarão-estuarino;59,81;27,00;4,00;R$ 5.214,00
+Litoral Sul;Ilha Comprida;tarrafa;Corvina;6,10;2,00;1,00;R$ 36,60
+Litoral Sul;Ilha Comprida;tarrafa;Parati;2,50;1,00;1,00;R$ 7,50
+Litoral Sul;Ilha Comprida;tarrafa;Tainha;441,70;13,00;1,00;R$ 2.430,15
+Litoral Sul;Ilha Comprida;vara-de-pesca;Bagre-branco;2,00;1,00;1,00;R$ 10,00
+Litoral Sul;Ilha Comprida;vara-de-pesca;Robalo-peva;15,00;1,00;1,00;R$ 300,00
+Litoral Centro;Itanhaém;arrasto-de-mão;Sari-sari;3000,00;1,00;1,00;R$ 2.250,00
+Litoral Centro;Itanhaém;arrasto-duplo;Bagre-amarelo;338,00;54,00;12,00;R$ 5.070,00
+Litoral Centro;Itanhaém;arrasto-duplo;Betara;65,00;11,00;8,00;R$ 1.203,00
+Litoral Centro;Itanhaém;arrasto-duplo;Camarão-legítimo;195,90;89,00;11,00;R$ 19.590,00
+Litoral Centro;Itanhaém;arrasto-duplo;Camarão-sete-barbas;24345,30;201,00;16,00;R$ 641.178,00
+Litoral Centro;Itanhaém;arrasto-duplo;Espada;6,50;3,00;3,00;R$ 115,50
+Litoral Centro;Itanhaém;arrasto-duplo;Lula-branca;4,70;3,00;2,00;R$ 117,50
+Litoral Centro;Itanhaém;arrasto-duplo;Maria-luíza;52,00;10,00;9,00;R$ 730,00
+Litoral Centro;Itanhaém;arrasto-duplo;Mistura;340,50;80,00;14,00;R$ 5.097,50
+Litoral Centro;Itanhaém;arrasto-duplo;Oveva;423,50;60,00;12,00;R$ 6.352,50
+Litoral Centro;Itanhaém;arrasto-duplo;Pescada-banana;25,50;5,00;4,00;R$ 680,00
+Litoral Centro;Itanhaém;arrasto-simples;Bagre-amarelo;22,50;4,00;3,00;R$ 337,50
+Litoral Centro;Itanhaém;arrasto-simples;Betara;8,00;1,00;1,00;R$ 152,00
+Litoral Centro;Itanhaém;arrasto-simples;Camarão-legítimo;10,30;16,00;6,00;R$ 1.030,00
+Litoral Centro;Itanhaém;arrasto-simples;Camarão-sete-barbas;2227,70;128,00;6,00;R$ 58.932,50
+Litoral Centro;Itanhaém;arrasto-simples;Lula;0,90;2,00;1,00;R$ 22,50
+Litoral Centro;Itanhaém;arrasto-simples;Lula-branca;0,20;2,00;1,00;R$ 5,00
+Litoral Centro;Itanhaém;arrasto-simples;Maria-luíza;17,00;4,00;2,00;R$ 255,00
+Litoral Centro;Itanhaém;arrasto-simples;Mistura;152,70;67,00;6,00;R$ 2.291,50
+Litoral Centro;Itanhaém;arrasto-simples;Oveva;27,00;4,00;2,00;R$ 405,00
+Litoral Centro;Itanhaém;arrasto-simples;Pescada-banana;16,00;6,00;3,00;R$ 470,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Bagre-amarelo;14,50;3,00;2,00;R$ 217,50
+Litoral Centro;Itanhaém;emalhe-de-fundo;Betara;13,00;2,00;2,00;R$ 234,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Cação-rola-rola;23,65;4,00;1,00;R$ 538,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Camarão-legítimo;3,70;2,00;1,00;R$ 185,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Corvina;697,80;47,00;3,00;R$ 13.534,10
+Litoral Centro;Itanhaém;emalhe-de-fundo;Enchova;3,00;2,00;1,00;R$ 79,50
+Litoral Centro;Itanhaém;emalhe-de-fundo;Espada;28,40;6,00;3,00;R$ 500,20
+Litoral Centro;Itanhaém;emalhe-de-fundo;Gordinho;5,60;4,00;3,00;R$ 90,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Guaivira;111,30;6,00;4,00;R$ 2.731,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Mistura;5,00;1,00;1,00;R$ 75,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Oveva;995,30;53,00;6,00;R$ 16.102,50
+Litoral Centro;Itanhaém;emalhe-de-fundo;Pescada-amarela;64,50;3,00;2,00;R$ 1.488,50
+Litoral Centro;Itanhaém;emalhe-de-fundo;Pescada-banana;75,80;5,00;2,00;R$ 1.964,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Pescada-branca;147,00;8,00;3,00;R$ 3.525,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Pescada-cambucu;89,30;5,00;3,00;R$ 3.079,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Pescada-dentão;45,00;2,00;2,00;R$ 1.100,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Pescada-foguete;884,50;36,00;4,00;R$ 19.364,90
+Litoral Centro;Itanhaém;emalhe-de-fundo;Porco;35,70;3,00;2,00;R$ 720,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Prejereba;16,30;6,00;2,00;R$ 520,50
+Litoral Centro;Itanhaém;emalhe-de-fundo;Robalo-peva;77,10;8,00;2,00;R$ 2.576,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Sari-sari;144,10;16,00;2,00;R$ 2.882,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Sororoca;131,70;16,00;4,00;R$ 3.701,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Tainha;76,80;11,00;2,00;R$ 1.883,00
+Litoral Centro;Itanhaém;emalhe-de-fundo;Vermelho-henrique;75,70;8,00;1,00;R$ 1.378,60
+Litoral Centro;Itanhaém;emalhe-de-fundo;Viola;10,00;1,00;1,00;R$ 300,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Bagre-branco;4,00;1,00;1,00;R$ 80,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Betara;2,00;1,00;1,00;R$ 40,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Corvina;15,90;5,00;3,00;R$ 307,40
+Litoral Centro;Itanhaém;emalhe-de-superfície;Enchova;3,80;2,00;1,00;R$ 95,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Espada;11,40;4,00;3,00;R$ 179,40
+Litoral Centro;Itanhaém;emalhe-de-superfície;Galo;6,00;1,00;1,00;R$ 120,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Guaivira;19,50;4,00;2,00;R$ 472,50
+Litoral Centro;Itanhaém;emalhe-de-superfície;Oveva;65,80;5,00;2,00;R$ 987,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Paru;11,00;1,00;1,00;R$ 220,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Pescada-branca;2,10;1,00;1,00;R$ 52,50
+Litoral Centro;Itanhaém;emalhe-de-superfície;Pescada-foguete;2,00;1,00;1,00;R$ 50,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Porco;25,50;4,00;2,00;R$ 560,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Prejereba;28,55;7,00;3,00;R$ 969,25
+Litoral Centro;Itanhaém;emalhe-de-superfície;Robalo-peva;6,00;2,00;2,00;R$ 184,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Sari-sari;97,70;10,00;3,00;R$ 1.706,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Sororoca;53,90;8,00;3,00;R$ 1.725,00
+Litoral Centro;Itanhaém;emalhe-de-superfície;Tainha;50,50;5,00;2,00;R$ 1.212,50
+Litoral Centro;Itanhaém;emalhes-diversos;Bagre-amarelo;907,50;51,00;4,00;R$ 13.612,50
+Litoral Centro;Itanhaém;emalhes-diversos;Bagre-branco;198,10;19,00;3,00;R$ 3.584,00
+Litoral Centro;Itanhaém;emalhes-diversos;Cação-rola-rola;109,50;18,00;4,00;R$ 3.078,60
+Litoral Centro;Itanhaém;emalhes-diversos;Caratinga;3,00;1,00;1,00;R$ 60,00
+Litoral Centro;Itanhaém;emalhes-diversos;Corvina;518,80;47,00;3,00;R$ 12.799,60
+Litoral Centro;Itanhaém;emalhes-diversos;Espada;29,00;17,00;3,00;R$ 515,00
+Litoral Centro;Itanhaém;emalhes-diversos;Gordinho;20,30;6,00;2,00;R$ 309,90
+Litoral Centro;Itanhaém;emalhes-diversos;Guaivira;61,80;12,00;2,00;R$ 1.236,00
+Litoral Centro;Itanhaém;emalhes-diversos;Mistura;38,00;10,00;5,00;R$ 570,00
+Litoral Centro;Itanhaém;emalhes-diversos;Oveva;1101,20;48,00;7,00;R$ 16.561,90
+Litoral Centro;Itanhaém;emalhes-diversos;Pampo;1,00;1,00;1,00;R$ 19,00
+Litoral Centro;Itanhaém;emalhes-diversos;Parati-barbudo;3,00;1,00;1,00;R$ 45,00
+Litoral Centro;Itanhaém;emalhes-diversos;Pescada-amarela;42,10;7,00;3,00;R$ 1.542,50
+Litoral Centro;Itanhaém;emalhes-diversos;Pescada-banana;361,50;46,00;5,00;R$ 10.482,50
+Litoral Centro;Itanhaém;emalhes-diversos;Pescada-branca;40,00;5,00;3,00;R$ 1.120,00
+Litoral Centro;Itanhaém;emalhes-diversos;Pescada-cambucu;68,00;10,00;2,00;R$ 2.195,00
+Litoral Centro;Itanhaém;emalhes-diversos;Pescada-dentão;7,00;2,00;1,00;R$ 225,00
+Litoral Centro;Itanhaém;emalhes-diversos;Pescada-foguete;716,60;55,00;4,00;R$ 20.988,30
+Litoral Centro;Itanhaém;emalhes-diversos;Prejereba;21,50;3,00;2,00;R$ 712,50
+Litoral Centro;Itanhaém;emalhes-diversos;Raia-ticonha;7,00;1,00;1,00;R$ 105,00
+Litoral Centro;Itanhaém;emalhes-diversos;Robalo-flecha;150,50;5,00;1,00;R$ 5.267,50
+Litoral Centro;Itanhaém;emalhes-diversos;Robalo-peva;447,70;27,00;4,00;R$ 14.519,50
+Litoral Centro;Itanhaém;emalhes-diversos;Roncador;8,00;1,00;1,00;R$ 120,00
+Litoral Centro;Itanhaém;emalhes-diversos;Sari-sari;255,90;24,00;4,00;R$ 5.013,00
+Litoral Centro;Itanhaém;emalhes-diversos;Sororoca;45,80;5,00;4,00;R$ 1.217,00
+Litoral Centro;Itanhaém;emalhes-diversos;Tainha;34,60;8,00;4,00;R$ 823,30
+Litoral Centro;Itanhaém;emalhes-diversos;Vermelho-henrique;86,80;13,00;1,00;R$ 2.170,00
+Litoral Centro;Itanhaém;extrativismo;Mexilhão;100,00;3,00;1,00;R$ 1.500,00
+Litoral Centro;Mongaguá;arrasto-simples;Camarão-legítimo;5,30;6,00;1,00;R$ 371,00
+Litoral Centro;Mongaguá;arrasto-simples;Camarão-sete-barbas;410,90;28,00;1,00;R$ 12.327,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Bagre-amarelo;2206,10;356,00;7,00;R$ 22.236,30
+Litoral Centro;Mongaguá;emalhe-de-fundo;Bagre-branco;9,10;3,00;2,00;R$ 136,50
+Litoral Centro;Mongaguá;emalhe-de-fundo;Betara;3645,40;366,00;6,00;R$ 57.254,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Cação-rola-rola;462,50;66,00;7,00;R$ 12.032,50
+Litoral Centro;Mongaguá;emalhe-de-fundo;Cações agrupados;319,70;26,00;4,00;R$ 7.710,50
+Litoral Centro;Mongaguá;emalhe-de-fundo;Camarão-legítimo;43,70;40,00;3,00;R$ 3.105,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Cambeva;94,60;20,00;3,00;R$ 1.513,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Cangoá;106,00;25,00;1,00;R$ 424,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Caratinga;10,00;1,00;1,00;R$ 70,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Corvina;2228,20;213,00;7,00;R$ 41.902,50
+Litoral Centro;Mongaguá;emalhe-de-fundo;Enchova;20,20;4,00;2,00;R$ 702,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Espada;1201,90;280,00;8,00;R$ 8.750,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Goete;193,50;44,00;3,00;R$ 1.889,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Gordinho;659,90;140,00;5,00;R$ 6.599,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Guaivira;292,40;26,00;7,00;R$ 3.100,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Mistura;342,00;93,00;1,00;R$ 1.362,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Oveva;4710,90;508,00;8,00;R$ 40.704,80
+Litoral Centro;Mongaguá;emalhe-de-fundo;Pampo;12,90;4,00;1,00;R$ 129,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Pescada-banana;636,10;79,00;6,00;R$ 16.050,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Pescada-branca;18,70;2,00;2,00;R$ 467,50
+Litoral Centro;Mongaguá;emalhe-de-fundo;Pescada-cambucu;39,20;6,00;2,00;R$ 814,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Pescada-foguete;14567,80;522,00;8,00;R$ 320.339,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Porco;3,00;3,00;2,00;R$ 90,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Robalo-peva;119,00;22,00;5,00;R$ 3.146,50
+Litoral Centro;Mongaguá;emalhe-de-fundo;Roncador;17,60;4,00;3,00;R$ 176,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Sari-sari;508,80;82,00;5,00;R$ 2.862,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Sororoca;52,40;11,00;3,00;R$ 941,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Tainha;1,50;1,00;1,00;R$ 45,00
+Litoral Centro;Mongaguá;emalhe-de-fundo;Vermelho-henrique;402,40;47,00;5,00;R$ 9.824,00
+Litoral Centro;Mongaguá;emalhe-de-superfície;Sororoca;2,50;1,00;1,00;R$ 75,00
+Litoral Centro;Mongaguá;emalhe-de-superfície;Tainha;11,80;1,00;1,00;R$ 413,00
+Litoral Centro;Mongaguá;emalhes-diversos;Bagre-amarelo;441,20;55,00;6,00;R$ 3.859,70
+Litoral Centro;Mongaguá;emalhes-diversos;Betara;249,20;31,00;5,00;R$ 4.642,50
+Litoral Centro;Mongaguá;emalhes-diversos;Cação-rola-rola;2,00;1,00;1,00;R$ 28,00
+Litoral Centro;Mongaguá;emalhes-diversos;Corvina;2,00;1,00;1,00;R$ 20,00
+Litoral Centro;Mongaguá;emalhes-diversos;Espada;104,80;25,00;3,00;R$ 1.111,70
+Litoral Centro;Mongaguá;emalhes-diversos;Gordinho;127,20;22,00;2,00;R$ 1.272,00
+Litoral Centro;Mongaguá;emalhes-diversos;Guaivira;53,00;1,00;1,00;R$ 212,00
+Litoral Centro;Mongaguá;emalhes-diversos;Mistura;42,00;5,00;1,00;R$ 153,00
+Litoral Centro;Mongaguá;emalhes-diversos;Oveva;1095,60;74,00;5,00;R$ 8.823,50
+Litoral Centro;Mongaguá;emalhes-diversos;Pescada-banana;332,40;19,00;3,00;R$ 5.746,50
+Litoral Centro;Mongaguá;emalhes-diversos;Pescada-foguete;2418,80;80,00;6,00;R$ 53.855,50
+Litoral Centro;Mongaguá;emalhes-diversos;Robalo-peva;54,20;6,00;2,00;R$ 1.264,00
+Litoral Centro;Mongaguá;emalhes-diversos;Sari-sari;5,10;1,00;1,00;R$ 51,00
+Litoral Centro;Mongaguá;emalhes-diversos;Tainha;145,00;2,00;1,00;R$ 1.740,00
+Litoral Centro;Peruíbe;arpão/fisga;Caratinga;18,00;3,00;1,00;R$ 360,00
+Litoral Centro;Peruíbe;arpão/fisga;Robalo-flecha;46,00;3,00;1,00;R$ 1.840,00
+Litoral Centro;Peruíbe;arpão/fisga;Robalo-peva;14,00;3,00;1,00;R$ 350,00
+Litoral Centro;Peruíbe;arpão/fisga;Sargo;19,00;3,00;1,00;R$ 380,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Agulha;1,80;1,00;1,00;R$ 18,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Bagre-amarelo;792,00;5,00;1,00;R$ 3.960,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Caratinga;9,10;2,00;1,00;R$ 136,50
+Litoral Centro;Peruíbe;arrasto-de-mão;Corvina;14,00;2,00;1,00;R$ 70,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Espada;88,00;8,00;2,00;R$ 520,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Gordinho;36,00;3,00;2,00;R$ 240,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Oveva;1105,00;7,00;2,00;R$ 5.575,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Parati;21,50;3,00;3,00;R$ 118,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Parati-barbudo;2,00;1,00;1,00;R$ 30,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Paru;5,00;1,00;1,00;R$ 25,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Pescada-banana;172,00;7,00;2,00;R$ 2.580,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Pescada-branca;180,00;4,00;1,00;R$ 2.700,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Pescada-foguete;20,00;1,00;1,00;R$ 300,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Porco;20,00;1,00;1,00;R$ 100,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Prejereba;10,00;1,00;1,00;R$ 200,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Robalo-flecha;35,00;3,00;2,00;R$ 1.050,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Robalo-peva;97,00;7,00;2,00;R$ 1.890,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Roncador;20,00;1,00;1,00;R$ 100,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Sargo;2,50;1,00;1,00;R$ 62,50
+Litoral Centro;Peruíbe;arrasto-de-mão;Sari-sari;180,00;4,00;2,00;R$ 1.000,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Siris agrupados;0,86;1,00;1,00;R$ 15,00
+Litoral Centro;Peruíbe;arrasto-de-mão;Tainha;770,20;8,00;5,00;R$ 12.824,00
+Litoral Centro;Peruíbe;arrasto-duplo;Camarão-legítimo;13,90;12,00;5,00;R$ 492,50
+Litoral Centro;Peruíbe;arrasto-duplo;Camarão-sete-barbas;16566,00;306,00;10,00;R$ 184.323,00
+Litoral Centro;Peruíbe;arrasto-duplo;Corvina;7,00;2,00;1,00;R$ 35,00
+Litoral Centro;Peruíbe;arrasto-duplo;Espada;48,00;10,00;5,00;R$ 233,00
+Litoral Centro;Peruíbe;arrasto-duplo;Maria-luíza;18,00;7,00;2,00;R$ 138,00
+Litoral Centro;Peruíbe;arrasto-duplo;Oveva;137,00;29,00;7,00;R$ 686,00
+Litoral Centro;Peruíbe;arrasto-duplo;Pescada-banana;199,50;37,00;8,00;R$ 2.992,50
+Litoral Centro;Peruíbe;arrasto-duplo;Pescada-cambucu;2,00;1,00;1,00;R$ 30,00
+Litoral Centro;Peruíbe;arrasto-duplo;Porco;2,00;1,00;1,00;R$ 10,00
+Litoral Centro;Peruíbe;arrasto-duplo;Robalo-flecha;15,00;1,00;1,00;R$ 450,00
+Litoral Centro;Peruíbe;covo-pitú;Pitú-de-iguape;4,35;3,00;1,00;R$ 203,00
+Litoral Centro;Peruíbe;covos outros;Siri-azul;3,44;1,00;1,00;R$ 60,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Agulha;1,00;1,00;1,00;R$ 10,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Bagre-amarelo;57,50;11,00;5,00;R$ 568,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Bagre-branco;883,70;36,00;9,00;R$ 16.010,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Betara;28,50;9,00;2,00;R$ 253,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Cação-rola-rola;24,80;4,00;1,00;R$ 377,60
+Litoral Centro;Peruíbe;emalhe-de-fundo;Camarão-legítimo;0,30;1,00;1,00;R$ 13,50
+Litoral Centro;Peruíbe;emalhe-de-fundo;Cambeva;2,00;1,00;1,00;R$ 50,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Caranha;35,40;8,00;5,00;R$ 728,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Caratinga;308,00;51,00;8,00;R$ 5.131,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Corvina;203,10;46,00;11,00;R$ 3.187,50
+Litoral Centro;Peruíbe;emalhe-de-fundo;Enchova;14,00;1,00;1,00;R$ 280,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Espada;18,50;6,00;4,00;R$ 131,50
+Litoral Centro;Peruíbe;emalhe-de-fundo;Garoupa;5,00;1,00;1,00;R$ 150,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Gordinho;5,00;2,00;1,00;R$ 20,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Guaivira;105,50;11,00;4,00;R$ 927,50
+Litoral Centro;Peruíbe;emalhe-de-fundo;Mandi;17,80;4,00;3,00;R$ 263,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Nundiá;47,00;2,00;2,00;R$ 705,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Oveva;123,50;22,00;5,00;R$ 831,50
+Litoral Centro;Peruíbe;emalhe-de-fundo;Pampo;21,90;4,00;3,00;R$ 325,60
+Litoral Centro;Peruíbe;emalhe-de-fundo;Pararê;77,20;19,00;8,00;R$ 926,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Pescada-amarela;316,00;38,00;10,00;R$ 10.500,10
+Litoral Centro;Peruíbe;emalhe-de-fundo;Pescada-banana;193,20;23,00;5,00;R$ 3.208,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Pescada-branca;6,00;2,00;2,00;R$ 180,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Pescada-cambucu;32,60;5,00;3,00;R$ 1.060,50
+Litoral Centro;Peruíbe;emalhe-de-fundo;Pescada-dentão;67,50;9,00;5,00;R$ 1.372,50
+Litoral Centro;Peruíbe;emalhe-de-fundo;Pescada-foguete;192,00;20,00;3,00;R$ 2.905,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Pirajica;8,30;3,00;2,00;R$ 56,90
+Litoral Centro;Peruíbe;emalhe-de-fundo;Porco;7,00;2,00;2,00;R$ 46,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Prejereba;3,00;1,00;1,00;R$ 105,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Robalo-flecha;699,60;56,00;10,00;R$ 24.449,50
+Litoral Centro;Peruíbe;emalhe-de-fundo;Robalo-peva;939,20;87,00;17,00;R$ 26.850,70
+Litoral Centro;Peruíbe;emalhe-de-fundo;Roncador;2,00;2,00;1,00;R$ 20,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Sargo;45,00;5,00;3,00;R$ 417,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Sari-sari;76,00;11,00;5,00;R$ 793,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Sororoca;16,00;2,00;1,00;R$ 320,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Tainha;375,50;23,00;6,00;R$ 7.391,50
+Litoral Centro;Peruíbe;emalhe-de-fundo;Traíra;29,00;2,00;2,00;R$ 522,00
+Litoral Centro;Peruíbe;emalhe-de-fundo;Ubarana;1,00;1,00;1,00;R$ 5,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Bagre-amarelo;192,50;16,00;3,00;R$ 1.515,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Bagre-branco;10,00;1,00;1,00;R$ 150,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Baiacu;4,00;1,00;1,00;R$ 60,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Bicuda;1,00;1,00;1,00;R$ 20,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Cação-cabeça-chata;12,00;1,00;1,00;R$ 240,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Cação-galha-preta;8,00;3,00;1,00;R$ 213,50
+Litoral Centro;Peruíbe;emalhe-de-superfície;Cação-rola-rola;50,00;10,00;2,00;R$ 1.000,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Cambeva;49,00;8,00;1,00;R$ 1.309,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Corvina;297,50;26,00;3,00;R$ 5.105,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Enchova;2,00;1,00;1,00;R$ 50,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Espada;16,50;5,00;2,00;R$ 117,50
+Litoral Centro;Peruíbe;emalhe-de-superfície;Galo;2,00;1,00;1,00;R$ 20,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Gordinho;28,40;8,00;2,00;R$ 272,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Guaivira;327,80;25,00;4,00;R$ 3.453,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Oveva;107,00;17,00;4,00;R$ 1.095,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Pampo;2,00;1,00;1,00;R$ 30,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Pescada-banana;6,10;3,00;2,00;R$ 94,50
+Litoral Centro;Peruíbe;emalhe-de-superfície;Pescada-cambucu;5,00;1,00;1,00;R$ 175,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Pescada-dentão;45,00;6,00;4,00;R$ 764,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Porco;7,00;2,00;1,00;R$ 70,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Prejereba;47,10;8,00;3,00;R$ 918,40
+Litoral Centro;Peruíbe;emalhe-de-superfície;Robalo-flecha;2,00;1,00;1,00;R$ 70,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Robalo-peva;355,00;35,00;5,00;R$ 12.275,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Sargo;2,00;1,00;1,00;R$ 30,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Sari-sari;287,00;30,00;6,00;R$ 3.005,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Siri-espadinha;1,70;1,00;1,00;R$ 40,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Sororoca;143,00;11,00;4,00;R$ 2.610,00
+Litoral Centro;Peruíbe;emalhe-de-superfície;Tainha;309,50;18,00;5,00;R$ 6.190,00
+Litoral Centro;Peruíbe;emalhes-diversos;Bagre-amarelo;753,00;25,00;5,00;R$ 4.285,00
+Litoral Centro;Peruíbe;emalhes-diversos;Bagre-branco;7,50;2,00;1,00;R$ 112,50
+Litoral Centro;Peruíbe;emalhes-diversos;Betara;0,80;1,00;1,00;R$ 8,00
+Litoral Centro;Peruíbe;emalhes-diversos;Cação-rola-rola;12,00;1,00;1,00;R$ 240,00
+Litoral Centro;Peruíbe;emalhes-diversos;Cações agrupados;3,00;1,00;1,00;R$ 51,00
+Litoral Centro;Peruíbe;emalhes-diversos;Cangoá;1,00;1,00;1,00;R$ 4,00
+Litoral Centro;Peruíbe;emalhes-diversos;Caratinga;338,00;21,00;7,00;R$ 4.860,00
+Litoral Centro;Peruíbe;emalhes-diversos;Corvina;144,50;11,00;6,00;R$ 2.445,00
+Litoral Centro;Peruíbe;emalhes-diversos;Espada;12,50;5,00;4,00;R$ 77,50
+Litoral Centro;Peruíbe;emalhes-diversos;Guaivira;4,00;2,00;2,00;R$ 50,00
+Litoral Centro;Peruíbe;emalhes-diversos;Mandi;1,50;1,00;1,00;R$ 15,00
+Litoral Centro;Peruíbe;emalhes-diversos;Oveva;660,00;37,00;7,00;R$ 3.700,00
+Litoral Centro;Peruíbe;emalhes-diversos;Parati;3,80;3,00;1,00;R$ 38,00
+Litoral Centro;Peruíbe;emalhes-diversos;Pescada-amarela;46,00;6,00;2,00;R$ 1.405,00
+Litoral Centro;Peruíbe;emalhes-diversos;Pescada-banana;986,00;54,00;6,00;R$ 15.300,00
+Litoral Centro;Peruíbe;emalhes-diversos;Pescada-cambucu;65,60;4,00;2,00;R$ 1.014,00
+Litoral Centro;Peruíbe;emalhes-diversos;Pescada-dentão;105,00;16,00;5,00;R$ 1.659,50
+Litoral Centro;Peruíbe;emalhes-diversos;Pescada-foguete;908,00;58,00;6,00;R$ 13.970,00
+Litoral Centro;Peruíbe;emalhes-diversos;Robalo-flecha;438,90;34,00;7,00;R$ 13.675,00
+Litoral Centro;Peruíbe;emalhes-diversos;Robalo-peva;135,80;18,00;6,00;R$ 3.337,00
+Litoral Centro;Peruíbe;emalhes-diversos;Sargo;9,00;2,00;2,00;R$ 180,00
+Litoral Centro;Peruíbe;emalhes-diversos;Sari-sari;132,00;15,00;7,00;R$ 1.441,00
+Litoral Centro;Peruíbe;emalhes-diversos;Tainha;312,10;24,00;12,00;R$ 6.146,50
+Litoral Centro;Peruíbe;espinhéis-diversos;Bagre-branco;45,00;1,00;1,00;R$ 675,00
+Litoral Centro;Peruíbe;extrativismo;Caranguejo-uçá;629,80;18,00;8,00;R$ 6.546,00
+Litoral Centro;Peruíbe;extrativismo;Mexilhão;3612,84;93,00;17,00;R$ 45.395,00
+Litoral Centro;Peruíbe;extrativismo;Ostra;120,35;10,00;2,00;R$ 2.371,00
+Litoral Centro;Peruíbe;tarrafa;Caranha;2,00;1,00;1,00;R$ 40,00
+Litoral Centro;Peruíbe;tarrafa;Caratinga;17,00;9,00;1,00;R$ 255,00
+Litoral Centro;Peruíbe;tarrafa;Parati;72,00;10,00;1,00;R$ 720,00
+Litoral Centro;Peruíbe;tarrafa;Robalo-flecha;2,00;1,00;1,00;R$ 50,00
+Litoral Centro;Peruíbe;tarrafa;Robalo-peva;5,00;2,00;1,00;R$ 125,00
+Litoral Centro;Peruíbe;tarrafa;Sargo;3,00;1,00;1,00;R$ 45,00
+Litoral Centro;Peruíbe;tarrafa;Tainha;28,00;7,00;1,00;R$ 420,00
+Litoral Centro;Peruíbe;vara-de-pesca;Bagre-branco;18,90;3,00;2,00;R$ 171,00
+Litoral Centro;Peruíbe;vara-de-pesca;Baiacu;3,00;1,00;1,00;R$ 45,00
+Litoral Centro;Peruíbe;vara-de-pesca;Bicuda;135,00;6,00;1,00;R$ 1.965,00
+Litoral Centro;Peruíbe;vara-de-pesca;Cação-lombo-preto;28,00;2,00;1,00;R$ 476,00
+Litoral Centro;Peruíbe;vara-de-pesca;Cangoá;3,00;1,00;1,00;R$ 15,00
+Litoral Centro;Peruíbe;vara-de-pesca;Carapau;5,00;1,00;1,00;R$ 25,00
+Litoral Centro;Peruíbe;vara-de-pesca;Cioba;60,00;1,00;1,00;R$ 900,00
+Litoral Centro;Peruíbe;vara-de-pesca;Corvina;545,20;36,00;3,00;R$ 5.493,00
+Litoral Centro;Peruíbe;vara-de-pesca;Dourado;28,00;2,00;1,00;R$ 336,00
+Litoral Centro;Peruíbe;vara-de-pesca;Espada;425,00;16,00;1,00;R$ 2.125,00
+Litoral Centro;Peruíbe;vara-de-pesca;Galo;44,20;4,00;2,00;R$ 442,00
+Litoral Centro;Peruíbe;vara-de-pesca;Garoupa;10,00;1,00;1,00;R$ 250,00
+Litoral Centro;Peruíbe;vara-de-pesca;Goete;5,00;1,00;1,00;R$ 50,00
+Litoral Centro;Peruíbe;vara-de-pesca;Pampo;19,50;2,00;2,00;R$ 292,50
+Litoral Centro;Peruíbe;vara-de-pesca;Pescada-amarela;107,50;21,00;2,00;R$ 3.225,00
+Litoral Centro;Peruíbe;vara-de-pesca;Pescada-branca;1,00;1,00;1,00;R$ 20,00
+Litoral Centro;Peruíbe;vara-de-pesca;Pescada-cambucu;4,00;1,00;1,00;R$ 60,00
+Litoral Centro;Peruíbe;vara-de-pesca;Pescada-dentão;5,00;2,00;1,00;R$ 100,00
+Litoral Centro;Peruíbe;vara-de-pesca;Porco;15,00;2,00;1,00;R$ 170,00
+Litoral Centro;Peruíbe;vara-de-pesca;Prejereba;264,00;22,00;1,00;R$ 5.280,00
+Litoral Centro;Peruíbe;vara-de-pesca;Robalo-flecha;173,00;11,00;1,00;R$ 5.190,00
+Litoral Centro;Peruíbe;vara-de-pesca;Robalo-peva;115,10;28,00;2,00;R$ 2.877,50
+Litoral Centro;Peruíbe;vara-de-pesca;Roncador;10,00;1,00;1,00;R$ 50,00
+Litoral Centro;Peruíbe;vara-de-pesca;Sargo;28,00;7,00;2,00;R$ 370,00
+Litoral Centro;Peruíbe;vara-de-pesca;Tainha;12,00;1,00;1,00;R$ 240,00
+Litoral Centro;Peruíbe;vara-de-pesca;Traíra;13,30;5,00;1,00;R$ 199,50
+Litoral Centro;Peruíbe;vara-de-pesca;Vermelho-henrique;2,00;1,00;1,00;R$ 30,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Bagre-amarelo;424,00;62,00;5,00;R$ 948,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Bagre-branco;56,80;6,00;2,00;R$ 352,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Betara;1129,00;292,00;9,00;R$ 7.151,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Bicuda;4,00;3,00;1,00;R$ 28,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Bonitos agrupados;4,00;2,00;2,00;R$ 37,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Cação-rola-rola;191,00;33,00;3,00;R$ 1.713,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Camarão-legítimo;4,50;9,00;1,00;R$ 210,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Cambeva;190,50;39,00;4,00;R$ 1.910,50
+Litoral Centro;Praia Grande;emalhe-de-fundo;Cangoá;4,00;1,00;1,00;R$ 28,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Caranha;2,50;1,00;1,00;R$ 25,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Corvina;1959,60;320,00;15,00;R$ 23.658,20
+Litoral Centro;Praia Grande;emalhe-de-fundo;Enchova;14,00;8,00;3,00;R$ 147,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Espada;324,00;69,00;7,00;R$ 1.551,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Gordinho;6,50;2,00;1,00;R$ 60,50
+Litoral Centro;Praia Grande;emalhe-de-fundo;Guaivira;357,00;83,00;8,00;R$ 1.682,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Mistura;1272,00;405,00;14,00;R$ 4.815,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Oveva;635,00;85,00;9,00;R$ 2.880,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Pescada-amarela;29,50;4,00;2,00;R$ 1.012,50
+Litoral Centro;Praia Grande;emalhe-de-fundo;Pescada-banana;4,00;1,00;1,00;R$ 60,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Pescada-branca;25,00;10,00;1,00;R$ 303,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Pescada-cambucu;33,00;12,00;4,00;R$ 619,50
+Litoral Centro;Praia Grande;emalhe-de-fundo;Pescada-dentão;10,00;2,00;1,00;R$ 150,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Pescada-foguete;6799,80;498,00;14,00;R$ 98.256,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Porco;64,00;23,00;1,00;R$ 553,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Prejereba;49,50;12,00;4,00;R$ 730,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Robalo-flecha;715,60;69,00;5,00;R$ 28.624,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Robalo-peva;332,00;95,00;11,00;R$ 7.188,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Sargo;13,20;6,00;2,00;R$ 126,60
+Litoral Centro;Praia Grande;emalhe-de-fundo;Sororoca;114,00;42,00;7,00;R$ 1.140,50
+Litoral Centro;Praia Grande;emalhe-de-fundo;Tainha;15,00;8,00;2,00;R$ 154,00
+Litoral Centro;Praia Grande;emalhe-de-fundo;Vermelho-henrique;27,50;9,00;3,00;R$ 297,00
+Litoral Centro;Praia Grande;emalhes-diversos;Betara;46,00;24,00;4,00;R$ 220,00
+Litoral Centro;Praia Grande;emalhes-diversos;Cação-rola-rola;24,00;4,00;2,00;R$ 468,00
+Litoral Centro;Praia Grande;emalhes-diversos;Cambeva;3,50;2,00;1,00;R$ 70,00
+Litoral Centro;Praia Grande;emalhes-diversos;Corvina;82,00;23,00;6,00;R$ 1.118,00
+Litoral Centro;Praia Grande;emalhes-diversos;Enchova;2,00;1,00;1,00;R$ 20,00
+Litoral Centro;Praia Grande;emalhes-diversos;Espada;16,00;5,00;2,00;R$ 112,00
+Litoral Centro;Praia Grande;emalhes-diversos;Guaivira;267,00;8,00;2,00;R$ 2.670,00
+Litoral Centro;Praia Grande;emalhes-diversos;Mistura;95,00;37,00;6,00;R$ 406,00
+Litoral Centro;Praia Grande;emalhes-diversos;Oveva;621,00;73,00;6,00;R$ 3.012,00
+Litoral Centro;Praia Grande;emalhes-diversos;Pescada-banana;61,00;9,00;3,00;R$ 915,00
+Litoral Centro;Praia Grande;emalhes-diversos;Pescada-branca;8,50;3,00;1,00;R$ 212,50
+Litoral Centro;Praia Grande;emalhes-diversos;Pescada-cambucu;25,00;1,00;1,00;R$ 375,00
+Litoral Centro;Praia Grande;emalhes-diversos;Pescada-foguete;2451,50;111,00;7,00;R$ 37.168,00
+Litoral Centro;Praia Grande;emalhes-diversos;Prejereba;16,00;4,00;2,00;R$ 320,00
+Litoral Centro;Praia Grande;emalhes-diversos;Robalo-peva;0,50;1,00;1,00;R$ 7,50
+Litoral Centro;Praia Grande;emalhes-diversos;Sari-sari;6,00;1,00;1,00;R$ 60,00
+Litoral Centro;Praia Grande;emalhes-diversos;Sororoca;42,00;5,00;2,00;R$ 780,00
+Litoral Centro;Praia Grande;emalhes-diversos;Tainha;8,00;2,00;1,00;R$ 160,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Abrótea;5503,80;76,00;19,00;R$ 25.474,20
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Bagre-branco;1927,00;18,00;10,00;R$ 13.269,90
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Betara;11868,00;201,00;48,00;R$ 57.105,80
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Bicuda;796,00;23,00;5,00;R$ 3.013,90
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Cabrinha;62895,00;84,00;15,00;R$ 309.670,90
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Cações agrupados;1768,00;12,00;8,00;R$ 25.148,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Camarão-legítimo;9086,50;222,00;53,00;R$ 411.443,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Camarão-rosa;186246,00;106,00;24,00;R$ 12.526.642,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Camarão-sete-barbas;695049,00;1305,00;107,00;R$ 5.430.416,66
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Congro-rosa;6,00;1,00;1,00;R$ 96,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Corvina;6803,50;80,00;26,00;R$ 50.247,90
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Espada;2858,00;84,00;30,00;R$ 10.500,20
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Galo;772,00;36,00;6,00;R$ 2.818,60
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Garoupa;11,00;1,00;1,00;R$ 330,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Goete;5824,00;58,00;15,00;R$ 36.913,62
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Gordinho;1565,00;35,00;5,00;R$ 6.521,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Lagostim;21,00;1,00;1,00;R$ 315,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Linguado;5844,00;67,00;20,00;R$ 143.568,50
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Linguado-areia;80,00;2,00;2,00;R$ 2.000,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Lula;12482,00;76,00;21,00;R$ 273.908,50
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Maria-luíza;1095,00;64,00;25,00;R$ 2.862,40
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Maria-mole;1458,00;40,00;5,00;R$ 8.202,90
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Mistura;73487,00;112,00;26,00;R$ 392.557,80
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Namorado;1633,00;42,00;8,00;R$ 28.286,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Olho-de-cão;1920,00;50,00;12,00;R$ 16.299,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Oveva;1920,00;83,00;28,00;R$ 6.012,50
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Pargo-rosa;2204,00;55,00;16,00;R$ 21.509,10
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Pescada-banana;506,00;32,00;20,00;R$ 1.979,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Pescada-foguete;5749,00;162,00;37,00;R$ 38.804,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Pescadas agrupadas;618,00;3,00;1,00;R$ 6.180,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Polvo;9611,40;101,00;24,00;R$ 356.087,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Polvo-saquinho;809,00;21,00;5,00;R$ 5.109,10
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Porco;27748,00;58,00;20,00;R$ 217.736,70
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Raia-emplastro;10375,00;43,00;17,00;R$ 52.459,50
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Raias agrupadas;10,00;1,00;1,00;R$ 35,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Robalo-flecha;17,50;2,00;2,00;R$ 412,50
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Sapateira;128,00;17,00;9,00;R$ 3.400,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Tira-vira;7342,00;66,00;12,00;R$ 38.682,60
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Trilha;29399,00;87,00;21,00;R$ 179.305,10
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Trombeta;293,90;14,00;9,00;R$ 2.866,20
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Trombeta-vermelha;50,00;1,00;1,00;R$ 600,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Vermelho-henrique;800,00;9,00;7,00;R$ 8.110,00
+Litoral Centro;Santos/Guarujá;arrasto-duplo;Viola;1430,00;4,00;4,00;R$ 22.800,00
+Litoral Centro;Santos/Guarujá;arrasto-simples;Camarão-legítimo;2,00;1,00;1,00;R$ 110,00
+Litoral Centro;Santos/Guarujá;arrasto-simples;Camarão-sete-barbas;571,00;35,00;3,00;R$ 13.135,00
+Litoral Centro;Santos/Guarujá;arrasto-simples;Maria-luíza;3,00;2,00;1,00;R$ 20,00
+Litoral Centro;Santos/Guarujá;arrasto-simples;Mistura;35,00;6,00;2,00;R$ 168,00
+Litoral Centro;Santos/Guarujá;arrasto-simples;Oveva;7,00;1,00;1,00;R$ 70,00
+Litoral Centro;Santos/Guarujá;arrasto-simples;Pescada-banana;59,00;16,00;2,00;R$ 875,50
+Litoral Centro;Santos/Guarujá;cerco;Bagre-branco;10400,00;3,00;2,00;R$ 66.350,00
+Litoral Centro;Santos/Guarujá;cerco;Carapau;20700,00;1,00;1,00;R$ 136.620,00
+Litoral Centro;Santos/Guarujá;cerco;Cavalinha;34500,00;2,00;2,00;R$ 105.850,00
+Litoral Centro;Santos/Guarujá;cerco;Enchova;55,00;1,00;1,00;R$ 660,00
+Litoral Centro;Santos/Guarujá;cerco;Espada;24280,00;11,00;8,00;R$ 83.532,00
+Litoral Centro;Santos/Guarujá;cerco;Galo;15850,00;7,00;2,00;R$ 74.400,00
+Litoral Centro;Santos/Guarujá;cerco;Mistura;3690,00;8,00;2,00;R$ 18.450,00
+Litoral Centro;Santos/Guarujá;cerco;Olhete;2800,00;1,00;1,00;R$ 14.000,00
+Litoral Centro;Santos/Guarujá;cerco;Palombeta;308880,00;17,00;7,00;R$ 921.856,00
+Litoral Centro;Santos/Guarujá;cerco;Paru;21500,00;2,00;2,00;R$ 130.420,00
+Litoral Centro;Santos/Guarujá;cerco;Pescada-cambucu;49500,00;4,00;2,00;R$ 1.485.000,00
+Litoral Centro;Santos/Guarujá;cerco;Sardinha-verdadeira;20800,00;3,00;3,00;R$ 75.680,00
+Litoral Centro;Santos/Guarujá;cerco;Savelha;8000,00;4,00;2,00;R$ 24.000,00
+Litoral Centro;Santos/Guarujá;cerco;Xarelete;30800,00;1,00;1,00;R$ 154.000,00
+Litoral Centro;Santos/Guarujá;cerco;Xaréu-branco;50,00;1,00;1,00;R$ 400,00
+Litoral Centro;Santos/Guarujá;covo-polvo;Abrótea;367,90;10,00;5,00;R$ 1.684,50
+Litoral Centro;Santos/Guarujá;covo-polvo;Polvo;138461,00;43,00;11,00;R$ 5.228.194,00
+Litoral Centro;Santos/Guarujá;covo-polvo;Sapateira;132,20;15,00;8,00;R$ 3.770,20
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Bagre-amarelo;1547,00;85,00;13,00;R$ 7.550,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Bagre-branco;4952,00;63,00;22,00;R$ 36.434,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Betara;4744,00;53,00;13,00;R$ 31.858,50
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Bicuda;392,00;6,00;5,00;R$ 2.809,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Cabrinha;2754,00;31,00;8,00;R$ 10.644,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Cação-rola-rola;2103,50;31,00;11,00;R$ 34.185,50
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Cações agrupados;168,60;6,00;4,00;R$ 2.620,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Camarão-legítimo;65,00;10,00;5,00;R$ 3.230,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Cambeva;1867,00;21,00;8,00;R$ 28.254,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Cangoá;1320,00;9,00;5,00;R$ 3.265,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Carapeba;315,50;37,00;13,00;R$ 3.832,50
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Caratinga;125,00;2,00;2,00;R$ 990,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Cioba;1,00;1,00;1,00;R$ 18,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Corcoroca;100,00;1,00;1,00;R$ 300,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Corvina;50655,60;217,00;36,00;R$ 437.051,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Enchova;291,00;11,00;6,00;R$ 2.834,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Espada;3375,00;52,00;20,00;R$ 17.018,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Galo;205,00;12,00;7,00;R$ 967,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Garoupa;7,00;1,00;1,00;R$ 210,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Goete;4078,00;32,00;10,00;R$ 40.393,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Gordinho;1201,00;19,00;9,00;R$ 5.281,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Guaivira;8834,00;40,00;13,00;R$ 34.662,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Lagosta;4,00;2,00;2,00;R$ 280,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Linguado;2,00;1,00;1,00;R$ 40,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Maria-luíza;462,00;7,00;4,00;R$ 2.198,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Miraguaia;38,00;2,00;2,00;R$ 358,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Mistura;10814,00;127,00;17,00;R$ 46.920,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Oveva;9358,00;58,00;13,00;R$ 35.093,50
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Palombeta;490,00;5,00;4,00;R$ 1.219,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Pampo;28,00;6,00;4,00;R$ 256,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Parati;859,00;33,00;8,00;R$ 11.456,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Paru;1288,50;24,00;14,00;R$ 9.297,50
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Pescada-amarela;275,00;34,00;11,00;R$ 8.875,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Pescada-banana;110,00;4,00;4,00;R$ 980,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Pescada-branca;1747,00;25,00;9,00;R$ 44.223,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Pescada-cambucu;986,50;20,00;10,00;R$ 28.714,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Pescada-dentão;46,00;8,00;5,00;R$ 757,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Pescada-foguete;89253,00;199,00;20,00;R$ 940.367,50
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Pirajica;15,00;3,00;3,00;R$ 106,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Porco;159,00;7,00;6,00;R$ 1.162,50
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Raia-manteiga;10,00;1,00;1,00;R$ 10,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Robalo-flecha;1338,50;83,00;15,00;R$ 50.530,60
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Robalo-peva;1300,50;92,00;24,00;R$ 32.778,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Roncador;5,00;1,00;1,00;R$ 20,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Salema;19,00;4,00;3,00;R$ 170,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Sargo;103,00;13,00;6,00;R$ 1.821,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Sari-sari;54,00;3,00;2,00;R$ 315,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Siri-azul;4,30;3,00;3,00;R$ 146,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Siri-fedido;35,00;3,00;2,00;R$ 130,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Sororoca;1475,60;26,00;9,00;R$ 14.238,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Tainha;158,00;14,00;9,00;R$ 2.625,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Vermelho-henrique;1481,50;14,00;7,00;R$ 15.262,00
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Viola;390,50;5,00;5,00;R$ 5.013,50
+Litoral Centro;Santos/Guarujá;emalhe-de-fundo;Xaréu;31,00;4,00;3,00;R$ 375,00
+Litoral Centro;Santos/Guarujá;emalhe-de-superfície;Parati;10,00;1,00;1,00;R$ 120,00
+Litoral Centro;Santos/Guarujá;emalhe-de-superfície;Tainha;30,00;1,00;1,00;R$ 600,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Bagre-amarelo;113,70;5,00;3,00;R$ 1.068,50
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Bagre-branco;106,00;2,00;2,00;R$ 1.090,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Betara;16,30;3,00;1,00;R$ 81,50
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Bonitos agrupados;5,00;1,00;1,00;R$ 40,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Cambeva;3,00;1,00;1,00;R$ 30,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Carapeba;17,50;4,00;2,00;R$ 143,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Corvina;80,00;4,00;2,00;R$ 1.200,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Enchova;12,00;4,00;3,00;R$ 180,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Espada;6,00;2,00;2,00;R$ 20,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Galo;5,00;2,00;1,00;R$ 25,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Guaivira;148,00;13,00;5,00;R$ 973,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Maria-luíza;36,20;4,00;1,00;R$ 181,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Mistura;22,00;1,00;1,00;R$ 110,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Oveva;36,30;4,00;1,00;R$ 221,50
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Pampo;2,00;1,00;1,00;R$ 10,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Paru;2,00;1,00;1,00;R$ 20,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Pescada-banana;4,00;1,00;1,00;R$ 48,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Pescada-branca;5,00;1,00;1,00;R$ 125,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Pescada-cambucu;3,00;1,00;1,00;R$ 54,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Pescada-foguete;165,50;5,00;1,00;R$ 1.986,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Porco;16,00;4,00;1,00;R$ 122,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Robalo-peva;17,00;6,00;4,00;R$ 315,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Sargo;8,00;1,00;1,00;R$ 136,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Sororoca;163,00;12,00;5,00;R$ 1.956,00
+Litoral Centro;Santos/Guarujá;emalhes-diversos;Tainha;786,50;19,00;6,00;R$ 10.847,00
+Litoral Centro;Santos/Guarujá;espinhéis-diversos;Chernes agrupados;58,00;4,00;1,00;R$ 1.020,00
+Litoral Centro;Santos/Guarujá;espinhel-de-superfície-costeiro;Albacora-branca;527,00;4,00;1,00;R$ 10.990,00
+Litoral Centro;Santos/Guarujá;espinhel-de-superfície-costeiro;Albacora-de-laje;56,00;1,00;1,00;R$ 2.240,00
+Litoral Centro;Santos/Guarujá;espinhel-de-superfície-costeiro;Anequim;14200,00;5,00;1,00;R$ 239.600,00
+Litoral Centro;Santos/Guarujá;espinhel-de-superfície-costeiro;Cação-azul;16280,00;5,00;1,00;R$ 228.100,00
+Litoral Centro;Santos/Guarujá;espinhel-de-superfície-costeiro;Dourado;200,00;2,00;1,00;R$ 3.520,00
+Litoral Centro;Santos/Guarujá;espinhel-de-superfície-costeiro;Espadarte;20900,00;5,00;1,00;R$ 555.200,00
+Litoral Centro;Santos/Guarujá;espinhel-de-superfície-costeiro;Lua;45,00;1,00;1,00;R$ 540,00
+Litoral Centro;Santos/Guarujá;espinhel-de-superfície-costeiro;Peixe-prego;202,00;3,00;1,00;R$ 5.225,00
+Litoral Centro;Santos/Guarujá;extrativismo;Berbigão;68,00;4,00;2,00;R$ 820,00
+Litoral Centro;Santos/Guarujá;extrativismo;Caranguejo-uçá;8291,33;423,00;28,00;R$ 63.828,49
+Litoral Centro;Santos/Guarujá;extrativismo;Mexilhão;243,00;7,00;5,00;R$ 3.275,00
+Litoral Centro;Santos/Guarujá;extrativismo;Mexilhão-do-mangue;3114,40;52,00;12,00;R$ 7.997,43
+Litoral Centro;Santos/Guarujá;extrativismo;Ostra;736,77;29,00;11,00;R$ 16.541,17
+Litoral Centro;Santos/Guarujá;extrativismo;Saquaritá;8,00;2,00;2,00;R$ 120,00
+Litoral Centro;Santos/Guarujá;extrativismo;Siri-azul;6,02;2,00;1,00;R$ 280,00
+Litoral Centro;Santos/Guarujá;extrativismo;Siris agrupados;6,02;1,00;1,00;R$ 280,00
+Litoral Centro;Santos/Guarujá;gerival;Camarão-legítimo;44,48;27,00;4,00;R$ 4.633,00
+Litoral Centro;Santos/Guarujá;linha-de-mão;Chernes agrupados;17,00;1,00;1,00;R$ 425,00
+Litoral Centro;Santos/Guarujá;linha-de-mão;Garoupa;5,00;1,00;1,00;R$ 250,00
+Litoral Centro;Santos/Guarujá;parelha;Bagre-branco;19841,00;34,00;4,00;R$ 126.212,00
+Litoral Centro;Santos/Guarujá;parelha;Baiacu;160,00;2,00;2,00;R$ 1.280,00
+Litoral Centro;Santos/Guarujá;parelha;Betara;40007,00;34,00;4,00;R$ 255.252,00
+Litoral Centro;Santos/Guarujá;parelha;Bicuda;4700,00;13,00;4,00;R$ 28.300,00
+Litoral Centro;Santos/Guarujá;parelha;Cabrinha;12747,00;32,00;4,00;R$ 49.628,00
+Litoral Centro;Santos/Guarujá;parelha;Cações agrupados;585,00;4,00;3,00;R$ 9.060,00
+Litoral Centro;Santos/Guarujá;parelha;Carapau;90,00;3,00;3,00;R$ 645,00
+Litoral Centro;Santos/Guarujá;parelha;Carapeba;1010,00;5,00;3,00;R$ 3.970,00
+Litoral Centro;Santos/Guarujá;parelha;Caratinga;6630,00;21,00;4,00;R$ 32.228,00
+Litoral Centro;Santos/Guarujá;parelha;Castanha;8300,00;3,00;2,00;R$ 57.800,00
+Litoral Centro;Santos/Guarujá;parelha;Corcoroca;300,00;1,00;1,00;R$ 1.050,00
+Litoral Centro;Santos/Guarujá;parelha;Corvina;479550,00;35,00;4,00;R$ 4.135.050,00
+Litoral Centro;Santos/Guarujá;parelha;Enchova;2419,00;19,00;4,00;R$ 23.730,00
+Litoral Centro;Santos/Guarujá;parelha;Espada;63710,00;35,00;4,00;R$ 290.915,00
+Litoral Centro;Santos/Guarujá;parelha;Galo;10810,00;28,00;4,00;R$ 46.795,00
+Litoral Centro;Santos/Guarujá;parelha;Galo-de-penacho;800,00;6,00;1,00;R$ 3.825,00
+Litoral Centro;Santos/Guarujá;parelha;Goete;72120,00;33,00;4,00;R$ 714.800,00
+Litoral Centro;Santos/Guarujá;parelha;Gordinho;9900,00;26,00;4,00;R$ 40.320,00
+Litoral Centro;Santos/Guarujá;parelha;Guaivira;42234,00;29,00;4,00;R$ 147.620,50
+Litoral Centro;Santos/Guarujá;parelha;Linguado;100,00;2,00;1,00;R$ 2.750,00
+Litoral Centro;Santos/Guarujá;parelha;Linguado-areia;810,00;15,00;4,00;R$ 16.205,00
+Litoral Centro;Santos/Guarujá;parelha;Maria-luíza;610,00;2,00;2,00;R$ 2.710,00
+Litoral Centro;Santos/Guarujá;parelha;Mistura;45920,00;35,00;4,00;R$ 150.855,00
+Litoral Centro;Santos/Guarujá;parelha;Olho-de-cão;2500,00;8,00;3,00;R$ 14.210,00
+Litoral Centro;Santos/Guarujá;parelha;Oveva;73840,00;31,00;4,00;R$ 237.625,00
+Litoral Centro;Santos/Guarujá;parelha;Palombeta;12185,00;28,00;4,00;R$ 27.565,00
+Litoral Centro;Santos/Guarujá;parelha;Pampo;412,00;7,00;3,00;R$ 2.121,00
+Litoral Centro;Santos/Guarujá;parelha;Paru;1800,00;4,00;3,00;R$ 8.750,00
+Litoral Centro;Santos/Guarujá;parelha;Pescada-branca;44300,00;35,00;4,00;R$ 1.103.800,00
+Litoral Centro;Santos/Guarujá;parelha;Pescada-cambucu;4843,00;22,00;4,00;R$ 138.634,00
+Litoral Centro;Santos/Guarujá;parelha;Pescada-foguete;211100,00;35,00;4,00;R$ 2.249.500,00
+Litoral Centro;Santos/Guarujá;parelha;Porco;78268,00;33,00;4,00;R$ 560.780,00
+Litoral Centro;Santos/Guarujá;parelha;Porco-chinelo;6210,00;11,00;4,00;R$ 36.735,00
+Litoral Centro;Santos/Guarujá;parelha;Raias agrupadas;338,00;7,00;2,00;R$ 861,50
+Litoral Centro;Santos/Guarujá;parelha;Robalo-peva;686,00;11,00;4,00;R$ 17.150,00
+Litoral Centro;Santos/Guarujá;parelha;Roncador;15700,00;29,00;4,00;R$ 63.200,00
+Litoral Centro;Santos/Guarujá;parelha;Sari-sari;385,00;5,00;3,00;R$ 2.030,00
+Litoral Centro;Santos/Guarujá;parelha;Sororoca;1200,00;7,00;3,00;R$ 11.520,00
+Litoral Centro;Santos/Guarujá;parelha;Vermelho-henrique;1510,00;7,00;3,00;R$ 16.080,00
+Litoral Centro;Santos/Guarujá;parelha;Xaréu-branco;75,00;2,00;1,00;R$ 600,00
+Litoral Centro;Santos/Guarujá;tarrafa;Carapeba;29,00;5,00;2,00;R$ 272,00
+Litoral Centro;Santos/Guarujá;tarrafa;Caratinga;2,30;1,00;1,00;R$ 23,00
+Litoral Centro;Santos/Guarujá;tarrafa;Corvina;6,00;2,00;2,00;R$ 90,00
+Litoral Centro;Santos/Guarujá;tarrafa;Parati;302,00;13,00;3,00;R$ 3.363,00
+Litoral Centro;Santos/Guarujá;tarrafa;Paru;2,00;1,00;1,00;R$ 10,00
+Litoral Centro;Santos/Guarujá;tarrafa;Robalo-flecha;15,00;1,00;1,00;R$ 450,00
+Litoral Centro;Santos/Guarujá;vara-de-pesca;Robalo-flecha;20,00;1,00;1,00;R$ 800,00
+Litoral Centro;Santos/Guarujá;;;0,00;6,00;6,00;R$ 0,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Bagre-branco;9,00;1,00;1,00;R$ 90,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Betara;177,00;5,00;1,00;R$ 1.770,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Caratinga;3,00;1,00;1,00;R$ 30,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Corvina;103,00;4,00;1,00;R$ 1.545,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Enchova;36,00;4,00;1,00;R$ 745,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Guaivira;11,00;1,00;1,00;R$ 55,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Machote;134,00;3,00;1,00;R$ 2.680,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Oveva;45,00;4,00;1,00;R$ 225,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Pescada-foguete;116,00;5,00;1,00;R$ 2.320,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Prejereba;5,00;1,00;1,00;R$ 100,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Robalo-flecha;249,00;5,00;1,00;R$ 9.960,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Robalo-peva;8,00;1,00;1,00;R$ 320,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Sororoca;72,00;1,00;1,00;R$ 1.440,00
+Litoral Norte;São Sebastião;arrasto-de-mão;Tainha;543,00;5,00;1,00;R$ 8.895,00
+Litoral Norte;São Sebastião;arrasto-duplo;Betara;975,00;48,00;11,00;R$ 6.514,00
+Litoral Norte;São Sebastião;arrasto-duplo;Cabrinha;80,00;1,00;1,00;R$ 320,00
+Litoral Norte;São Sebastião;arrasto-duplo;Camarão-legítimo;15465,47;746,00;54,00;R$ 753.734,25
+Litoral Norte;São Sebastião;arrasto-duplo;Camarão-sete-barbas;282049,00;1010,00;55,00;R$ 2.288.053,00
+Litoral Norte;São Sebastião;arrasto-duplo;Cangoá;24,00;3,00;1,00;R$ 120,00
+Litoral Norte;São Sebastião;arrasto-duplo;Caratinga;73,00;2,00;2,00;R$ 182,50
+Litoral Norte;São Sebastião;arrasto-duplo;Corvina;698,10;18,00;7,00;R$ 3.036,80
+Litoral Norte;São Sebastião;arrasto-duplo;Galo;17,00;1,00;1,00;R$ 68,00
+Litoral Norte;São Sebastião;arrasto-duplo;Goete;81,00;3,00;1,00;R$ 324,00
+Litoral Norte;São Sebastião;arrasto-duplo;Linguado;17,70;2,00;2,00;R$ 318,60
+Litoral Norte;São Sebastião;arrasto-duplo;Lula;258,45;53,00;19,00;R$ 2.584,50
+Litoral Norte;São Sebastião;arrasto-duplo;Maria-luíza;543,35;40,00;7,00;R$ 2.694,40
+Litoral Norte;São Sebastião;arrasto-duplo;Mistura;10986,05;376,00;41,00;R$ 44.203,20
+Litoral Norte;São Sebastião;arrasto-duplo;Oveva;483,00;38,00;5,00;R$ 2.415,00
+Litoral Norte;São Sebastião;arrasto-duplo;Pescada-amarela;8,00;1,00;1,00;R$ 80,00
+Litoral Norte;São Sebastião;arrasto-duplo;Pescada-banana;499,00;21,00;10,00;R$ 5.836,00
+Litoral Norte;São Sebastião;arrasto-duplo;Pescada-branca;129,00;7,00;5,00;R$ 1.290,00
+Litoral Norte;São Sebastião;arrasto-duplo;Pescada-cambucu;305,87;19,00;10,00;R$ 3.234,70
+Litoral Norte;São Sebastião;arrasto-duplo;Pescada-foguete;397,00;23,00;3,00;R$ 7.940,00
+Litoral Norte;São Sebastião;arrasto-duplo;Pescadas agrupadas;4864,30;154,00;27,00;R$ 48.883,00
+Litoral Norte;São Sebastião;arrasto-duplo;Polvo;95,13;13,00;7,00;R$ 3.329,55
+Litoral Norte;São Sebastião;arrasto-duplo;Robalo;32,10;6,00;4,00;R$ 1.241,00
+Litoral Norte;São Sebastião;arrasto-duplo;Robalo-flecha;5,98;1,00;1,00;R$ 269,10
+Litoral Norte;São Sebastião;arrasto-duplo;Siri-azul;1038,00;44,00;11,00;R$ 1.539,50
+Litoral Norte;São Sebastião;arrasto-duplo;Tortinha;310,00;6,00;6,00;R$ 3.015,00
+Litoral Norte;São Sebastião;arrasto-simples;Camarão-legítimo;50,00;14,00;1,00;R$ 1.840,00
+Litoral Norte;São Sebastião;arrasto-simples;Camarão-sete-barbas;2950,00;20,00;1,00;R$ 23.976,50
+Litoral Norte;São Sebastião;arrasto-simples;Mistura;200,00;6,00;1,00;R$ 840,00
+Litoral Norte;São Sebastião;cerco-flutuante;Agulha;1907,30;28,00;4,00;R$ 3.918,90
+Litoral Norte;São Sebastião;cerco-flutuante;Bicuda;269,50;26,00;7,00;R$ 2.836,50
+Litoral Norte;São Sebastião;cerco-flutuante;Bonito-cachorra;1142,14;17,00;6,00;R$ 4.633,56
+Litoral Norte;São Sebastião;cerco-flutuante;Bonito-pintado;1171,50;24,00;9,00;R$ 6.277,50
+Litoral Norte;São Sebastião;cerco-flutuante;Cações agrupados;2,82;1,00;1,00;R$ 29,30
+Litoral Norte;São Sebastião;cerco-flutuante;Carapau;6527,50;34,00;7,00;R$ 49.757,00
+Litoral Norte;São Sebastião;cerco-flutuante;Caratinga;56,00;3,00;2,00;R$ 250,00
+Litoral Norte;São Sebastião;cerco-flutuante;Cavala;62,47;12,00;5,00;R$ 1.486,40
+Litoral Norte;São Sebastião;cerco-flutuante;Corvina;18,20;6,00;4,00;R$ 153,30
+Litoral Norte;São Sebastião;cerco-flutuante;Dourado;18,00;1,00;1,00;R$ 324,00
+Litoral Norte;São Sebastião;cerco-flutuante;Enchova;311,38;20,00;6,00;R$ 6.082,77
+Litoral Norte;São Sebastião;cerco-flutuante;Espada;11963,20;69,00;10,00;R$ 73.013,90
+Litoral Norte;São Sebastião;cerco-flutuante;Galo;58,00;3,00;2,00;R$ 262,00
+Litoral Norte;São Sebastião;cerco-flutuante;Guaivira;205,00;8,00;4,00;R$ 892,00
+Litoral Norte;São Sebastião;cerco-flutuante;Lula;88,90;16,00;5,00;R$ 3.157,50
+Litoral Norte;São Sebastião;cerco-flutuante;Machote;70,00;1,00;1,00;R$ 1.750,00
+Litoral Norte;São Sebastião;cerco-flutuante;Mistura;511,50;36,00;8,00;R$ 2.201,00
+Litoral Norte;São Sebastião;cerco-flutuante;Olhete;11,20;5,00;3,00;R$ 203,60
+Litoral Norte;São Sebastião;cerco-flutuante;Olho-de-boi;74,58;7,00;3,00;R$ 1.864,50
+Litoral Norte;São Sebastião;cerco-flutuante;Olho-de-cão;62,00;3,00;1,00;R$ 310,00
+Litoral Norte;São Sebastião;cerco-flutuante;Palombeta;55,00;4,00;4,00;R$ 210,00
+Litoral Norte;São Sebastião;cerco-flutuante;Pampo;1,80;1,00;1,00;R$ 8,10
+Litoral Norte;São Sebastião;cerco-flutuante;Parati;42,40;7,00;3,00;R$ 354,20
+Litoral Norte;São Sebastião;cerco-flutuante;Paru;144,00;6,00;4,00;R$ 666,00
+Litoral Norte;São Sebastião;cerco-flutuante;Pescada-branca;26,50;4,00;3,00;R$ 437,25
+Litoral Norte;São Sebastião;cerco-flutuante;Pescada-cambucu;25,90;8,00;4,00;R$ 478,15
+Litoral Norte;São Sebastião;cerco-flutuante;Pescadas agrupadas;5,50;2,00;1,00;R$ 84,00
+Litoral Norte;São Sebastião;cerco-flutuante;Pirajica;3347,00;28,00;8,00;R$ 14.768,00
+Litoral Norte;São Sebastião;cerco-flutuante;Porco;177,00;3,00;2,00;R$ 1.062,00
+Litoral Norte;São Sebastião;cerco-flutuante;Porco-chinelo;6150,60;36,00;6,00;R$ 49.204,80
+Litoral Norte;São Sebastião;cerco-flutuante;Robalo-flecha;47,90;4,00;3,00;R$ 2.224,50
+Litoral Norte;São Sebastião;cerco-flutuante;Savelha;117,00;2,00;2,00;R$ 234,00
+Litoral Norte;São Sebastião;cerco-flutuante;Sororoca;497,80;23,00;9,00;R$ 6.729,90
+Litoral Norte;São Sebastião;cerco-flutuante;Tainha;1983,35;9,00;5,00;R$ 25.261,50
+Litoral Norte;São Sebastião;cerco-flutuante;Vermelho-henrique;46,07;19,00;5,00;R$ 864,31
+Litoral Norte;São Sebastião;cerco-flutuante;Xarelete;35,00;2,00;2,00;R$ 140,00
+Litoral Norte;São Sebastião;cerco-flutuante;Xaréu;73,90;6,00;3,00;R$ 806,80
+Litoral Norte;São Sebastião;cerco-flutuante;Xaréu-branco;84,50;5,00;2,00;R$ 1.394,25
+Litoral Norte;São Sebastião;cerco-flutuante;Xixarro;1087,00;9,00;2,00;R$ 2.174,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Agulha;610,00;6,00;1,00;R$ 1.242,40
+Litoral Norte;São Sebastião;emalhe-de-fundo;Bagre;269,50;38,00;5,00;R$ 1.641,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Bagre-amarelo;4,00;1,00;1,00;R$ 20,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Bagre-branco;202,00;3,00;2,00;R$ 2.030,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Betara;45,00;5,00;4,00;R$ 490,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Bicuda;32,90;5,00;2,00;R$ 263,20
+Litoral Norte;São Sebastião;emalhe-de-fundo;Bonito-cachorra;26,00;2,00;2,00;R$ 104,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Bonito-pintado;250,00;4,00;3,00;R$ 1.250,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Cabrinha;6,00;1,00;1,00;R$ 15,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Cações agrupados;240,78;14,00;3,00;R$ 3.106,85
+Litoral Norte;São Sebastião;emalhe-de-fundo;Camarão-legítimo;4,00;1,00;1,00;R$ 200,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Cambeva;21,00;2,00;2,00;R$ 420,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Carapau;1005,00;5,00;2,00;R$ 8.062,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Carapeba;18,00;2,00;1,00;R$ 76,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Cavala;25,00;1,00;1,00;R$ 500,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Corvina;11855,10;75,00;14,00;R$ 101.037,80
+Litoral Norte;São Sebastião;emalhe-de-fundo;Dourado;10,40;1,00;1,00;R$ 187,20
+Litoral Norte;São Sebastião;emalhe-de-fundo;Enchova;487,20;13,00;3,00;R$ 8.038,80
+Litoral Norte;São Sebastião;emalhe-de-fundo;Espada;368,00;8,00;3,00;R$ 2.578,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Galo;6,00;1,00;1,00;R$ 18,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Garoupa;10,00;1,00;1,00;R$ 300,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Guaivira;1029,00;19,00;7,00;R$ 4.850,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Linguado;1,00;1,00;1,00;R$ 18,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Machote;320,00;9,00;6,00;R$ 6.670,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Maria-luíza;17,00;3,00;3,00;R$ 85,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Mistura;467,00;62,00;5,00;R$ 2.167,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Olhete;48,10;4,00;2,00;R$ 887,80
+Litoral Norte;São Sebastião;emalhe-de-fundo;Olho-de-boi;28,10;3,00;1,00;R$ 702,50
+Litoral Norte;São Sebastião;emalhe-de-fundo;Olho-de-cão;21,00;4,00;2,00;R$ 105,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Oveva;143,00;20,00;6,00;R$ 739,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Palombeta;17,00;1,00;1,00;R$ 68,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Parati;290,50;47,00;4,00;R$ 2.831,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Paru;12,80;4,00;3,00;R$ 69,20
+Litoral Norte;São Sebastião;emalhe-de-fundo;Pescada-amarela;102,00;3,00;2,00;R$ 3.010,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Pescada-branca;20,50;6,00;2,00;R$ 348,50
+Litoral Norte;São Sebastião;emalhe-de-fundo;Pescada-cambucu;175,99;13,00;8,00;R$ 3.905,82
+Litoral Norte;São Sebastião;emalhe-de-fundo;Pescada-foguete;365,00;8,00;4,00;R$ 7.660,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Pescadas agrupadas;55,70;15,00;4,00;R$ 1.035,50
+Litoral Norte;São Sebastião;emalhe-de-fundo;Pirajica;79,00;5,00;2,00;R$ 616,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Porco;4,00;1,00;1,00;R$ 60,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Porco-chinelo;1124,00;5,00;1,00;R$ 8.992,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Prejereba;88,00;24,00;3,00;R$ 1.980,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Robalo;4,10;1,00;1,00;R$ 184,50
+Litoral Norte;São Sebastião;emalhe-de-fundo;Robalo-flecha;251,50;15,00;5,00;R$ 10.215,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Robalo-peva;3,00;1,00;1,00;R$ 120,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Sargo;1,00;1,00;1,00;R$ 20,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Sari-sari;24,00;5,00;2,00;R$ 215,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Savelha;12,00;3,00;2,00;R$ 30,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Siris agrupados;38,00;8,00;2,00;R$ 205,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Sororoca;120,30;12,00;6,00;R$ 1.487,70
+Litoral Norte;São Sebastião;emalhe-de-fundo;Tainha;295,00;45,00;7,00;R$ 4.406,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Vermelho-henrique;203,10;12,00;7,00;R$ 5.397,15
+Litoral Norte;São Sebastião;emalhe-de-fundo;Viola;300,00;1,00;1,00;R$ 4.500,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Xaréu;57,80;7,00;3,00;R$ 578,00
+Litoral Norte;São Sebastião;emalhe-de-fundo;Xixarro;307,00;3,00;1,00;R$ 614,00
+Litoral Norte;São Sebastião;emalhe-de-superfície;Porco-chinelo;50,00;1,00;1,00;R$ 600,00
+Litoral Norte;São Sebastião;emalhe-de-superfície;Tainha;1230,00;8,00;5,00;R$ 24.600,00
+Litoral Norte;São Sebastião;emalhes-diversos;Betara;1,00;1,00;1,00;R$ 8,00
+Litoral Norte;São Sebastião;emalhes-diversos;Bicuda;1,00;1,00;1,00;R$ 10,00
+Litoral Norte;São Sebastião;emalhes-diversos;Bonito-cachorra;20,00;1,00;1,00;R$ 100,00
+Litoral Norte;São Sebastião;emalhes-diversos;Bonito-pintado;297,00;3,00;2,00;R$ 1.566,00
+Litoral Norte;São Sebastião;emalhes-diversos;Bonitos agrupados;60,00;1,00;1,00;R$ 360,00
+Litoral Norte;São Sebastião;emalhes-diversos;Cações agrupados;41,33;4,00;1,00;R$ 594,65
+Litoral Norte;São Sebastião;emalhes-diversos;Camarão-legítimo;21,50;7,00;2,00;R$ 1.095,00
+Litoral Norte;São Sebastião;emalhes-diversos;Cambeva;126,00;3,00;2,00;R$ 2.630,00
+Litoral Norte;São Sebastião;emalhes-diversos;Carapau;33,60;3,00;2,00;R$ 568,00
+Litoral Norte;São Sebastião;emalhes-diversos;Caratinga;60,00;2,00;2,00;R$ 500,00
+Litoral Norte;São Sebastião;emalhes-diversos;Cavala;6,50;2,00;2,00;R$ 262,50
+Litoral Norte;São Sebastião;emalhes-diversos;Corvina;255,50;11,00;5,00;R$ 3.752,50
+Litoral Norte;São Sebastião;emalhes-diversos;Enchova;468,30;7,00;5,00;R$ 14.331,00
+Litoral Norte;São Sebastião;emalhes-diversos;Espada;42,00;5,00;3,00;R$ 390,00
+Litoral Norte;São Sebastião;emalhes-diversos;Galo;9,40;3,00;1,00;R$ 67,40
+Litoral Norte;São Sebastião;emalhes-diversos;Guaivira;405,00;11,00;5,00;R$ 2.420,00
+Litoral Norte;São Sebastião;emalhes-diversos;Machote;136,00;4,00;3,00;R$ 3.090,00
+Litoral Norte;São Sebastião;emalhes-diversos;Mistura;139,20;31,00;6,00;R$ 696,00
+Litoral Norte;São Sebastião;emalhes-diversos;Olho-de-boi;1,40;1,00;1,00;R$ 35,00
+Litoral Norte;São Sebastião;emalhes-diversos;Olho-de-cão;3,00;2,00;1,00;R$ 24,00
+Litoral Norte;São Sebastião;emalhes-diversos;Oveva;2,00;1,00;1,00;R$ 10,00
+Litoral Norte;São Sebastião;emalhes-diversos;Pampo;1,00;1,00;1,00;R$ 6,00
+Litoral Norte;São Sebastião;emalhes-diversos;Parati;504,00;21,00;4,00;R$ 3.361,00
+Litoral Norte;São Sebastião;emalhes-diversos;Pescada-branca;12,00;3,00;1,00;R$ 200,00
+Litoral Norte;São Sebastião;emalhes-diversos;Pirajica;229,00;4,00;3,00;R$ 1.580,00
+Litoral Norte;São Sebastião;emalhes-diversos;Porco;50,65;5,00;2,00;R$ 701,20
+Litoral Norte;São Sebastião;emalhes-diversos;Prejereba;9,50;2,00;1,00;R$ 190,00
+Litoral Norte;São Sebastião;emalhes-diversos;Robalo-flecha;14,00;3,00;2,00;R$ 565,00
+Litoral Norte;São Sebastião;emalhes-diversos;Robalo-peva;27,00;2,00;1,00;R$ 1.080,00
+Litoral Norte;São Sebastião;emalhes-diversos;Sari-sari;3,00;1,00;1,00;R$ 15,00
+Litoral Norte;São Sebastião;emalhes-diversos;Sororoca;1272,35;25,00;8,00;R$ 26.622,75
+Litoral Norte;São Sebastião;emalhes-diversos;Tainha;2090,80;21,00;8,00;R$ 33.557,00
+Litoral Norte;São Sebastião;emalhes-diversos;Vermelho-henrique;35,00;5,00;3,00;R$ 993,00
+Litoral Norte;São Sebastião;emalhes-diversos;Xaréu;83,90;6,00;1,00;R$ 518,50
+Litoral Norte;São Sebastião;emalhes-diversos;Xaréu-branco;93,00;2,00;1,00;R$ 1.645,00
+Litoral Norte;São Sebastião;linha-de-mão;Bicuda;40,00;2,00;1,00;R$ 600,00
+Litoral Norte;São Sebastião;linha-de-mão;Enchova;70,00;2,00;1,00;R$ 1.750,00
+Litoral Norte;São Sebastião;linha-de-mão;Garoupa;75,00;1,00;1,00;R$ 2.625,00
+Litoral Norte;São Sebastião;linha-de-mão;Porco;35,00;1,00;1,00;R$ 350,00
+Litoral Norte;São Sebastião;linha-de-mão;Porco-chinelo;30,00;1,00;1,00;R$ 360,00
+Litoral Norte;São Sebastião;zangarelho;Espada;12,00;1,00;1,00;R$ 60,00
+Litoral Norte;São Sebastião;zangarelho;Lula;124,00;13,00;4,00;R$ 4.875,00
+Litoral Centro;São Vicente;emalhe-de-fundo;Bagre-amarelo;41,00;2,00;1,00;R$ 102,50
+Litoral Centro;São Vicente;emalhe-de-fundo;Cambeva;6,00;1,00;1,00;R$ 60,00
+Litoral Centro;São Vicente;emalhe-de-fundo;Corvina;28,00;5,00;3,00;R$ 200,50
+Litoral Centro;São Vicente;emalhe-de-fundo;Mistura;103,70;6,00;2,00;R$ 306,10
+Litoral Centro;São Vicente;emalhe-de-fundo;Parati;5,00;1,00;1,00;R$ 20,00
+Litoral Centro;São Vicente;emalhe-de-fundo;Pescada-amarela;118,70;7,00;3,00;R$ 3.385,50
+Litoral Centro;São Vicente;emalhe-de-fundo;Pescada-dentão;121,55;7,00;2,00;R$ 1.458,60
+Litoral Centro;São Vicente;emalhe-de-fundo;Robalo-flecha;450,45;13,00;3,00;R$ 15.536,75
+Litoral Centro;São Vicente;emalhe-de-fundo;Robalo-peva;100,30;8,00;3,00;R$ 2.395,00
+Litoral Centro;São Vicente;emalhe-de-fundo;Sargo;3,00;1,00;1,00;R$ 24,00
+Litoral Centro;São Vicente;emalhe-de-superfície;Bagre-amarelo;89,80;8,00;2,00;R$ 272,75
+Litoral Centro;São Vicente;emalhe-de-superfície;Cações agrupados;1,00;1,00;1,00;R$ 10,00
+Litoral Centro;São Vicente;emalhe-de-superfície;Caratinga;2,20;1,00;1,00;R$ 15,40
+Litoral Centro;São Vicente;emalhe-de-superfície;Corvina;379,25;24,00;1,00;R$ 2.846,50
+Litoral Centro;São Vicente;emalhe-de-superfície;Guaivira;35,50;4,00;1,00;R$ 142,00
+Litoral Centro;São Vicente;emalhe-de-superfície;Mistura;14,60;8,00;1,00;R$ 62,30
+Litoral Centro;São Vicente;emalhe-de-superfície;Paru;25,00;3,00;1,00;R$ 92,20
+Litoral Centro;São Vicente;emalhe-de-superfície;Pescada-amarela;21,55;8,00;1,00;R$ 289,72
+Litoral Centro;São Vicente;emalhe-de-superfície;Pescada-branca;12,00;6,00;1,00;R$ 144,00
+Litoral Centro;São Vicente;emalhe-de-superfície;Pescada-dentão;1,50;1,00;1,00;R$ 22,50
+Litoral Centro;São Vicente;emalhe-de-superfície;Robalo-flecha;148,10;16,00;1,00;R$ 5.439,40
+Litoral Centro;São Vicente;emalhe-de-superfície;Robalo-peva;55,14;20,00;1,00;R$ 1.469,20
+Litoral Centro;São Vicente;emalhe-de-superfície;Sororoca;1,00;1,00;1,00;R$ 10,00
+Litoral Centro;São Vicente;emalhe-de-superfície;Tainha;117,00;3,00;3,00;R$ 1.170,00
+Litoral Centro;São Vicente;emalhes-diversos;Bagre-amarelo;59,60;5,00;3,00;R$ 193,00
+Litoral Centro;São Vicente;emalhes-diversos;Bagre-branco;1636,50;7,00;3,00;R$ 9.098,00
+Litoral Centro;São Vicente;emalhes-diversos;Betara;0,80;1,00;1,00;R$ 6,40
+Litoral Centro;São Vicente;emalhes-diversos;Carapeba;25,00;2,00;1,00;R$ 125,00
+Litoral Centro;São Vicente;emalhes-diversos;Caratinga;791,40;28,00;4,00;R$ 5.498,00
+Litoral Centro;São Vicente;emalhes-diversos;Corvina;237,25;22,00;5,00;R$ 1.951,95
+Litoral Centro;São Vicente;emalhes-diversos;Espada;4,00;2,00;1,00;R$ 20,00
+Litoral Centro;São Vicente;emalhes-diversos;Galo;5,60;1,00;1,00;R$ 28,00
+Litoral Centro;São Vicente;emalhes-diversos;Garoupa;3,30;1,00;1,00;R$ 132,00
+Litoral Centro;São Vicente;emalhes-diversos;Guaivira;47,50;6,00;3,00;R$ 199,50
+Litoral Centro;São Vicente;emalhes-diversos;Mistura;433,80;42,00;8,00;R$ 1.950,50
+Litoral Centro;São Vicente;emalhes-diversos;Parati;50275,70;318,00;11,00;R$ 207.204,80
+Litoral Centro;São Vicente;emalhes-diversos;Pescada-amarela;13,40;4,00;2,00;R$ 178,50
+Litoral Centro;São Vicente;emalhes-diversos;Pescada-branca;16,60;3,00;2,00;R$ 238,20
+Litoral Centro;São Vicente;emalhes-diversos;Pescada-dentão;2,10;1,00;1,00;R$ 21,00
+Litoral Centro;São Vicente;emalhes-diversos;Porco;3,00;1,00;1,00;R$ 45,00
+Litoral Centro;São Vicente;emalhes-diversos;Prejereba;2,20;1,00;1,00;R$ 22,00
+Litoral Centro;São Vicente;emalhes-diversos;Robalo-flecha;248,45;22,00;6,00;R$ 8.994,85
+Litoral Centro;São Vicente;emalhes-diversos;Robalo-peva;26,10;7,00;3,00;R$ 631,50
+Litoral Centro;São Vicente;emalhes-diversos;Siri-azul;2,01;3,00;2,00;R$ 16,00
+Litoral Centro;São Vicente;emalhes-diversos;Sororoca;2,40;1,00;1,00;R$ 28,80
+Litoral Centro;São Vicente;emalhes-diversos;Tainha;1126,10;48,00;5,00;R$ 10.279,90
+Litoral Centro;São Vicente;extrativismo;Caranguejo-uçá;66,37;2,00;1,00;R$ 960,00
+Litoral Centro;São Vicente;gerival;Camarão-legítimo;120,79;81,00;2,00;R$ 18.766,60
+Litoral Norte;Ubatuba;arrasto-duplo;Anequim;16,00;1,00;1,00;R$ 288,00
+Litoral Norte;Ubatuba;arrasto-duplo;Bagre-amarelo;6,00;1,00;1,00;R$ 30,00
+Litoral Norte;Ubatuba;arrasto-duplo;Bagre-branco;9,20;1,00;1,00;R$ 46,00
+Litoral Norte;Ubatuba;arrasto-duplo;Betara;5660,50;202,00;53,00;R$ 22.790,35
+Litoral Norte;Ubatuba;arrasto-duplo;Cabrinha;3134,20;39,00;21,00;R$ 8.030,45
+Litoral Norte;Ubatuba;arrasto-duplo;Cação-rola-rola;2,10;2,00;2,00;R$ 33,50
+Litoral Norte;Ubatuba;arrasto-duplo;Camarão-legítimo;4883,60;605,00;69,00;R$ 196.890,90
+Litoral Norte;Ubatuba;arrasto-duplo;Camarão-rosa;36358,00;167,00;32,00;R$ 1.946.766,95
+Litoral Norte;Ubatuba;arrasto-duplo;Camarão-sete-barbas;123882,70;1342,00;75,00;R$ 1.275.396,60
+Litoral Norte;Ubatuba;arrasto-duplo;Cangoá;78,00;3,00;2,00;R$ 390,00
+Litoral Norte;Ubatuba;arrasto-duplo;Caranha;30,00;1,00;1,00;R$ 600,00
+Litoral Norte;Ubatuba;arrasto-duplo;Corvina;6429,70;161,00;37,00;R$ 35.638,96
+Litoral Norte;Ubatuba;arrasto-duplo;Dourado;21,20;3,00;3,00;R$ 310,80
+Litoral Norte;Ubatuba;arrasto-duplo;Espada;1,00;1,00;1,00;R$ 8,00
+Litoral Norte;Ubatuba;arrasto-duplo;Galo;4,00;1,00;1,00;R$ 20,00
+Litoral Norte;Ubatuba;arrasto-duplo;Goete;1989,70;69,00;27,00;R$ 7.443,70
+Litoral Norte;Ubatuba;arrasto-duplo;Lagostim;8,00;1,00;1,00;R$ 80,00
+Litoral Norte;Ubatuba;arrasto-duplo;Linguado;1777,46;103,00;33,00;R$ 24.143,16
+Litoral Norte;Ubatuba;arrasto-duplo;Lula;726,30;88,00;44,00;R$ 14.575,00
+Litoral Norte;Ubatuba;arrasto-duplo;Machote;3,60;1,00;1,00;R$ 72,00
+Litoral Norte;Ubatuba;arrasto-duplo;Maria-luíza;1895,00;115,00;29,00;R$ 6.446,00
+Litoral Norte;Ubatuba;arrasto-duplo;Maria-mole;255,00;4,00;3,00;R$ 1.020,00
+Litoral Norte;Ubatuba;arrasto-duplo;Mistura;13203,90;514,00;86,00;R$ 62.293,70
+Litoral Norte;Ubatuba;arrasto-duplo;Namorado;47,00;3,00;3,00;R$ 975,00
+Litoral Norte;Ubatuba;arrasto-duplo;Oveva;297,00;16,00;9,00;R$ 1.130,00
+Litoral Norte;Ubatuba;arrasto-duplo;Pescada-banana;877,00;98,00;38,00;R$ 5.674,50
+Litoral Norte;Ubatuba;arrasto-duplo;Pescada-branca;199,78;33,00;19,00;R$ 1.797,30
+Litoral Norte;Ubatuba;arrasto-duplo;Pescada-cambucu;4499,00;289,00;54,00;R$ 25.953,40
+Litoral Norte;Ubatuba;arrasto-duplo;Pescada-foguete;388,30;24,00;14,00;R$ 4.102,60
+Litoral Norte;Ubatuba;arrasto-duplo;Polvo;1341,50;123,00;30,00;R$ 33.129,30
+Litoral Norte;Ubatuba;arrasto-duplo;Porco;3273,20;92,00;26,00;R$ 15.207,00
+Litoral Norte;Ubatuba;arrasto-duplo;Porco-peludo;3,00;1,00;1,00;R$ 15,00
+Litoral Norte;Ubatuba;arrasto-duplo;Prejereba;12,00;2,00;2,00;R$ 180,00
+Litoral Norte;Ubatuba;arrasto-duplo;Raia-emplastro;100,00;1,00;1,00;R$ 300,00
+Litoral Norte;Ubatuba;arrasto-duplo;Raias agrupadas;20,00;1,00;1,00;R$ 80,00
+Litoral Norte;Ubatuba;arrasto-duplo;Robalo-flecha;4,00;1,00;1,00;R$ 200,00
+Litoral Norte;Ubatuba;arrasto-duplo;Roncador;18,00;1,00;1,00;R$ 36,00
+Litoral Norte;Ubatuba;arrasto-duplo;Sapateira;8,10;2,00;2,00;R$ 232,00
+Litoral Norte;Ubatuba;arrasto-duplo;Siri-candeia;632,90;62,00;23,00;R$ 3.103,50
+Litoral Norte;Ubatuba;arrasto-duplo;Siri-pintado;9,00;1,00;1,00;R$ 45,00
+Litoral Norte;Ubatuba;arrasto-duplo;Tira-vira;140,20;6,00;4,00;R$ 518,00
+Litoral Norte;Ubatuba;arrasto-duplo;Tortinha;13,00;1,00;1,00;R$ 130,00
+Litoral Norte;Ubatuba;arrasto-duplo;Trilha;857,90;22,00;13,00;R$ 5.561,90
+Litoral Norte;Ubatuba;arrasto-simples;Camarão-legítimo;24,50;5,00;2,00;R$ 888,00
+Litoral Norte;Ubatuba;arrasto-simples;Camarão-sete-barbas;1006,00;13,00;2,00;R$ 9.339,00
+Litoral Norte;Ubatuba;arrasto-simples;Lula;3,00;1,00;1,00;R$ 36,00
+Litoral Norte;Ubatuba;arrasto-simples;Maria-luíza;66,00;4,00;2,00;R$ 198,00
+Litoral Norte;Ubatuba;arrasto-simples;Mistura;5,00;1,00;1,00;R$ 25,00
+Litoral Norte;Ubatuba;arrasto-simples;Pescada-cambucu;59,00;4,00;1,00;R$ 268,00
+Litoral Norte;Ubatuba;arrasto-simples;Pescada-foguete;6,00;1,00;1,00;R$ 60,00
+Litoral Norte;Ubatuba;cerco-flutuante;Carapau;2551,50;6,00;2,00;R$ 12.556,00
+Litoral Norte;Ubatuba;cerco-flutuante;Cavala;178,00;2,00;2,00;R$ 3.090,00
+Litoral Norte;Ubatuba;cerco-flutuante;Espada;140,00;2,00;1,00;R$ 1.460,00
+Litoral Norte;Ubatuba;cerco-flutuante;Mistura;20,00;1,00;1,00;R$ 200,00
+Litoral Norte;Ubatuba;cerco-flutuante;Pirajica;160,00;1,00;1,00;R$ 800,00
+Litoral Norte;Ubatuba;cerco-flutuante;Porco;400,00;1,00;1,00;R$ 2.000,00
+Litoral Norte;Ubatuba;cerco-flutuante;Sororoca;500,00;2,00;1,00;R$ 7.000,00
+Litoral Norte;Ubatuba;corrico;Cavala;40,00;1,00;1,00;R$ 1.200,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Bagre-amarelo;129,00;10,00;6,00;R$ 1.025,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Bagre-branco;781,00;14,00;6,00;R$ 3.479,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Betara;4254,60;64,00;21,00;R$ 35.209,80
+Litoral Norte;Ubatuba;emalhe-de-fundo;Bonitos agrupados;30,60;2,00;1,00;R$ 122,40
+Litoral Norte;Ubatuba;emalhe-de-fundo;Cabrinha;3122,50;21,00;8,00;R$ 7.470,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Cação-rola-rola;2551,30;55,00;22,00;R$ 55.080,70
+Litoral Norte;Ubatuba;emalhe-de-fundo;Cações agrupados;35,50;2,00;2,00;R$ 432,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Camarão-legítimo;26,50;9,00;4,00;R$ 1.490,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Cambeva;4,60;2,00;1,00;R$ 62,10
+Litoral Norte;Ubatuba;emalhe-de-fundo;Caranha;15,00;1,00;1,00;R$ 180,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Carapeba;263,00;7,00;5,00;R$ 778,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Caratinga;60,00;1,00;1,00;R$ 180,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Corvina;171191,80;131,00;32,00;R$ 1.211.413,10
+Litoral Norte;Ubatuba;emalhe-de-fundo;Enchova;11,30;2,00;2,00;R$ 428,50
+Litoral Norte;Ubatuba;emalhe-de-fundo;Espada;516,70;21,00;11,00;R$ 5.915,60
+Litoral Norte;Ubatuba;emalhe-de-fundo;Galo;59,90;5,00;4,00;R$ 653,30
+Litoral Norte;Ubatuba;emalhe-de-fundo;Goete;143,00;6,00;4,00;R$ 837,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Gordinho;790,00;16,00;7,00;R$ 2.377,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Guaivira;11655,70;26,00;13,00;R$ 47.645,80
+Litoral Norte;Ubatuba;emalhe-de-fundo;Linguado;140,00;11,00;6,00;R$ 1.584,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Machote;703,00;12,00;8,00;R$ 10.799,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Maria-luíza;14,00;1,00;1,00;R$ 28,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Mistura;5135,50;82,00;27,00;R$ 28.701,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Olho-de-cão;10,00;1,00;1,00;R$ 40,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Oveva;540,00;17,00;10,00;R$ 2.439,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Palombeta;159,00;6,00;3,00;R$ 460,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Pampo;142,00;8,00;7,00;R$ 806,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Parambiju;16,00;3,00;2,00;R$ 500,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Pargo-rosa;13,00;1,00;1,00;R$ 130,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Pescada-banana;8,00;1,00;1,00;R$ 40,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Pescada-branca;105,00;9,00;5,00;R$ 1.424,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Pescada-cambucu;908,50;31,00;14,00;R$ 16.182,50
+Litoral Norte;Ubatuba;emalhe-de-fundo;Pescada-foguete;12582,00;149,00;36,00;R$ 228.655,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Pirajica;478,00;27,00;8,00;R$ 4.831,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Porco;10,00;1,00;1,00;R$ 50,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Prejereba;10,00;1,00;1,00;R$ 200,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Raias agrupadas;242,00;16,00;1,00;R$ 2.420,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Robalo-flecha;668,50;38,00;13,00;R$ 30.655,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Robalo-peva;98,40;9,00;5,00;R$ 2.838,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Roncador;110,00;6,00;5,00;R$ 300,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Sargo;32,40;6,00;6,00;R$ 446,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Sari-sari;494,30;26,00;9,00;R$ 8.381,50
+Litoral Norte;Ubatuba;emalhe-de-fundo;Sernambiguara;58,00;7,00;3,00;R$ 757,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Sororoca;496,00;12,00;8,00;R$ 11.275,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Tainha;56,00;4,00;4,00;R$ 890,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Vermelho-henrique;573,00;29,00;11,00;R$ 16.215,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Viola;783,00;36,00;1,00;R$ 24.960,00
+Litoral Norte;Ubatuba;emalhe-de-fundo;Xaréu;8,00;1,00;1,00;R$ 160,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Bagre-branco;20,00;1,00;1,00;R$ 300,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Bonitos agrupados;80,00;1,00;1,00;R$ 200,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Cação-rola-rola;36,00;9,00;1,00;R$ 1.000,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Cavala;22,00;2,00;2,00;R$ 660,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Enchova;20,00;2,00;2,00;R$ 500,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Galo;15,00;1,00;1,00;R$ 225,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Mistura;50,00;2,00;2,00;R$ 250,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Olho-de-boi;10,00;1,00;1,00;R$ 450,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Pirajica;30,00;2,00;2,00;R$ 350,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Prejereba;3,00;1,00;1,00;R$ 90,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Robalo-flecha;9,00;3,00;1,00;R$ 470,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Sororoca;189,00;19,00;5,00;R$ 4.095,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Tainha;156,00;3,00;3,00;R$ 1.595,00
+Litoral Norte;Ubatuba;emalhe-de-superfície;Xarelete;15,00;1,00;1,00;R$ 225,00
+Litoral Norte;Ubatuba;emalhes-diversos;Agulhão-vela platypterus;20,00;1,00;1,00;R$ 240,00
+Litoral Norte;Ubatuba;emalhes-diversos;Anequim;1652,00;21,00;3,00;R$ 34.742,00
+Litoral Norte;Ubatuba;emalhes-diversos;Atuns agrupados;110,00;2,00;1,00;R$ 550,00
+Litoral Norte;Ubatuba;emalhes-diversos;Bagre-amarelo;160,00;12,00;1,00;R$ 1.550,00
+Litoral Norte;Ubatuba;emalhes-diversos;Bagre-branco;377,00;9,00;4,00;R$ 4.680,00
+Litoral Norte;Ubatuba;emalhes-diversos;Baiacu;48,00;5,00;2,00;R$ 960,00
+Litoral Norte;Ubatuba;emalhes-diversos;Bonito-gaiado;110,00;2,00;2,00;R$ 270,00
+Litoral Norte;Ubatuba;emalhes-diversos;Bonito-pintado;310,00;4,00;2,00;R$ 875,00
+Litoral Norte;Ubatuba;emalhes-diversos;Bonitos agrupados;100,00;1,00;1,00;R$ 250,00
+Litoral Norte;Ubatuba;emalhes-diversos;Cação-rola-rola;967,00;22,00;5,00;R$ 17.992,00
+Litoral Norte;Ubatuba;emalhes-diversos;Cambeva;1091,00;23,00;3,00;R$ 22.926,00
+Litoral Norte;Ubatuba;emalhes-diversos;Carapau;240,00;3,00;2,00;R$ 3.320,00
+Litoral Norte;Ubatuba;emalhes-diversos;Cavala;162,00;13,00;5,00;R$ 3.567,00
+Litoral Norte;Ubatuba;emalhes-diversos;Corvina;1762,00;78,00;11,00;R$ 27.127,00
+Litoral Norte;Ubatuba;emalhes-diversos;Dourado;299,50;13,00;2,00;R$ 4.229,50
+Litoral Norte;Ubatuba;emalhes-diversos;Enchova;155,00;9,00;3,00;R$ 1.971,00
+Litoral Norte;Ubatuba;emalhes-diversos;Espada;155,00;12,00;5,00;R$ 1.219,00
+Litoral Norte;Ubatuba;emalhes-diversos;Galo;229,00;13,00;5,00;R$ 1.546,00
+Litoral Norte;Ubatuba;emalhes-diversos;Guaivira;1076,00;31,00;5,00;R$ 6.568,00
+Litoral Norte;Ubatuba;emalhes-diversos;Machote;3765,00;28,00;4,00;R$ 79.006,00
+Litoral Norte;Ubatuba;emalhes-diversos;Marimbá;10,00;1,00;1,00;R$ 30,00
+Litoral Norte;Ubatuba;emalhes-diversos;Mistura;182,00;10,00;3,00;R$ 1.221,00
+Litoral Norte;Ubatuba;emalhes-diversos;Olhete;10,00;1,00;1,00;R$ 200,00
+Litoral Norte;Ubatuba;emalhes-diversos;Olho-de-boi;12,00;1,00;1,00;R$ 240,00
+Litoral Norte;Ubatuba;emalhes-diversos;Oveva;86,00;6,00;1,00;R$ 755,00
+Litoral Norte;Ubatuba;emalhes-diversos;Palombeta;100,00;1,00;1,00;R$ 500,00
+Litoral Norte;Ubatuba;emalhes-diversos;Pampo;125,00;5,00;4,00;R$ 735,00
+Litoral Norte;Ubatuba;emalhes-diversos;Pampo-galhudo;329,00;13,00;3,00;R$ 1.645,00
+Litoral Norte;Ubatuba;emalhes-diversos;Parambiju;7,00;1,00;1,00;R$ 210,00
+Litoral Norte;Ubatuba;emalhes-diversos;Parati;148,00;8,00;3,00;R$ 2.145,00
+Litoral Norte;Ubatuba;emalhes-diversos;Pescada-cambucu;17,00;2,00;2,00;R$ 425,00
+Litoral Norte;Ubatuba;emalhes-diversos;Pescada-foguete;96,00;10,00;3,00;R$ 2.400,00
+Litoral Norte;Ubatuba;emalhes-diversos;Pirajica;207,00;7,00;4,00;R$ 1.870,00
+Litoral Norte;Ubatuba;emalhes-diversos;Porco;10,00;1,00;1,00;R$ 50,00
+Litoral Norte;Ubatuba;emalhes-diversos;Prejereba;463,00;24,00;3,00;R$ 7.461,00
+Litoral Norte;Ubatuba;emalhes-diversos;Robalo-flecha;10,00;2,00;2,00;R$ 500,00
+Litoral Norte;Ubatuba;emalhes-diversos;Sargo;4,00;1,00;1,00;R$ 60,00
+Litoral Norte;Ubatuba;emalhes-diversos;Sari-sari;100,00;3,00;1,00;R$ 2.770,00
+Litoral Norte;Ubatuba;emalhes-diversos;Sernambiguara;28,00;3,00;3,00;R$ 344,00
+Litoral Norte;Ubatuba;emalhes-diversos;Sororoca;1896,00;28,00;8,00;R$ 31.240,00
+Litoral Norte;Ubatuba;emalhes-diversos;Tainha;2217,00;18,00;14,00;R$ 28.256,00
+Litoral Norte;Ubatuba;emalhes-diversos;Vermelho-henrique;39,00;4,00;3,00;R$ 1.210,00
+Litoral Norte;Ubatuba;emalhes-diversos;Xarelete;297,00;11,00;4,00;R$ 2.995,00
+Litoral Norte;Ubatuba;emalhes-diversos;Xaréu;174,00;8,00;4,00;R$ 1.828,00
+Litoral Norte;Ubatuba;espinhel-de-superfície-costeiro;Anequim;548,00;6,00;5,00;R$ 11.016,00
+Litoral Norte;Ubatuba;espinhel-de-superfície-costeiro;Bagre-branco;35,00;1,00;1,00;R$ 350,00
+Litoral Norte;Ubatuba;espinhel-de-superfície-costeiro;Baiacu;25,00;1,00;1,00;R$ 500,00
+Litoral Norte;Ubatuba;espinhel-de-superfície-costeiro;Cação-rola-rola;30,00;1,00;1,00;R$ 570,00
+Litoral Norte;Ubatuba;espinhel-de-superfície-costeiro;Cambeva;61,00;3,00;3,00;R$ 1.206,00
+Litoral Norte;Ubatuba;espinhel-de-superfície-costeiro;Corvina;8,00;1,00;1,00;R$ 160,00
+Litoral Norte;Ubatuba;espinhel-de-superfície-costeiro;Dourado;281,00;7,00;6,00;R$ 4.825,00
+Litoral Norte;Ubatuba;espinhel-de-superfície-costeiro;Machote;489,00;9,00;6,00;R$ 12.154,00
+Litoral Norte;Ubatuba;espinhel-de-superfície-costeiro;Prejereba;159,00;6,00;3,00;R$ 5.060,00
+Litoral Norte;Ubatuba;linha-de-mão;Baiacu;40,00;1,00;1,00;R$ 400,00
+Litoral Norte;Ubatuba;linha-de-mão;Betara;7,00;1,00;1,00;R$ 35,00
+Litoral Norte;Ubatuba;linha-de-mão;Corvina;27,00;2,00;2,00;R$ 246,00
+Litoral Norte;Ubatuba;linha-de-mão;Dourado;15,00;1,00;1,00;R$ 255,00
+Litoral Norte;Ubatuba;linha-de-mão;Enchova;80,00;2,00;1,00;R$ 1.320,00
+Litoral Norte;Ubatuba;linha-de-mão;Espada;415,00;6,00;5,00;R$ 5.620,00
+Litoral Norte;Ubatuba;linha-de-mão;Garoupa;22,00;2,00;2,00;R$ 765,00
+Litoral Norte;Ubatuba;linha-de-mão;Namorado;17,00;1,00;1,00;R$ 595,00
+Litoral Norte;Ubatuba;linha-de-mão;Olhete;60,00;1,00;1,00;R$ 1.080,00
+Litoral Norte;Ubatuba;linha-de-mão;Olho-de-boi;10,00;1,00;1,00;R$ 200,00
+Litoral Norte;Ubatuba;linha-de-mão;Olho-de-cão;12,00;1,00;1,00;R$ 48,00
+Litoral Norte;Ubatuba;linha-de-mão;Porco;892,00;15,00;7,00;R$ 12.495,00
+Litoral Norte;Ubatuba;linha-de-mão;Porco-chinelo;165,00;2,00;1,00;R$ 3.300,00
+Litoral Norte;Ubatuba;linha-de-mão;Prejereba;12,00;1,00;1,00;R$ 192,00
+Litoral Norte;Ubatuba;linha-de-mão;Vermelho-henrique;10,00;2,00;2,00;R$ 332,00
+Litoral Norte;Ubatuba;linha-de-mão;Xarelete;15,00;1,00;1,00;R$ 225,00
+Litoral Norte;Ubatuba;puçá;Porco;403,00;2,00;1,00;R$ 6.045,00
+Litoral Norte;Ubatuba;zangarelho;Lula;448,00;10,00;3,00;R$ 17.920,00

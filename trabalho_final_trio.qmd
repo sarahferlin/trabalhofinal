@@ -10,6 +10,14 @@ lang: pt
 ---
 
 ```{r}
+#instalar pacotes
+
+install.packages("dplyr") #para filtrar dados 
+library(dplyr)
+```
+
+
+```{r}
 #criar um projeto
 #usethis::create_project("~/Desktop/Relatorios_reprodutiveis/trabalhofinal")
 
@@ -62,6 +70,25 @@ A depuração dos dados é efetuada pela Analista de Dados, que analisa o conjun
 Apenas após esta sequência de verificações, os dados são empregados para a realização de estudos e disponibilizados de forma agrupada no banco de dados de acesso público no website do Programa de Monitoramento da Atividade Pesqueira do Instituto de Pesca em www.propesq.pesca.sp.gov.br.
 
 A atividade pesqueira, dividida entre Litoral Norte, Centro e Sul, foi caracterizada pelo do número de unidades produtivas registradas (embarcações, no caso de pesca embarcada ou pescadores, no caso de extrativismo manual), número de viagens de pesca, aparelhos de pesca utilizados, produção pesqueira obtida e categorias de pescado capturadas.
+
+
+```{r}
+# Obtendo os dados
+caminho <- "dados.csv"
+dados <- read.csv2(caminho)
+View(dados)
+
+# filtrar só dados do Litoral Norte
+
+dados_ln <-  dados %>% filter(., `localidade` == "Litoral Norte")
+
+
+# numero de total de viagens
+
+nviagens_ln <- (agg.nviagens_ln <- aggregate(dados_ln$n_descargas~dados_ln$localidade, FUN=sum))
+
+```
+
 
 ### Resultados
 #### Litoral Norte
