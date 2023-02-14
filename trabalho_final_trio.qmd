@@ -82,8 +82,12 @@ View(dados)
 
 dados_ln <-  dados %>% filter(., `localidade` == "Litoral Norte")
 
+# número de municípios Litoral Norte
 
-# numero de total de viagens
+n_municipios_ln <- length(unique(dados_ln$municipio))
+
+
+# número de total de viagens no Litoral Norte
 
 nviagens_ln <- (agg.nviagens_ln <- aggregate(dados_ln$n_descargas~dados_ln$localidade, FUN=sum))
 
