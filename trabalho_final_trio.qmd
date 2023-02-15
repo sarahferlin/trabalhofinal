@@ -12,10 +12,9 @@ lang: pt
 ```{r}
 #instalar pacotes
 
-install.packages("dplyr") #para filtrar dados 
+#install.packages("dplyr") #para filtrar dados 
 library(dplyr)
 ```
-
 
 ```{r}
 #criar um projeto
@@ -30,6 +29,20 @@ library(dplyr)
 periodorelatorio <- paste0("Julho a Dezembro de 2022") # escreva aqui o período dos dados do relatório
 ```
 
+```{r}
+# Importa os dados
+
+caminho <- "dados.csv"
+dados <- read.csv2(caminho)
+View(dados)
+```
+
+```{r}
+# Calcular o número de municípios monitorados 
+nmunicipios <- length(unique(dados$municipio))
+
+```
+
 # Relatório técnico semestral do Programa de Monitoramento da Atividade Marinha e Estuarina do Estado de São Paulo PMAP-SP
 
 ## `r periodorelatorio`
@@ -42,22 +55,20 @@ O Projeto de Monitoramento da Atividade Pesqueira do Estado de São Paulo (PMAP-
 
 <br>
 
-A seguir são apresentados a metodologia e os resultados do monitoramento no período de `r periodorelatorio`. 
+A seguir são apresentados a metodologia e os resultados do monitoramento no período de `r periodorelatorio`.
 
 ### Metodologia
+
 #### Coleta dos dados pesqueiros
 
-``` {r}
-# Calcular o número de municípios monitorados 
-nmunicipios <- 
-```
+
 No período deste relatório foram monitorados um total de `r nmunicipios` municípios em relação a sua atividade pesqueira. Os municípios foram divididos entre Litoral Norte, Litoral Centro e Litoral Sul.
 
-Os dados pesqueiros são obtidos por método censitário através de entrevistas com pescadores, realizadas por Agentes de Campo no momento da operação de descarga de pescado [@FAO1999; @Avila-da-Silva2007]. Trata-se de um monitoramento participativo, uma vez que os pescadores e mestres de embarcações fornecem as informações de forma voluntária mediante uma declaração de ética e uso de dados do Instituto de Pesca. Os Agentes de Campo, funcionários do projeto, são recrutados dentro das comunidades pesqueiras em que atuam. 
+Os dados pesqueiros são obtidos por método censitário através de entrevistas com pescadores, realizadas por Agentes de Campo no momento da operação de descarga de pescado [@FAO1999; @Avila-da-Silva2007]. Trata-se de um monitoramento participativo, uma vez que os pescadores e mestres de embarcações fornecem as informações de forma voluntária mediante uma declaração de ética e uso de dados do Instituto de Pesca. Os Agentes de Campo, funcionários do projeto, são recrutados dentro das comunidades pesqueiras em que atuam.
 
 Na entrevista são anotadas, por viagem ou saída de pesca, dados de captura descarregada por categoria de pescado, petrecho de pesca utilizado e esforço pesqueiro empregado, e informações sobre o período e áreas onde foram realizadas as operações de pesca. Sempre que possível, também são registrados os preços de primeira comercialização, ou preço pago ao produtor, por categoria de pescado.
 
-O termo “categoria de pescado” é utilizado ao invés de “espécie” pois, nas informações fornecidas pelos pescadores, a indicação do tipo de pescado capturado nem sempre aponta com exatidão uma espécie, no sentido biológico. Muitas vezes o nome comum, aqui chamado de categoria de pescado, refere-se a um gênero, a uma família ou até a um nível taxonômico mais amplo. 
+O termo "categoria de pescado" é utilizado ao invés de "espécie" pois, nas informações fornecidas pelos pescadores, a indicação do tipo de pescado capturado nem sempre aponta com exatidão uma espécie, no sentido biológico. Muitas vezes o nome comum, aqui chamado de categoria de pescado, refere-se a um gênero, a uma família ou até a um nível taxonômico mais amplo.
 
 Todos os dados obtidos nas entrevistas são registrados no aplicativo ProPesqMOB, seguindo as orientações de preenchimento definidas por protocolo. Uma vez inseridos no ProPesqMOB, os dados são enviados pela internet para o Sistema de Informações Pesqueiras ProPesqWEB, e ficam disponíveis para as etapas de validação, depuração, armazenamento e disponibilização.
 
@@ -72,22 +83,18 @@ Apenas após esta sequência de verificações, os dados são empregados para a 
 A atividade pesqueira, dividida entre Litoral Norte, Centro e Sul, foi caracterizada pelo do número de unidades produtivas registradas (embarcações, no caso de pesca embarcada ou pescadores, no caso de extrativismo manual), número de viagens de pesca, aparelhos de pesca utilizados, produção pesqueira obtida e categorias de pescado capturadas.
 
 
-```{r}
-# Obtendo os dados
-caminho <- "dados.csv"
-dados <- read.csv2(caminho)
-View(dados)
-
-```
 
 
 ### Resultados
+
 #### Litoral Norte
+
 #### Litoral Centro
+
 #### Litoral Sul
 
-``` {r}
 
+```{r}
 ### LITORAL NORTE
 
 # filtra só dados do Litoral Norte
@@ -98,21 +105,64 @@ dados_ln <-  dados %>% filter(., `localidade` == "Litoral Norte")
 
 n_mun_ln <- length(unique(dados_ln$municipio))
 
-
 # Calcula número de viagens totais de pesca no Litoral Norte
 
 nviag_ln <- (agg.nviagens_ln <- aggregate(dados_ln$n_descargas~dados_ln$localidade, FUN=sum))
 
-# Calcula número de unidades produtivas
+# Calcula número de unidades produtivas no Litoral Norte
 total_ups_ln <- length(unique(dados_ln$n_ups)) # preciso verificar se tá certo, pq não tem o codigo da Up como no banco de dados privado
 
 
+# Calcula total capturado em toneladas
+capturatotal_ln <- round(sum(dados_ln$kg_periodo, na.rm = TRUE) / 1000 , 1)
 
+# Receita total baseada no preço de primeira comercialização
+
+
+
+```
+
+```{r}
+# Soma kg por aparelho no Litoral Norte
+
+kg_aparelho_ln <- (agg.kg_aparelho <- aggregate(dados_ln$kg~dados_ln$aparelho, FUN=sum))
+
+# Remove a primeira linha
+kg_aparelho_ln <- kg_aparelho_ln[-1, ]
+
+# Renomeia colunas
+colnames(kg_aparelho_ln) <- c('aparelho' , 'kg')
+
+# Lista nome dos 3 aparelhos de pesca principais do Litoral Norte
+
+top_3_aparelhos_ln <- head(kg_aparelho_ln[order(kg_aparelho_ln$kg, decreasing =T),],3)
+```
+
+```{r}
+# soma kg por espécie do Litoral Norte
+
+kg_sp_ln <- (agg.kg_sp <- aggregate(dados_ln$kg~dados_ln$pescado, FUN=sum))
+
+# Remove a primeira linha
+kg_sp_ln <- kg_sp_ln[-1, ]
+
+# Renomeia colunas
+colnames(kg_sp_ln) <- c('pescado' , 'kg')
+
+# Lista nome das 3 principais capturas do Litoral Norte
+top_3_capturas_ln <- head(kg_sp_ln[order(kg_sp_ln$kg, decreasing =T),],3)
+
+```
+
+
+O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ln` viagens de pesca. As viagens foram realizadas por `r total_ups_ln` unidades produtivas. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r top_3_aparelhos_ln` (Figura @aparelhoslitoralsul).
+
+```{r}
 ### LITORAL SUL
 
 # filtra só dados do Litoral Sul
 
-dados_ls <-  dados %>% filter(., `localidade` == "Litoral Sul")
+#dados_ls <-  dados %>% filter(., `localidade` == "Litoral Sul")
 
 # Calcula número de viagens totais de pesca
 
@@ -133,9 +183,10 @@ nome_3_principais_capturas_litoralsul
 
 # Receita total baseada no preço de primeira comercialização
 valortotal_litoralsul <-
+  
 ```
 
-O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_litoralsul` viagens de pesca. As viagens foram realizadas por `r total_ups_litoralsul` unidades produtivas. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r nome_3_principais_aparelhos_litoralsul` (Figura @aparelhoslitoralsul). 
+O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_litoralsul` viagens de pesca. As viagens foram realizadas por `r total_ups_litoralsul` unidades produtivas. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r nome_3_principais_aparelhos_litoralsul` (Figura @aparelhoslitoralsul).
 
 ```{r aparelhoslitoralsul}
 # figura aparelhos x número de viagens
@@ -147,4 +198,4 @@ O total capturado no período foi de `r capturatotal_litoralsul` t. Os volumes d
 # tabela com captura por categoria de pescado
 ```
 
-Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R$  `r valortotal_litoralsul`.
+Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_litoralsul`.
