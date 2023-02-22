@@ -89,10 +89,6 @@ A atividade pesqueira, dividida entre Litoral Norte, Centro e Sul, foi caracteri
 
 #### Litoral Norte
 
-#### Litoral Centro
-
-#### Litoral Sul
-
 
 ```{r}
 ### LITORAL NORTE
@@ -109,16 +105,11 @@ n_mun_ln <- length(unique(dados_ln$municipio))
 
 nviag_ln <- (agg.nviagens_ln <- aggregate(dados_ln$n_descargas~dados_ln$localidade, FUN=sum))
 
-# Calcula número de unidades produtivas no Litoral Norte
-total_ups_ln <- length(unique(dados_ln$n_ups)) # preciso verificar se tá certo, pq não tem o codigo da Up como no banco de dados privado
-
 
 # Calcula total capturado em toneladas
 capturatotal_ln <- round(sum(dados_ln$kg_periodo, na.rm = TRUE) / 1000 , 1)
 
 # Receita total baseada no preço de primeira comercialização
-
-
 
 ```
 
@@ -155,7 +146,31 @@ top_3_capturas_ln <- head(kg_sp_ln[order(kg_sp_ln$kg, decreasing =T),],3)
 ```
 
 
-O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ln` viagens de pesca. As viagens foram realizadas por `r total_ups_ln` unidades produtivas. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r top_3_aparelhos_ln` (Figura @aparelhoslitoralsul).
+O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ln` viagens de pesca. Os aparelhos de pesca mais representativos em termos kg descarregado no período foram `r top_3_aparelhos_ln` (Figura @aparelhosln).
+
+```{r aparelhosln}
+# figura aparelhos x kg
+
+aparelhosln <- kg_aparelho_ln[order(kg_aparelho_ln$kg, decreasing =T),] |>
+knitr::kable(caption = 'Aparelhos de pesca por kg descarregado')
+
+
+```
+
+O total capturado no período foi de `r capturatotal_ln` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @capttotallitoralsul. As principais categorias de pescado do período foram `r top_3_capturas_ln`.
+
+```{r capttotalln}
+# tabela com captura por categoria de pescado
+
+capttotalln <- kg_sp_ln[order(kg_sp_ln$kg, decreasing =T),] |>
+knitr::kable(caption = 'Categoria de pescado por kg descarregado')
+```
+
+Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_ln`.
+
+#### Litoral Centro
+
+#### Litoral Sul
 
 ```{r}
 ### LITORAL SUL
@@ -196,6 +211,7 @@ O total capturado no período foi de `r capturatotal_litoralsul` t. Os volumes d
 
 ```{r capttotallitoralsul}
 # tabela com captura por categoria de pescado
+
 ```
 
 Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_litoralsul`.
