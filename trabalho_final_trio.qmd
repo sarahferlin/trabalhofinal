@@ -68,7 +68,6 @@ A seguir são apresentados a metodologia e os resultados do monitoramento no per
 
 #### Coleta dos dados pesqueiros
 
-
 No período deste relatório foram monitorados um total de `r nmunicipios` municípios em relação a sua atividade pesqueira. Os municípios foram divididos entre Litoral Norte, Litoral Centro e Litoral Sul.
 
 Os dados pesqueiros são obtidos por método censitário através de entrevistas com pescadores, realizadas por Agentes de Campo no momento da operação de descarga de pescado [@FAO1999; @Avila-da-Silva2007]. Trata-se de um monitoramento participativo, uma vez que os pescadores e mestres de embarcações fornecem as informações de forma voluntária mediante uma declaração de ética e uso de dados do Instituto de Pesca. Os Agentes de Campo, funcionários do projeto, são recrutados dentro das comunidades pesqueiras em que atuam.
@@ -89,13 +88,9 @@ Apenas após esta sequência de verificações, os dados são empregados para a 
 
 A atividade pesqueira, dividida entre Litoral Norte, Centro e Sul, foi caracterizada pelo do número de unidades produtivas registradas (embarcações, no caso de pesca embarcada ou pescadores, no caso de extrativismo manual), número de viagens de pesca, aparelhos de pesca utilizados, produção pesqueira obtida e categorias de pescado capturadas.
 
-
-
-
 ### Resultados
 
 #### Litoral Norte
-
 
 ```{r}
 ### LITORAL NORTE
@@ -152,7 +147,6 @@ top_3_capturas_ln <- head(kg_sp_ln[order(kg_sp_ln$kg, decreasing =T),],3)
 
 ```
 
-
 O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ln` viagens de pesca. Os aparelhos de pesca mais representativos em termos kg descarregado no período foram `r top_3_aparelhos_ln` (Figura @aparelhosln).
 
 ```{r aparelhosln}
@@ -176,6 +170,35 @@ knitr::kable(caption = 'Categoria de pescado por kg descarregado')
 Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_ln`.
 
 #### Litoral Centro
+
+
+```{r}
+### LITORAL Centro
+
+# filtra só dados do Litoral centro
+
+dados_lc <- dados %>% filter(., `localidade` == "Litoral Centro")
+
+# Calcula número de municípios Litoral Centro
+
+n_mun_lc <- length(unique(dados_lc$municipio))
+
+
+
+# Calcula número de viagens totais de pesca no Litoral Centro
+
+nviag_lc <- (agg.nviagens_lc <- aggregate(dados_lc$n_descargas~dados_lc$localidade, FUN=sum))
+
+  
+# Calcula número de unidades produtivas
+nup_total_lc <- (agg.nviagens_lc <- aggregate(dados_lc$n_ups~dados_lc$localidade, FUN=sum))
+
+
+  
+# Calcula total capturado em toneladas
+  capt_total_lc <- round(sum(dados_lc$kg_periodo, na.rm = TRUE) / 1000 , 1)
+
+```
 
 #### Litoral Sul
 
