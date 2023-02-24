@@ -181,44 +181,45 @@ Considerando-se o preço de primeira comercialização, estimou-se que toda a ca
 
 ```{r}
 ### LITORAL SUL
-
 # filtra só dados do Litoral Sul
+dados_ls <- dados[dados$localidade == "Litoral Sul",]
 
-#dados_ls <-  dados %>% filter(., `localidade` == "Litoral Sul")
-
-# Calcula número de viagens totais de pesca
-
-nviag_litoralsul <- 
-
-# Calcula número de unidades produtivas
-total_ups_litoralsul <- 
+# Calcula número de viagens totais de pesca do Litoral Sul
+nviag_ls <- aggregate(n_descargas~localidade, dados_ls, FUN=sum)
+nviag_ls$n_descargas
 
 # Lista nome dos 3 aparelhos de pesca principais do Litoral Sul
-nome_3_principais_aparelhos_litoralsul <- 
+capt_aparelho_ls <- aggregate(kg_periodo~aparelho_pesca, dados_ls, FUN=sum)
+dat.3_aparelhos_ls <- head(capt_aparelho_ls[order(capt_aparelho_ls$kg_periodo,decreasing=T),],3)
 
-# Calcula total capturado em toneladas
-capturatotal_litoralsul <- 
+top_3_aparelhos_ls <- paste0(dat.3_aparelhos_ls$aparelho_pesca[1],", ",
+dat.3_aparelhos_ls$aparelho_pesca[2], " e ",
+dat.3_aparelhos_ls$aparelho_pesca[3])
+
+# Calcula total capturado em toneladas do Litoral Sul
+capturatotal_ls <- sum(dados_ls$kg_periodo,na.rm=T)/1000
 
 # Lista nome das 3 principais capturas do Litoral Sul
-nome_3_principais_capturas_litoralsul
+#nome_3_principais_capturas_litoralsul
 # capturas principais caminho de como obter: head(capttotallitoralsul[order(capttotallitoralsul$kg, decreasing =T),],3)
-
 # Receita total baseada no preço de primeira comercialização
-valortotal_litoralsul <-
-  
+#valortotal_litoralsul <- 
+
 ```
 
-O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_litoralsul` viagens de pesca. As viagens foram realizadas por `r total_ups_litoralsul` unidades produtivas. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r nome_3_principais_aparelhos_litoralsul` (Figura @aparelhoslitoralsul).
+O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ls$n_descargas` viagens de pesca. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r top_3_aparelhos_ls` (Figura @aparelhoslitoralsul).
 
 ```{r aparelhoslitoralsul}
-# figura aparelhos x número de viagens
+# figura aparelhos x kg capturado
 ```
 
-O total capturado no período foi de `r capturatotal_litoralsul` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @capttotallitoralsul. As principais categorias de pescado do período foram `r nome_3_principais_capturas_litoralsul`.
+O total capturado no período foi de `r capturatotal_ls` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @capttotallitoralsul. As principais categorias de pescado do período foram `r nome_3_principais_capturas_litoralsul`.
 
 ```{r capttotallitoralsul}
 # tabela com captura por categoria de pescado
 
 ```
 
-Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_litoralsul`.
+Considerando-se
+o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R$ `r valortotal_litoralsul`.
+
