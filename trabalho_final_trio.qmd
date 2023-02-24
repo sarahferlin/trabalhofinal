@@ -10,10 +10,17 @@ lang: pt
 ---
 
 ```{r}
-#instalar pacotes
+# Define um vetor com os nomes dos pacotes necessarios
+pacotes <- c("dplyr", "stringr")
 
-#install.packages("dplyr") #para filtrar dados 
-library(dplyr)
+# Loop sobre os pacotes
+for (pacote in pacotes) {
+  # Verifica se o pacote está instalado e, se não estiver, instala o pacote
+  if (!require(pacote, character.only = TRUE)) {
+    install.packages(pacote)
+    library(pacote, character.only = TRUE)
+  }
+}
 ```
 
 ```{r}
