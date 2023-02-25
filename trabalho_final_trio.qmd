@@ -14,8 +14,14 @@ lang: pt
 ---
 
 ```{r}
+#| include: false
+#| warning: false
 # Define um vetor com os nomes dos pacotes necessarios
+<<<<<<< HEAD
 pacotes <- c("dplyr", "stringr", "ggplot2", "scales")
+=======
+pacotes <- c("dplyr", "stringr","ggplot2","scales")
+>>>>>>> ff175a762c087457e1de11a63cd7d044737838b7
 
 # Loop sobre os pacotes
 for (pacote in pacotes) {
@@ -45,7 +51,7 @@ periodorelatorio <- paste0("Julho a Dezembro de 2022") # escreva aqui o período
 
 caminho <- "dados.csv"
 dados <- read.csv2(caminho)
-View(dados)
+
 ```
 
 ```{r}
@@ -72,7 +78,6 @@ A seguir são apresentados a metodologia e os resultados do monitoramento no per
 
 #### Coleta dos dados pesqueiros
 
-
 No período deste relatório foram monitorados um total de `r nmunicipios` municípios em relação a sua atividade pesqueira. Os municípios foram divididos entre Litoral Norte, Litoral Centro e Litoral Sul.
 
 Os dados pesqueiros são obtidos por método censitário através de entrevistas com pescadores, realizadas por Agentes de Campo no momento da operação de descarga de pescado [@FAO1999; @Avila-da-Silva2007]. Trata-se de um monitoramento participativo, uma vez que os pescadores e mestres de embarcações fornecem as informações de forma voluntária mediante uma declaração de ética e uso de dados do Instituto de Pesca. Os Agentes de Campo, funcionários do projeto, são recrutados dentro das comunidades pesqueiras em que atuam.
@@ -97,7 +102,6 @@ A atividade pesqueira, dividida entre Litoral Norte, Centro e Sul, foi caracteri
 ### Resultados
 
 #### Litoral Norte
-
 
 ```{r}
 ### LITORAL NORTE
@@ -179,7 +183,6 @@ nome_especies <- knitr::combine_words(
 )
 ```
 
-
 O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ln` viagens de pesca. Os aparelhos de pesca mais representativos em termos kg descarregado no período foram `r nome_aparelhos` (Figura @fig-aparelhosln).
 
 ```{r fig-aparelhosln}
@@ -194,7 +197,7 @@ aparelhosln <- ggplot(data=kg_aparelho_ln, aes(x=reorder(aparelho,-kg),y=kg)) +
   scale_x_discrete(limits=rev) +
   theme_classic() +
   xlab("aparelhos de pesca")+
-  ylab("captura descarregada (t)") +
+  ylab("captura descarregada (kg)") +
   coord_flip()
 
  
@@ -218,7 +221,8 @@ Considerando-se o preço de primeira comercialização, estimou-se que toda a ca
 #### Litoral Sul
 
 ```{r}
-### LITORAL SUL
+#| warning: false
+
 # filtra só dados do Litoral Sul
 dados_ls <- dados[dados$localidade == "Litoral Sul",]
 
@@ -231,37 +235,83 @@ capt_aparelho_ls <- aggregate(kg_periodo~aparelho_pesca, dados_ls, FUN=sum)
 dat.3_aparelhos_ls <- head(capt_aparelho_ls[order(capt_aparelho_ls$kg_periodo,decreasing=T),],3)
 
 top_3_aparelhos_ls <- paste0(dat.3_aparelhos_ls$aparelho_pesca[1],", ",
-dat.3_aparelhos_ls$aparelho_pesca[2], " e ",
-dat.3_aparelhos_ls$aparelho_pesca[3])
+                             dat.3_aparelhos_ls$aparelho_pesca[2], " e ",
+                             dat.3_aparelhos_ls$aparelho_pesca[3])
 
 # Calcula total capturado em toneladas do Litoral Sul
-capturatotal_ls <- sum(dados_ls$kg_periodo,na.rm=T)/1000
+capturatotal_ls <- round(sum(dados_ls$kg_periodo,na.rm=T)/1000,1)
 
 # Lista nome das 3 principais capturas do Litoral Sul
-#nome_3_principais_capturas_litoralsul
-# capturas principais caminho de como obter: head(capttotallitoralsul[order(capttotallitoralsul$kg, decreasing =T),],3)
-# Receita total baseada no preço de primeira comercialização
-#valortotal_litoralsul <- 
+dat.pescado_ls <- aggregate(kg_periodo~pescado,dados_ls,FUN=sum)
+dat.3_pescados_ls <- head(dat.pescado_ls[order(dat.pescado_ls$kg_periodo,decreasing=T),],3)
+
+top_3_pescados_ls <- paste0(dat.3_pescados_ls$pescado[1],", ",
+                            dat.3_pescados_ls$pescado[2], " e ",
+                            dat.3_pescados_ls$pescado[3])
+
+
+# Receita total baseada no preço de primeira comercialização do Litoral Sul
+dados_ls$valor <- str_replace_all(dados_ls$valor, "R\\$ ","")
+dados_ls$valor <- str_replace_all(dados_ls$valor, "\\.","")
+dados_ls$valor <- str_replace_all(dados_ls$valor, ",",".")
+dados_ls$valor <- as.numeric(dados_ls$valor)
+
+valortotal_ls <- sum(dados_ls$valor)
+
+if (valortotal_ls>=1000000) {
+  valortotal_ls_format <- paste0(format(round(valortotal_ls/1000000,1),decimal.mark=",",big.mark=".")," milhões")
+}
+
+if (valortotal_ls<1000000) {
+  valortotal_ls_format <- paste0(format(round(valortotal_ls/1000,1),decimal.mark=",",big.mark=".")," mil"
+  )
+}
 
 ```
 
 O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ls$n_descargas` viagens de pesca. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r top_3_aparelhos_ls` (Figura @aparelhoslitoralsul).
 
 ```{r aparelhoslitoralsul}
+#| fig-cap: "Captura total (t) descarregada por aparelho de pesca."
+#| warning: false
+
 # figura aparelhos x kg capturado
+capt_aparelho_ls <- capt_aparelho_ls[order(capt_aparelho_ls$kg_periodo,decreasing=T),]
+capt_aparelho_ls$cton <- round(capt_aparelho_ls$kg_periodo/1000,1)
+
+ # Figura captura x aparelho pesca
+# barplot
+fig.capt_aparelho_ls <- ggplot(data=capt_aparelho_ls, aes(x=reorder(aparelho_pesca,-cton),y=cton)) + 
+  geom_bar(stat="identity",fill="black") +
+  scale_y_continuous(labels=comma_format(big.mark = ".", decimal.mark = ",")) +
+  scale_x_discrete(limits=rev) +
+  theme_classic() +
+  xlab("aparelhos de pesca")+
+  ylab("captura descarregada (t)") +
+  coord_flip()
+
+ fig.capt_aparelho_ls
+
 ```
 
-O total capturado no período foi de `r capturatotal_ls` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @capttotallitoralsul. As principais categorias de pescado do período foram `r nome_3_principais_capturas_litoralsul`.
+O total capturado no período foi de `r capturatotal_ls` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @capttotallitoralsul. As principais categorias de pescado do período foram `r top_3_pescados_ls`.
 
 ```{r capttotallitoralsul}
-# tabela com captura por categoria de pescado
+# tabela com captura por categoria de pescado do Litoral Sul
+dat.pescado_ls <- dat.pescado_ls[order(dat.pescado_ls$kg_periodo,decreasing=T),]
+dat.pescado_ls$cton <- round(dat.pescado_ls$kg_periodo/1000,3)
+tab.pescado_ls <- subset(dat.pescado_ls, select=c("pescado","cton"))
+names(tab.pescado_ls) <- c("Categoria de pescado", "Captura (t)")
+
+tab_ls <- knitr::kable(tab.pescado_ls, "pipe", caption = "Captura total (t) de cada categoria de pescado por mês.")
+tab_ls
 
 ```
 
-Considerando-se
-o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R$ `r valortotal_litoralsul`.
+Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_ls_format`.
 
 ### Considerações finais
+
 
 No período do presente relatório, a captura de algumas categorias de pescado pode ter sido afetada pela legislação vigente que determina os seguintes defesos na região de estudo:
 
@@ -272,4 +322,3 @@ Portaria IBAMA nº 52, de 30 de setembro de 2003: Determinação do período de 
 Portaria IBAMA nº 53, de 30 de setembro de 2003: Determinação do período de defeso do Guaiamum (Cardisoma guanhumi) de 1º de outubro a 31 de março.
 
 Portaria SUDEPE nº N-40, de 16 de dezembro de 1986: Determinação do período de defeso para ostras de 18 de dezembro a 18 de fevereiro. 
-
