@@ -17,11 +17,8 @@ lang: pt
 #| include: false
 #| warning: false
 # Define um vetor com os nomes dos pacotes necessarios
-<<<<<<< HEAD
+
 pacotes <- c("dplyr", "stringr", "ggplot2", "scales")
-=======
-pacotes <- c("dplyr", "stringr","ggplot2","scales")
->>>>>>> ff175a762c087457e1de11a63cd7d044737838b7
 
 # Loop sobre os pacotes
 for (pacote in pacotes) {
@@ -186,7 +183,7 @@ nome_especies <- knitr::combine_words(
 O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ln` viagens de pesca. Os aparelhos de pesca mais representativos em termos kg descarregado no período foram `r nome_aparelhos` (Figura @fig-aparelhosln).
 
 ```{r fig-aparelhosln}
-#| fig-cap: "Tabela com todos os aparelhos de pesca descarregados no Litoral Norte de Julho a Dezembro de 2022"
+#| fig-cap: "Captural total (kg) descarregada por aparelho de pesca"
 
 
  # Figura captura x aparelho pesca
@@ -206,7 +203,7 @@ aparelhosln <- ggplot(data=kg_aparelho_ln, aes(x=reorder(aparelho,-kg),y=kg)) +
 O total capturado no período foi de `r capturatotal_ln` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @fig-capttotalln. As principais categorias de pescado do período foram `r nome_especies`.
 
 ```{r fig-capttotalln}
-#| fig-cap: "Tabela com todas as catergorias de pescado descarregadas no Litoral Norte de Julho a Dezembro de 2022"
+#| fig-cap: "Captura total descarregada (kg) por categoria de pescado"
 
 # tabela com captura por categoria de pescado
 
