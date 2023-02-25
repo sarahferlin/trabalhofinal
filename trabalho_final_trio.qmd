@@ -114,7 +114,11 @@ n_mun_ln <- length(unique(dados_ln$municipio))
 # Calcula número de viagens totais de pesca no Litoral Norte
 
 nviag_ln <- (agg.nviagens_ln <- aggregate(dados_ln$n_descargas~dados_ln$localidade, FUN=sum))
+colnames(nviag_ln) <- c('localidade','n_desc')
 
+if (nviag_ln$n_desc<1000000) {
+  nviag_ln_format <- paste0(format(round(nviag_ln$n_desc/1000,1),decimal.mark=",",big.mark=".")," mil")
+}
 
 # Calcula total capturado em toneladas
 capturatotal_ln <- round(sum(dados_ln$kg_periodo, na.rm = TRUE) / 1000 , 1)
@@ -126,6 +130,7 @@ dados_ln$valor <- str_replace_all(dados_ln$valor, ",",".")
 dados_ln$valor <- as.numeric(dados_ln$valor)
 
 valortotal_ln <- sum(dados_ln$valor)
+
 
 if (valortotal_ln>=1000000) {
   valortotal_ln_format <- paste0(format(round(valortotal_ln/1000000,1),decimal.mark=",",big.mark=".")," milhões")
@@ -180,7 +185,7 @@ nome_especies <- knitr::combine_words(
 )
 ```
 
-O monitoramento dos municípios que compõem a área de estudo resultou, no período analisado, no registro global de `r nviag_ln` viagens de pesca. Os aparelhos de pesca mais representativos em termos kg descarregado no período foram `r nome_aparelhos` (Figura @fig-aparelhosln).
+O monitoramento dos municípios que compõem a área de estudo resultou, no período analisado, no registro global de `r nviag_ln_format` viagens de pesca. Os aparelhos de pesca mais representativos em termos kg descarregado no período foram `r nome_aparelhos` (@fig-aparelhosln).
 
 ```{r fig-aparelhosln}
 #| fig-cap: "Captural total (kg) descarregada por aparelho de pesca"
@@ -197,10 +202,10 @@ aparelhosln <- ggplot(data=kg_aparelho_ln, aes(x=reorder(aparelho,-kg),y=kg)) +
   ylab("captura descarregada (kg)") +
   coord_flip()
 
- 
+ aparelhosln
 ```
 
-O total capturado no período foi de `r capturatotal_ln` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @fig-capttotalln. As principais categorias de pescado do período foram `r nome_especies`.
+O total capturado no período foi de `r capturatotal_ln` t. Os volumes de captura por categoria de pescado encontram-se na @fig-capttotalln. As principais categorias de pescado do período foram `r nome_especies`.
 
 ```{r fig-capttotalln}
 #| fig-cap: "Captura total descarregada (kg) por categoria de pescado"
@@ -209,6 +214,8 @@ O total capturado no período foi de `r capturatotal_ln` t. Os volumes de captur
 
 capttotalln <- kg_sp_ln[order(kg_sp_ln$kg, decreasing =T),] |>
 knitr::kable(caption = 'Categoria de pescado por kg descarregado')
+
+capttotalln
 ```
 
 Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_ln_format`.
@@ -226,6 +233,11 @@ dados_lc <- dados %>% filter(., `localidade` == "Litoral Centro")
 # Calcula número de viagens totais de pesca no Litoral Centro
 
 nviag_lc <- (agg.nviagens_lc <- aggregate(dados_lc$n_descargas~dados_lc$localidade, FUN=sum))
+colnames(nviag_lc) <- c('localidade','n_desc')
+
+if (nviag_lc$n_desc<1000000) {
+  nviag_ln_format <- paste0(format(round(nviag_lc$n_desc/1000,1),decimal.mark=",",big.mark=".")," mil")
+}
   
 
 # 3 principais aparelhos de pesca do Litoral Centro
@@ -271,7 +283,7 @@ if (valortotal_lc<1000000) {
 
 ```
 
-O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_lc` viagens de pesca. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r ord_3_app_lc` (Figura @fig-aparelhoslc).
+O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ln_format` viagens de pesca. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r ord_3_app_lc` (@fig-aparelhoslc).
 
 ```{r fig-aparelhoslc}
 #| fig-cap: "Captura total (t) descarregada por aparelho de pesca."
@@ -295,9 +307,11 @@ fig.capt_app_lc <- ggplot(data=capt_app_lc, aes(x=reorder(aparelho_pesca,-cton),
  fig.capt_app_lc
 ```
 
-O total capturado no período foi de `r capt_total_lc` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @fig-capttotallc. As principais categorias de pescado do período foram `r ord_3_spp_lc`.
+O total capturado no período foi de `r capt_total_lc` t. Os volumes de captura por categoria de pescado encontram-se na @fig-capttotallc. As principais categorias de pescado do período foram `r ord_3_spp_lc`.
 
 ```{r fig-capttotallc}
+#| fig-cap: "Captura total (t) descarregada por categoria de pescado."
+#| warning: false
 # tabela com captura por categoria de pescado do Litoral Centro
 capt_spp_lc <- capt_spp_lc[order(capt_spp_lc$kg_periodo,decreasing=T),]
 capt_spp_lc$cton <- round(capt_spp_lc$kg_periodo/1000,3)
@@ -320,7 +334,12 @@ dados_ls <- dados[dados$localidade == "Litoral Sul",]
 
 # Calcula número de viagens totais de pesca do Litoral Sul
 nviag_ls <- aggregate(n_descargas~localidade, dados_ls, FUN=sum)
-nviag_ls$n_descargas
+
+colnames(nviag_ls) <- c('localidade','n_desc')
+
+if (nviag_ls$n_desc<1000000) {
+  nviag_ln_format <- paste0(format(round(nviag_ls$n_desc/1000,1),decimal.mark=",",big.mark=".")," mil")
+}
 
 # Lista nome dos 3 aparelhos de pesca principais do Litoral Sul
 capt_aparelho_ls <- aggregate(kg_periodo~aparelho_pesca, dados_ls, FUN=sum)
@@ -361,7 +380,7 @@ if (valortotal_ls<1000000) {
 
 ```
 
-O monitoramento dos municípios que compõem a área de estudo resultou, no período analisado, no registro global de `r nviag_ls$n_descargas` viagens de pesca. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r top_3_aparelhos_ls` (Figura @fig-aparelhoslitoralsul).
+O monitoramento dos municípios que compõem a área de estudo resultou, no período analisado, no registro global de `r nviag_ls$n_descargas` viagens de pesca. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r top_3_aparelhos_ls` (@fig-aparelhoslitoralsul).
 
 ```{r fig-aparelhoslitoralsul}
 #| fig-cap: "Captura total (t) descarregada por aparelho de pesca."
@@ -386,9 +405,11 @@ fig.capt_aparelho_ls <- ggplot(data=capt_aparelho_ls, aes(x=reorder(aparelho_pes
 
 ```
 
-O total capturado no período foi de `r capturatotal_ls` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @fig-capttotallitoralsul. As principais categorias de pescado do período foram `r top_3_pescados_ls`.
+O total capturado no período foi de `r capturatotal_ls` t. Os volumes de captura por categoria de pescado encontram-se na @fig-capttotallitoralsul. As principais categorias de pescado do período foram `r top_3_pescados_ls`.
 
 ```{r fig-capttotallitoralsul}
+#| fig-cap: "Captura total (t) descarregada por categoria de pescado."
+#| warning: false
 # tabela com captura por categoria de pescado do Litoral Sul
 dat.pescado_ls <- dat.pescado_ls[order(dat.pescado_ls$kg_periodo,decreasing=T),]
 dat.pescado_ls$cton <- round(dat.pescado_ls$kg_periodo/1000,3)
