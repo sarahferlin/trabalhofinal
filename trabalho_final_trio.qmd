@@ -15,7 +15,7 @@ lang: pt
 
 ```{r}
 # Define um vetor com os nomes dos pacotes necessarios
-pacotes <- c("dplyr", "stringr")
+pacotes <- c("dplyr", "stringr", "ggplot2", "scales")
 
 # Loop sobre os pacotes
 for (pacote in pacotes) {
@@ -124,7 +124,15 @@ dados_ln$valor <- str_replace_all(dados_ln$valor, "\\.","")
 dados_ln$valor <- str_replace_all(dados_ln$valor, ",",".")
 dados_ln$valor <- as.numeric(dados_ln$valor)
 
-valortotal_ln <- round(sum(dados_ln$valor / 1000000 , 1))
+valortotal_ln <- sum(dados_ln$valor)
+
+if (valortotal_ln>=1000000) {
+  valortotal_ln_format <- paste0(format(round(valortotal_ln/1000000,1),decimal.mark=",",big.mark=".")," milhões")
+}
+
+if (valortotal_ln<1000000) {
+  valortotal_format2 <- paste0(format(round(valortotal_ln/1000,1),decimal.mark=",",big.mark=".")," mil")
+}
 
 ```
 
@@ -177,12 +185,19 @@ O monitoramento dos municípios que compõem a área de estudo, resultou, no per
 ```{r fig-aparelhosln}
 #| fig-cap: "Tabela com todos os aparelhos de pesca descarregados no Litoral Norte de Julho a Dezembro de 2022"
 
-# figura aparelhos x kg
 
-aparelhosln <- kg_aparelho_ln[order(kg_aparelho_ln$kg, decreasing =T),] |>
-knitr::kable(caption = 'Aparelhos de pesca por kg descarregado')
+ # Figura captura x aparelho pesca
+# barplot
+aparelhosln <- ggplot(data=kg_aparelho_ln, aes(x=reorder(aparelho,-kg),y=kg)) +
+  geom_bar(stat="identity",fill="black") +
+  scale_y_continuous(labels=comma_format(big.mark = ".", decimal.mark = ",")) +
+  scale_x_discrete(limits=rev) +
+  theme_classic() +
+  xlab("aparelhos de pesca")+
+  ylab("captura descarregada (t)") +
+  coord_flip()
 
-
+ 
 ```
 
 O total capturado no período foi de `r capturatotal_ln` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @fig-capttotalln. As principais categorias de pescado do período foram `r nome_especies`.
@@ -196,7 +211,7 @@ capttotalln <- kg_sp_ln[order(kg_sp_ln$kg, decreasing =T),] |>
 knitr::kable(caption = 'Categoria de pescado por kg descarregado')
 ```
 
-Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_ln` milhões.
+Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_ln_format`.
 
 #### Litoral Centro
 
