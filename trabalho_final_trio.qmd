@@ -90,8 +90,6 @@ Apenas após esta sequência de verificações, os dados são empregados para a 
 A atividade pesqueira, dividida entre Litoral Norte, Centro e Sul, foi caracterizada pelo do número de unidades produtivas registradas (embarcações, no caso de pesca embarcada ou pescadores, no caso de extrativismo manual), número de viagens de pesca, aparelhos de pesca utilizados, produção pesqueira obtida e categorias de pescado capturadas.
 
 
-
-
 ### Resultados
 
 #### Litoral Norte
@@ -117,6 +115,12 @@ nviag_ln <- (agg.nviagens_ln <- aggregate(dados_ln$n_descargas~dados_ln$localida
 capturatotal_ln <- round(sum(dados_ln$kg_periodo, na.rm = TRUE) / 1000 , 1)
 
 # Receita total baseada no preço de primeira comercialização
+dados_ln$valor <- str_replace_all(dados_ln$valor, "R\\$ ","")
+dados_ln$valor <- str_replace_all(dados_ln$valor, "\\.","")
+dados_ln$valor <- str_replace_all(dados_ln$valor, ",",".")
+dados_ln$valor <- as.numeric(dados_ln$valor)
+
+valortotal_ln <- sum(dados_ln$valor)
 
 ```
 
