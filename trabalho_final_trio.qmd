@@ -3,7 +3,11 @@ title: "Trabalho Final - Curso de Verão IME"
 author: "Ana Martinelli, Jessica Corsso , Sarah Ferlin"
 format: html
 editor: visual
-message: false
+knitr: 
+  opts_chunk: 
+   message: false
+   echo: false
+   warning: false
 date: today
 bibliography: bibliografiajessica.bib
 lang: pt
@@ -90,6 +94,7 @@ Apenas após esta sequência de verificações, os dados são empregados para a 
 
 A atividade pesqueira, dividida entre Litoral Norte, Centro e Sul, foi caracterizada pelo do número de unidades produtivas registradas (embarcações, no caso de pesca embarcada ou pescadores, no caso de extrativismo manual), número de viagens de pesca, aparelhos de pesca utilizados, produção pesqueira obtida e categorias de pescado capturadas.
 
+
 ### Resultados
 
 #### Litoral Norte
@@ -114,6 +119,12 @@ nviag_ln <- (agg.nviagens_ln <- aggregate(dados_ln$n_descargas~dados_ln$localida
 capturatotal_ln <- round(sum(dados_ln$kg_periodo, na.rm = TRUE) / 1000 , 1)
 
 # Receita total baseada no preço de primeira comercialização
+dados_ln$valor <- str_replace_all(dados_ln$valor, "R\\$ ","")
+dados_ln$valor <- str_replace_all(dados_ln$valor, "\\.","")
+dados_ln$valor <- str_replace_all(dados_ln$valor, ",",".")
+dados_ln$valor <- as.numeric(dados_ln$valor)
+
+valortotal_ln <- round(sum(dados_ln$valor / 1000000 , 1))
 
 ```
 
@@ -131,6 +142,12 @@ colnames(kg_aparelho_ln) <- c('aparelho' , 'kg')
 # Lista nome dos 3 aparelhos de pesca principais do Litoral Norte
 
 top_3_aparelhos_ln <- head(kg_aparelho_ln[order(kg_aparelho_ln$kg, decreasing =T),],3)
+
+nome_aparelhos <- knitr::combine_words(
+ unique(top_3_aparelhos_ln$aparelho),
+  and = " e ", 
+  oxford_comma = FALSE
+)
 ```
 
 ```{r}
@@ -147,11 +164,18 @@ colnames(kg_sp_ln) <- c('pescado' , 'kg')
 # Lista nome das 3 principais capturas do Litoral Norte
 top_3_capturas_ln <- head(kg_sp_ln[order(kg_sp_ln$kg, decreasing =T),],3)
 
+nome_especies <- knitr::combine_words(
+ unique(top_3_capturas_ln$pescado),
+  and = " e ", 
+  oxford_comma = FALSE
+)
 ```
 
-O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ln` viagens de pesca. Os aparelhos de pesca mais representativos em termos kg descarregado no período foram `r top_3_aparelhos_ln` (Figura @aparelhosln).
+O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ln` viagens de pesca. Os aparelhos de pesca mais representativos em termos kg descarregado no período foram `r nome_aparelhos` (Figura @fig-aparelhosln).
 
-```{r aparelhosln}
+```{r fig-aparelhosln}
+#| fig-cap: "Tabela com todos os aparelhos de pesca descarregados no Litoral Norte de Julho a Dezembro de 2022"
+
 # figura aparelhos x kg
 
 aparelhosln <- kg_aparelho_ln[order(kg_aparelho_ln$kg, decreasing =T),] |>
@@ -160,16 +184,18 @@ knitr::kable(caption = 'Aparelhos de pesca por kg descarregado')
 
 ```
 
-O total capturado no período foi de `r capturatotal_ln` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @capttotallitoralsul. As principais categorias de pescado do período foram `r top_3_capturas_ln`.
+O total capturado no período foi de `r capturatotal_ln` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @fig-capttotalln. As principais categorias de pescado do período foram `r nome_especies`.
 
-```{r capttotalln}
+```{r fig-capttotalln}
+#| fig-cap: "Tabela com todas as catergorias de pescado descarregadas no Litoral Norte de Julho a Dezembro de 2022"
+
 # tabela com captura por categoria de pescado
 
 capttotalln <- kg_sp_ln[order(kg_sp_ln$kg, decreasing =T),] |>
 knitr::kable(caption = 'Categoria de pescado por kg descarregado')
 ```
 
-Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_ln`.
+Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_ln` milhões.
 
 #### Litoral Centro
 
@@ -213,6 +239,15 @@ dados_ls$valor <- as.numeric(dados_ls$valor)
 
 valortotal_ls <- sum(dados_ls$valor)
 
+if (valortotal_ls>=1000000) {
+  valortotal_ls_format <- paste0(format(round(valortotal_ls/1000000,1),decimal.mark=",",big.mark=".")," milhões")
+}
+
+if (valortotal_ls<1000000) {
+  valortotal_ls_format <- paste0(format(round(valortotal_ls/1000,1),decimal.mark=",",big.mark=".")," mil"
+  )
+}
+
 ```
 
 O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ls$n_descargas` viagens de pesca. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r top_3_aparelhos_ls` (Figura @aparelhoslitoralsul).
@@ -254,16 +289,17 @@ tab_ls
 
 ```
 
-Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_ls`.
+Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_ls_format`.
 
 ### Considerações finais
 
-No período do presente relatório, a captura de algumas categorias de pescado pode ter sido afetada pela legislação vigente que determina os seguintes defesos na região de estudo: 
 
-Instrução Normativa IBAMA nº 105, de 20 de julho de 2006: Determinação do período de defeso para mexilhões (Perna perna) de 1º de setembro a 31 de dezembro. 
+No período do presente relatório, a captura de algumas categorias de pescado pode ter sido afetada pela legislação vigente que determina os seguintes defesos na região de estudo:
 
-Portaria IBAMA nº 52, de 30 de setembro de 2003: Determinação do período de defeso do Caranguejo-Uçá (Ucides cordatus) de 1º de outubro a 30 de novembro para todos os indivíduos e no período de 1º a 31 de dezembro somente para as fêmeas. 
+Instrução Normativa IBAMA nº 105, de 20 de julho de 2006: Determinação do período de defeso para mexilhões (Perna perna) de 1º de setembro a 31 de dezembro.
 
-Portaria IBAMA nº 53, de 30 de setembro de 2003: Determinação do período de defeso do Guaiamum (Cardisoma guanhumi) de 1º de outubro a 31 de março. 
+Portaria IBAMA nº 52, de 30 de setembro de 2003: Determinação do período de defeso do Caranguejo-Uçá (Ucides cordatus) de 1º de outubro a 30 de novembro para todos os indivíduos e no período de 1º a 31 de dezembro somente para as fêmeas.
+
+Portaria IBAMA nº 53, de 30 de setembro de 2003: Determinação do período de defeso do Guaiamum (Cardisoma guanhumi) de 1º de outubro a 31 de março.
 
 Portaria SUDEPE nº N-40, de 16 de dezembro de 1986: Determinação do período de defeso para ostras de 18 de dezembro a 18 de fevereiro. 
