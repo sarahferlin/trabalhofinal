@@ -180,7 +180,7 @@ nome_especies <- knitr::combine_words(
 )
 ```
 
-O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ln` viagens de pesca. Os aparelhos de pesca mais representativos em termos kg descarregado no período foram `r nome_aparelhos` (Figura @fig-aparelhosln).
+O monitoramento dos municípios que compõem a área de estudo resultou, no período analisado, no registro global de `r nviag_ln` viagens de pesca. Os aparelhos de pesca mais representativos em termos kg descarregado no período foram `r nome_aparelhos` (Figura @fig-aparelhosln).
 
 ```{r fig-aparelhosln}
 #| fig-cap: "Captural total (kg) descarregada por aparelho de pesca"
@@ -266,7 +266,7 @@ if (valortotal_ls<1000000) {
 
 ```
 
-O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_ls$n_descargas` viagens de pesca. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r top_3_aparelhos_ls` (Figura @aparelhoslitoralsul).
+O monitoramento dos municípios que compõem a área de estudo resultou, no período analisado, no registro global de `r nviag_ls$n_descargas` viagens de pesca. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r top_3_aparelhos_ls` (Figura @aparelhoslitoralsul).
 
 ```{r aparelhoslitoralsul}
 #| fig-cap: "Captura total (t) descarregada por aparelho de pesca."
