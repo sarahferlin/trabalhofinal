@@ -215,6 +215,101 @@ Considerando-se o preço de primeira comercialização, estimou-se que toda a ca
 
 #### Litoral Centro
 
+```{r}
+#| warning: false
+
+# filtra só dados do Litoral centro
+
+dados_lc <- dados %>% filter(., `localidade` == "Litoral Centro")
+
+
+# Calcula número de viagens totais de pesca no Litoral Centro
+
+nviag_lc <- (agg.nviagens_lc <- aggregate(dados_lc$n_descargas~dados_lc$localidade, FUN=sum))
+  
+
+# 3 principais aparelhos de pesca do Litoral Centro
+capt_app_lc <- aggregate(kg_periodo~aparelho_pesca, dados_lc, FUN=sum)
+
+capt_3_app_lc <- head(capt_app_lc[order(capt_app_lc$kg_periodo, decreasing = T),],3)
+
+ ord_3_app_lc <- paste0(capt_3_app_lc$aparelho_pesca[1],", ",
+                        capt_3_app_lc$aparelho_pesca[2], " e ",
+                        capt_3_app_lc$aparelho_pesca[3])
+  
+  
+# Calcula total capturado em toneladas do litoral centro
+  capt_total_lc <- round(sum(dados_lc$kg_periodo, na.rm = TRUE) / 1000 , 1)
+   # View(capt_total_lc)
+    
+# 3 Principais categorias de pescado do Litoral Centro
+    capt_spp_lc <- aggregate(kg_periodo~pescado, dados_lc, FUN=sum)
+	capt_3spp_lc <- head(capt_spp_lc[order(capt_spp_lc$kg_periodo, decreasing = T),],3)
+
+ord_3_spp_lc <- paste0(capt_3spp_lc$pescado[1],", ",
+                       capt_3spp_lc$pescado[2], " e ",
+                       capt_3spp_lc$pescado[3])
+  
+  # Receita total baseada no preço de primeira comercialização do litoral centro
+
+dados_lc$valor <- str_replace_all(dados_lc$valor, "R\\$ ","")
+dados_lc$valor <- str_replace_all(dados_lc$valor, "\\.","")
+dados_lc$valor <- str_replace_all(dados_lc$valor, ",",".")
+dados_lc$valor <- as.numeric(dados_lc$valor)
+
+valortotal_lc <- sum(dados_lc$valor)
+
+if (valortotal_lc>=1000000) {
+  valortotal_lc_format <- paste0(format(round(valortotal_lc/1000000,1),decimal.mark=",",big.mark=".")," milhões")
+}
+
+if (valortotal_lc<1000000) {
+  valortotal_lc_format <- paste0(format(round(valortotal_lc/1000,1),decimal.mark=",",big.mark=".")," mil"
+  )
+}
+
+
+```
+
+O monitoramento dos municípios que compõem a área de estudo, resultou, no período analisado, no registro global de `r nviag_lc` viagens de pesca. Os aparelhos de pesca mais representativos em termos de número de viagens no período foram `r ord_3_app_lc` (Figura @fig-aparelhoslc).
+
+```{r fig-aparelhoslc}
+#| fig-cap: "Captura total (t) descarregada por aparelho de pesca."
+#| warning: false
+
+# figura aparelhos x kg capturado
+capt_app_lc <- capt_app_lc[order(capt_app_lc$kg_periodo,decreasing=T),]
+capt_app_lc$cton <- round(capt_app_lc$kg_periodo/1000,1)
+
+ # Figura captura x aparelho pesca
+# barplot
+fig.capt_app_lc <- ggplot(data=capt_app_lc, aes(x=reorder(aparelho_pesca,-cton),y=cton)) + 
+  geom_bar(stat="identity",fill="black") +
+  scale_y_continuous(labels=comma_format(big.mark = ".", decimal.mark = ",")) +
+  scale_x_discrete(limits=rev) +
+  theme_classic() +
+  xlab("aparelhos de pesca")+
+  ylab("captura descarregada (t)") +
+  coord_flip()
+
+ fig.capt_app_lc
+```
+
+O total capturado no período foi de `r capt_total_lc` t. Os volumes de captura por categoria de pescado encontram-se na Tabela @fig-capttotallc. As principais categorias de pescado do período foram `r ord_3_spp_lc`.
+
+```{r fig-capttotallc}
+# tabela com captura por categoria de pescado do Litoral Centro
+capt_spp_lc <- capt_spp_lc[order(capt_spp_lc$kg_periodo,decreasing=T),]
+capt_spp_lc$cton <- round(capt_spp_lc$kg_periodo/1000,3)
+tab_pescado_lc <- subset(capt_spp_lc, select=c("pescado","cton"))
+names(tab_pescado_lc) <- c("Categoria de pescado", "Captura (t)")
+
+tab_lc <- knitr::kable(tab_pescado_lc, "pipe", caption = "Captura total (t) de cada categoria de pescado")
+tab_lc
+```
+
+Considerando-se o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R\$ `r valortotal_lc_format`.
+
 #### Litoral Sul
 
 ```{r}
