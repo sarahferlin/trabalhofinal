@@ -3,7 +3,11 @@ title: "Trabalho Final - Curso de Verão IME"
 author: "Ana Martinelli, Jessica Corsso , Sarah Ferlin"
 format: html
 editor: visual
-message: false
+knitr: 
+  opts_chunk: 
+   message: false
+   echo: false
+   warning: false
 date: today
 bibliography: bibliografiajessica.bib
 lang: pt
