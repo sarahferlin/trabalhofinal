@@ -246,3 +246,15 @@ O total capturado no período foi de `r capturatotal_ls` t. Os volumes de captur
 Considerando-se
 o preço de primeira comercialização, estimou-se que toda a captura do período gerou uma receita de aproximadamente R$ `r valortotal_litoralsul`.
 
+### Considerações finais
+
+No período do presente relatório, a captura de algumas categorias de pescado pode ter sido afetada pela legislação vigente que determina os seguintes defesos na região de estudo:
+
+Instrução Normativa IBAMA nº 105, de 20 de julho de 2006: Determinação do período de defeso para mexilhões (Perna perna) de 1º de setembro a 31 de dezembro.
+
+Portaria IBAMA nº 52, de 30 de setembro de 2003: Determinação do período de defeso do Caranguejo-Uçá (Ucides cordatus) de 1º de outubro a 30 de novembro para todos os indivíduos e no período de 1º a 31 de dezembro somente para as fêmeas.
+
+Portaria IBAMA nº 53, de 30 de setembro de 2003: Determinação do período de defeso do Guaiamum (Cardisoma guanhumi) de 1º de outubro a 31 de março.
+
+Portaria SUDEPE nº N-40, de 16 de dezembro de 1986: Determinação do período de defeso para ostras de 18 de dezembro a 18 de fevereiro. 
+
